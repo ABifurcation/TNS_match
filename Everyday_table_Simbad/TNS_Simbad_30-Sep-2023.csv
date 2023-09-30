@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,DiscoveryDate,Mag,MagUnit,Filter,Reporter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info
+2023tud,20:25:09.630,+03:16:44.54,2023-09-27 18:38:52.800,17.13,ABMag,G - Gaia,S.T. Hodgkin,0.048,QSO,[VV96] J202510.8+031645,['[VV96] J202510.8+031645' '306.29' '3.279' '0.048' 'inf' 'QSO' 'QSO']
+2023tul,18:34:44.895,+30:35:29.35,2023-09-29 03:36:32.832,19.5892,ABMag,r - ZTF,Patrick Aleo (UIUC),1.276,Galaxy,LEDA 1909873,['LEDA 1909873' '278.687' '30.591' '1.276' 'inf' 'Galaxy' 'G']
+2023tuj,03:22:10.187,-16:45:32.45,2023-09-27 12:38:33.792,19.28,ABMag,y - P1,D. O. Jones (UC Santa Cruz),2.557,Galaxy,LEDA  893932,['LEDA  893932' '50.542' '-16.76' '2.557' 'inf' 'Galaxy' 'G']
