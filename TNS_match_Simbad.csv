@@ -15,7 +15,9 @@ TNS_ID,RA,DEC,DiscoveryDate,Mag,MagUnit,Filter,Reporter,Sep_arcsec,Gal_1_type,Ga
  'G']",,,,,,
 2023ttq,17:30:50.660,+54:43:35.11,2023-09-24 03:57:49.003,20.3113,ABMag,r - ZTF,A. Munoz-Arancibia,0.303,Galaxy,Gaia DR3 1420906886691099648,"['Gaia DR3 1420906886691099648' '262.711' '54.727' '0.303' 'inf' 'Galaxy'
  'G']",,,,,,
+2023txp,09:16:53.090,-01:37:27.19,2023-10-01 15:25:55.200,18.87,ABMag,G - Gaia,S.T. Hodgkin,0.417,Galaxy,GAMA J091653.07-013726.9,['GAMA J091653.07-013726.9' '139.221' '-1.624' '0.417' 'inf' 'Galaxy' 'G'],,,,,,
 2023tol,22:13:30.135,-22:53:46.63,2023-09-24 04:01:37.056,19.3834,ABMag,g - Sloan,Tomás Cabrera (CMU),0.418,Galaxy,6dFGS gJ221330.2-225347,['6dFGS gJ221330.2-225347' '333.376' '-22.896' '0.418' 'inf' 'Galaxy' 'G'],,,,,,
+2019aasz,15:17:49.199,+04:09:44.82,2019-03-01 10:36:12.384,16.5739,ABMag,r - ZTF,K. De (Caltech) on behalf of ZTF,0.424,LINER,UGC  9804,['UGC  9804' '229.455' '4.163' '0.424' 'inf' 'LINER' 'LIN'],Galaxy,LEDA  200323,['LEDA  200323' '229.457' '4.162' '8.455' 'inf' 'Galaxy' 'G'],,,
 2023tpy,08:02:52.606,+75:07:54.65,2023-09-25 10:16:08.003,19.0252,ABMag,g - ZTF,A. Munoz-Arancibia,0.436,Galaxy,Gaia DR3 1135790018232209920,"['Gaia DR3 1135790018232209920' '120.719' '75.132' '0.436' 'inf' 'Galaxy'
  'G']",,,,,,
 2023tpl,07:08:41.680,+54:46:35.09,2023-09-25 12:55:18.624,17.692,ABMag,cyan - ATLAS,J. Tonry,0.442,GtowardsCl,MCG+09-12-038,['MCG+09-12-038' '107.174' '54.777' '0.442' '0.163' 'GtowardsCl' 'GiC'],,,,,,
@@ -23,6 +25,7 @@ TNS_ID,RA,DEC,DiscoveryDate,Mag,MagUnit,Filter,Reporter,Sep_arcsec,Gal_1_type,Ga
 2023tsy,00:31:52.500,-03:37:42.57,2023-09-26 03:52:57.792,18.5,ABMag,orange - ATLAS,J. Tonry,0.649,Galaxy,2MASX J00315248-0337425,['2MASX J00315248-0337425' '7.969' '-3.629' '0.649' 'inf' 'Galaxy' 'G'],,,,,,
 2023tsh,22:17:19.110,-35:49:52.21,2023-09-25 17:51:21.600,18.32,ABMag,G - Gaia,S.T. Hodgkin,0.732,Galaxy,2dFGRS TGS588Z262,['2dFGRS TGS588Z262' '334.33' '-35.831' '0.732' 'inf' 'Galaxy' 'G'],,,,,,
 2023tou,22:18:20.254,-17:46:08.13,2023-09-24 04:40:35.040,21.6102,ABMag,g - Sloan,Tomás Cabrera (CMU),0.782,Galaxy,LEDA  877839,['LEDA  877839' '334.584' '-17.769' '0.782' 'inf' 'Galaxy' 'G'],,,,,,
+2022aeql,02:15:22.230,-05:18:28.73,2022-10-02 08:06:33.696,19.9012,ABMag,r - ZTF,K. De (Caltech) on behalf of ZTF,0.859,Galaxy,LEDA  175003,['LEDA  175003' '33.843' '-5.308' '0.859' 'inf' 'Galaxy' 'G'],,,,,,
 2023tql,00:13:48.317,+22:32:31.08,2023-09-19 09:42:50.996,19.926,ABMag,g - ZTF,A. Munoz-Arancibia,0.95,Galaxy,LEDA 1671884,['LEDA 1671884' '3.451' '22.542' '0.95' 'inf' 'Galaxy' 'G'],,,,,,
 2023tll,22:43:40.823,-34:48:32.62,2023-09-21 03:53:30.624,18.627,ABMag,orange - ATLAS,J. Tonry,1.133,Galaxy,2dFGRS TGS533Z131,['2dFGRS TGS533Z131' '340.92' '-34.809' '1.133' 'inf' 'Galaxy' 'G'],,,,,,
 2023tjv,05:49:29.696,-25:00:54.20,2023-09-21 08:00:55.872,18.921,ABMag,orange - ATLAS,J. Tonry,1.201,Galaxy,LEDA  783584,['LEDA  783584' '87.374' '-25.015' '1.201' 'inf' 'Galaxy' 'G'],,,,,,
@@ -31,6 +34,7 @@ TNS_ID,RA,DEC,DiscoveryDate,Mag,MagUnit,Filter,Reporter,Sep_arcsec,Gal_1_type,Ga
 2023tml,23:45:16.226,-26:03:13.34,2023-09-24 02:26:13.056,18.694,ABMag,orange - ATLAS,J. Tonry,1.336,Galaxy,2MASX J23451629-2603129,['2MASX J23451629-2603129' '356.318' '-26.054' '1.336' 'inf' 'Galaxy' 'G'],,,,,,
 2023tvk,16:39:11.081,+49:08:04.44,2023-10-01 05:35:02.688,18.199,ABMag,orange - ATLAS,J. Tonry,1.863,Galaxy,LEDA 2334434,['LEDA 2334434' '249.795' '49.135' '1.863' 'inf' 'Galaxy' 'G'],Galaxy,LEDA 2334377,['LEDA 2334377' '249.797' '49.132' '7.744' 'inf' 'Galaxy' 'G'],,,
 2023tog,22:04:20.455,-24:41:16.83,2023-09-24 04:03:06.912,21.3456,ABMag,g - Sloan,Tomás Cabrera (CMU),1.983,Galaxy,2dFGRS TGS060Z214,['2dFGRS TGS060Z214' '331.086' '-24.688' '1.983' 'inf' 'Galaxy' 'G'],,,,,,
+2023txx,21:57:13.430,-09:45:51.15,2023-10-03 05:46:39.072,20.28,ABMag,w - P1,K. C. Chambers,2.101,Galaxy,LEDA  986729,['LEDA  986729' '329.305' '-9.764' '2.101' 'inf' 'Galaxy' 'G'],,,,,,
 2023toa,22:53:59.735,-28:34:14.88,2023-09-24 05:26:56.256,21.6926,ABMag,g - Sloan,Tomás Cabrera (CMU),2.102,Galaxy,2dFGRS TGS262Z139,['2dFGRS TGS262Z139' '343.498' '-28.571' '2.102' 'inf' 'Galaxy' 'G'],,,,,,
 2023tvn,17:09:56.140,-82:14:09.71,2023-09-20 17:35:56.256,18.537,ABMag,orange - ATLAS,J. Tonry,2.112,Galaxy,2MASX J17095629-8214119,"['2MASX J17095629-8214119' '257.484' '-82.237' '2.112' '2.335' 'Galaxy'
  'G']",,,,,,
@@ -38,6 +42,7 @@ TNS_ID,RA,DEC,DiscoveryDate,Mag,MagUnit,Filter,Reporter,Sep_arcsec,Gal_1_type,Ga
 2023tpw,07:05:26.262,+51:24:01.45,2023-09-25 10:22:27.998,20.5138,ABMag,g - ZTF,A. Munoz-Arancibia,2.168,Galaxy,LEDA 2393474,['LEDA 2393474' '106.359' '51.401' '2.168' 'inf' 'Galaxy' 'G'],,,,,,
 2023ttn,10:10:01.897,+11:36:29.22,2023-09-28 12:31:51.004,18.5523,ABMag,r - ZTF,A. Munoz-Arancibia,2.318,Galaxy,2MASX J10100173+1136282,['2MASX J10100173+1136282' '152.507' '11.608' '2.318' 'inf' 'Galaxy' 'G'],,,,,,
 2023tsn,03:48:34.180,+75:21:29.49,2023-09-21 11:59:57.002,20.3428,ABMag,r - ZTF,A. Munoz-Arancibia,2.383,Galaxy,Gaia DR3 550903192929334528,['Gaia DR3 550903192929334528' '57.14' '75.358' '2.383' 'inf' 'Galaxy' 'G'],,,,,,
+2023tyk,09:35:11.426,+83:58:24.44,2023-10-03 10:35:34.999,18.2745,ABMag,g - ZTF,A. Munoz-Arancibia,2.393,Galaxy,2MASX J09350992+8358225,['2MASX J09350992+8358225' '143.792' '83.973' '2.393' 'inf' 'Galaxy' 'G'],,,,,,
 2023tqr,07:54:40.820,+23:03:23.65,2023-09-25 14:42:31.968,19.8,ABMag,w - P1,K. C. Chambers,2.486,Galaxy,SDSS J075440.72+230325.7,['SDSS J075440.72+230325.7' '118.67' '23.057' '2.486' 'inf' 'Galaxy' 'G'],PairG,[PA2008] 118.669669+23.05716,"['[PA2008] 118.669669+23.05716' '118.67' '23.057' '2.555' 'inf' 'PairG'
  'PaG']",BrightestCG,SDSS J075441.21+230324.1,"['SDSS J075441.21+230324.1' '118.672' '23.057' '5.407' 'inf' 'BrightestCG'
  'BiC']"
@@ -52,9 +57,11 @@ TNS_ID,RA,DEC,DiscoveryDate,Mag,MagUnit,Filter,Reporter,Sep_arcsec,Gal_1_type,Ga
 2023tsg,03:25:47.510,-50:43:57.14,2023-09-25 22:53:45.600,18.42,ABMag,G - Gaia,S.T. Hodgkin,3.066,Galaxy,LEDA  463539,['LEDA  463539' '51.447' '-50.733' '3.066' 'inf' 'Galaxy' 'G'],,,,,,
 2023tsu,02:48:14.475,-03:10:43.82,2023-09-27 11:40:22.368,20.0,ABMag,z - P1,D. O. Jones (UC Santa Cruz),3.11,Galaxy,SDSS J024814.61-031046.1,['SDSS J024814.61-031046.1' '42.061' '-3.179' '3.11' 'inf' 'Galaxy' 'G'],,,,,,
 2023tqo,10:16:19.550,+35:59:26.80,2023-09-25 22:55:17.184,16.5,VegaMag,Clear - ,Mi Zhang,3.452,Galaxy,LEDA 2073213,['LEDA 2073213' '154.08' '35.991' '3.452' 'inf' 'Galaxy' 'G'],,,,,,
+2023txi,22:53:09.182,-53:42:48.22,2023-10-02 21:23:35.232,18.069,ABMag,orange - ATLAS,J. Tonry,3.466,Galaxy,6dFGS gJ225308.8-534248,['6dFGS gJ225308.8-534248' '343.287' '-53.713' '3.466' 'inf' 'Galaxy' 'G'],,,,,,
 2023tlt,07:04:56.284,-48:27:47.53,2023-09-18 02:23:35.808,18.944,ABMag,cyan - ATLAS,J. Tonry,3.474,Galaxy,LEDA  487150,['LEDA  487150' '106.235' '-48.464' '3.474' 'inf' 'Galaxy' 'G'],,,,,,
 2023tlp,04:43:04.611,-25:22:51.83,2023-09-23 01:04:27.264,18.772,ABMag,cyan - ATLAS,J. Tonry,3.509,Galaxy,LEDA  779596,['LEDA  779596' '70.769' '-25.382' '3.509' 'inf' 'Galaxy' 'G'],,,,,,
 2023tky,00:06:16.858,+35:11:11.42,2023-09-22 11:03:40.032,18.772,ABMag,cyan - ATLAS,J. Tonry,3.753,Galaxy,2MASX J00061717+3511139,['2MASX J00061717+3511139' '1.571' '35.187' '3.753' 'inf' 'Galaxy' 'G'],,,,,,
+2023tyq,17:05:33.729,+42:09:51.96,2023-10-03 04:41:20.003,19.1955,ABMag,g - ZTF,A. Munoz-Arancibia,3.764,Galaxy,2MASX J17053359+4209487,['2MASX J17053359+4209487' '256.39' '42.163' '3.764' 'inf' 'Galaxy' 'G'],,,,,,
 2023tot,22:27:53.070,-30:13:34.75,2023-09-24 03:42:57.312,18.6378,ABMag,g - Sloan,Tomás Cabrera (CMU),3.77,Galaxy,LEDA  719854,['LEDA  719854' '336.971' '-30.225' '3.77' 'inf' 'Galaxy' 'G'],,,,,,
 2023twe,03:55:21.567,-33:53:51.12,2023-10-02 00:15:04.608,18.572,ABMag,orange - ATLAS,J. Tonry,3.819,Galaxy,LEDA  670047,['LEDA  670047' '58.839' '-33.898' '3.819' 'inf' 'Galaxy' 'G'],,,,,,
 2023tnc,23:12:21.562,-22:07:36.20,2023-09-24 07:02:46.997,18.7409,ABMag,g - ZTF,F. Forster,3.896,Galaxy,LEDA  818845,['LEDA  818845' '348.09' '-22.128' '3.896' 'inf' 'Galaxy' 'G'],,,,,,
@@ -62,6 +69,9 @@ TNS_ID,RA,DEC,DiscoveryDate,Mag,MagUnit,Filter,Reporter,Sep_arcsec,Gal_1_type,Ga
 2023tlh,23:14:50.243,+21:49:50.65,2023-09-18 09:48:47.232,19.433,ABMag,cyan - ATLAS,J. Tonry,4.045,Galaxy,Gaia DR3 2837826871203523200,"['Gaia DR3 2837826871203523200' '348.71' '21.83' '4.045' 'inf' 'Galaxy'
  'G']",,,,,,
 2023tvs,07:44:30.458,+67:16:27.51,2023-10-01 13:49:54.048,17.62,ABMag,i - P1,K. C. Chambers,4.321,GtowardsGroup,UGC  3979,['UGC  3979' '116.129' '67.274' '4.321' '1.328' 'GtowardsGroup' 'GiG'],,,,,,
+2023tyo,21:32:40.432,+13:02:14.06,2023-10-03 05:04:12.000,19.7088,ABMag,g - ZTF,A. Munoz-Arancibia,4.36,LowSurfBrghtG,2MASX J21324063+1302168,"['2MASX J21324063+1302168' '323.169' '13.038' '4.36' 'inf' 'LowSurfBrghtG'
+ 'LSB']",,,,,,
+2023tyz,23:57:17.352,+26:37:05.88,2023-10-03 08:01:02.784,19.5,ABMag,i - P1,D. O. Jones (UC Santa Cruz),4.399,Galaxy,LEDA 1782654,['LEDA 1782654' '359.323' '26.618' '4.399' 'inf' 'Galaxy' 'G'],,,,,,
 2023tmp,06:50:31.739,-20:19:52.80,2023-09-24 08:26:59.712,18.817,ABMag,orange - ATLAS,J. Tonry,4.424,Galaxy,2MASX J06503186-2019487,['2MASX J06503186-2019487' '102.633' '-20.33' '4.424' 'inf' 'Galaxy' 'G'],,,,,,
 2023tre,07:57:43.579,+27:19:42.68,2023-09-25 14:46:14.880,21.22,ABMag,w - P1,K. C. Chambers,4.459,Galaxy,LEDA 1804664,['LEDA 1804664' '119.432' '27.327' '4.459' 'inf' 'Galaxy' 'G'],,,,,,
 2023tth,03:50:19.710,+27:17:50.32,2023-09-27 11:22:32.736,19.05,ABMag,i - P1,K. C. Chambers,4.483,Galaxy,LEDA 1803686,['LEDA 1803686' '57.582' '27.296' '4.483' 'inf' 'Galaxy' 'G'],,,,,,
