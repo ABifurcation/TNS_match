@@ -1,6 +1,6 @@
-TNS_ID,RA,DEC,DiscoveryDate,Mag,MagUnit,Filter,Reporter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info
-2023tvk,16:39:11.081,+49:08:04.44,2023-10-01 05:35:02.688,18.199,ABMag,orange - ATLAS,J. Tonry,1.863,Galaxy,LEDA 2334434,['LEDA 2334434' '249.795' '49.135' '1.863' 'inf' 'Galaxy' 'G'],Galaxy,LEDA 2334377,['LEDA 2334377' '249.797' '49.132' '7.744' 'inf' 'Galaxy' 'G']
-2023tvn,17:09:56.140,-82:14:09.71,2023-09-20 17:35:56.256,18.537,ABMag,orange - ATLAS,J. Tonry,2.112,Galaxy,2MASX J17095629-8214119,"['2MASX J17095629-8214119' '257.484' '-82.237' '2.112' '2.335' 'Galaxy'
- 'G']",,,
-2023tvd,09:00:34.290,+01:18:54.90,2023-09-29 15:23:02.400,18.71,ABMag,G - Gaia,S.T. Hodgkin,2.683,RadioG,NVSS J090034+011857,['NVSS J090034+011857' '135.142' '1.316' '2.683' 'inf' 'RadioG' 'rG'],,,
-2023tvs,07:44:30.458,+67:16:27.51,2023-10-01 13:49:54.048,17.62,ABMag,i - P1,K. C. Chambers,4.321,GtowardsGroup,UGC  3979,['UGC  3979' '116.129' '67.274' '4.321' '1.328' 'GtowardsGroup' 'GiG'],,,
+TNS_ID,RA,DEC,DiscoveryDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter,ReportDate
+2023tvk,16:39:11.081,+49:08:04.44,2023-10-01 05:35:02.688,18.199,ABMag,orange - ATLAS,1.863,Galaxy,LEDA 2334434,['LEDA 2334434' '249.795' '49.135' '1.863' 'inf' 'Galaxy' 'G'],Galaxy,LEDA 2334377,['LEDA 2334377' '249.797' '49.132' '7.744' 'inf' 'Galaxy' 'G'],J. Tonry,02-Oct-2023
+2023tvn,17:09:56.140,-82:14:09.71,2023-09-20 17:35:56.256,18.537,ABMag,orange - ATLAS,2.112,Galaxy,2MASX J17095629-8214119,"['2MASX J17095629-8214119' '257.484' '-82.237' '2.112' '2.335' 'Galaxy'
+ 'G']",,,,J. Tonry,02-Oct-2023
+2023tvd,09:00:34.290,+01:18:54.90,2023-09-29 15:23:02.400,18.71,ABMag,G - Gaia,2.683,RadioG,NVSS J090034+011857,['NVSS J090034+011857' '135.142' '1.316' '2.683' 'inf' 'RadioG' 'rG'],,,,S.T. Hodgkin,02-Oct-2023
+2023tvs,07:44:30.458,+67:16:27.51,2023-10-01 13:49:54.048,17.62,ABMag,i - P1,4.321,GtowardsGroup,UGC  3979,['UGC  3979' '116.129' '67.274' '4.321' '1.328' 'GtowardsGroup' 'GiG'],,,,K. C. Chambers,02-Oct-2023
