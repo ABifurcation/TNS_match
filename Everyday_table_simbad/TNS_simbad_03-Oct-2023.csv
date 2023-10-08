@@ -1,6 +1,6 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
 2023two,09:41:40.000,+18:22:03.90,2023-09-30 03:02:52.800,03-Oct-2023,18.22,ABMag,G - Gaia,0.019,QSO,SDSS J094139.99+182203.9,['SDSS J094139.99+182203.9' '145.417' '18.368' '0.019' 'inf' 'QSO' 'QSO'],S.T. Hodgkin
-2023twp,09:20:02.240,+06:18:03.28,2023-09-30 11:03:50.400,03-Oct-2023,18.67,ABMag,G - Gaia,0.034,QSO,[VV2006] J092002.2+061803,['[VV2006] J092002.2+061803' '140.009' '6.301' '0.034' 'inf' 'QSO' 'QSO'],S.T. Hodgkin
+2023twp*,09:20:02.240,+06:18:03.28,2023-09-30 11:03:50.400,03-Oct-2023,18.67,ABMag,G - Gaia,0.034,QSO,[VV2006] J092002.2+061803,['[VV2006] J092002.2+061803' '140.009' '6.301' '0.034' 'inf' 'QSO' 'QSO'],S.T. Hodgkin
 2023twd,17:16:15.281,+37:06:40.98,2023-09-27 03:27:37.152,03-Oct-2023,19.1925,ABMag,g - ZTF,0.157,Galaxy,2MASX J17161527+3706410,['2MASX J17161527+3706410' '259.064' '37.111' '0.157' 'inf' 'Galaxy' 'G'],K. De (Caltech) on behalf of ZTF
 2023twb,03:43:20.290,-17:42:09.43,2023-09-24 10:33:00.576,03-Oct-2023,19.3952,ABMag,r - ZTF,0.588,Galaxy,LEDA  878901,['LEDA  878901' '55.835' '-17.703' '0.588' 'inf' 'Galaxy' 'G'],K. De (Caltech) on behalf of ZTF
 2023twe,03:55:21.567,-33:53:51.12,2023-10-02 00:15:04.608,03-Oct-2023,18.572,ABMag,orange - ATLAS,3.819,Galaxy,LEDA  670047,['LEDA  670047' '58.839' '-33.898' '3.819' 'inf' 'Galaxy' 'G'],J. Tonry

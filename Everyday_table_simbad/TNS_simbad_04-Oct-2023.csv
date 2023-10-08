@@ -1,6 +1,6 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
 2023txp,09:16:53.090,-01:37:27.19,2023-10-01 15:25:55.200,04-Oct-2023,18.87,ABMag,G - Gaia,0.417,Galaxy,GAMA J091653.07-013726.9,['GAMA J091653.07-013726.9' '139.221' '-1.624' '0.417' 'inf' 'Galaxy' 'G'],S.T. Hodgkin
-2019aasz,15:17:49.199,+04:09:44.82,2019-03-01 10:36:12.384,04-Oct-2023,16.5739,ABMag,r - ZTF,0.424,LINER,UGC  9804,['UGC  9804' '229.455' '4.163' '0.424' 'inf' 'LINER' 'LIN'],K. De (Caltech) on behalf of ZTF
+2019aasz*,15:17:49.199,+04:09:44.82,2019-03-01 10:36:12.384,04-Oct-2023,16.5739,ABMag,r - ZTF,0.424,LINER,UGC  9804,['UGC  9804' '229.455' '4.163' '0.424' 'inf' 'LINER' 'LIN'],K. De (Caltech) on behalf of ZTF
 2022aeql,02:15:22.230,-05:18:28.73,2022-10-02 08:06:33.696,04-Oct-2023,19.9012,ABMag,r - ZTF,0.859,Galaxy,LEDA  175003,['LEDA  175003' '33.843' '-5.308' '0.859' 'inf' 'Galaxy' 'G'],K. De (Caltech) on behalf of ZTF
 2023txx,21:57:13.430,-09:45:51.15,2023-10-03 05:46:39.072,04-Oct-2023,20.28,ABMag,w - P1,2.101,Galaxy,LEDA  986729,['LEDA  986729' '329.305' '-9.764' '2.101' 'inf' 'Galaxy' 'G'],K. C. Chambers
 2023tyk,09:35:11.426,+83:58:24.44,2023-10-03 10:35:34.999,04-Oct-2023,18.2745,ABMag,g - ZTF,2.393,Galaxy,2MASX J09350992+8358225,['2MASX J09350992+8358225' '143.792' '83.973' '2.393' 'inf' 'Galaxy' 'G'],A. Munoz-Arancibia

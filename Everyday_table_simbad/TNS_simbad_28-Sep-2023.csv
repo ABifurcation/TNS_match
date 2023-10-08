@@ -1,5 +1,5 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
-2023tsk,14:54:27.120,+51:24:33.70,2023-09-25 19:52:19.200,28-Sep-2023,14.76,ABMag,G - Gaia,0.052,BLLac,ATO J223.6130+51.4093,['ATO J223.6130+51.4093' '223.613' '51.409' '0.052' 'inf' 'BLLac' 'BLL'],S.T. Hodgkin
+,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+2023tsk*,14:54:27.120,+51:24:33.70,2023-09-25 19:52:19.200,28-Sep-2023,14.76,ABMag,G - Gaia,0.052,BLLac,ATO J223.6130+51.4093,['ATO J223.6130+51.4093' '223.613' '51.409' '0.052' 'inf' 'BLLac' 'BLL'],S.T. Hodgkin
 2023tsq,23:12:24.189,+17:42:41.52,2023-09-22 06:46:15.004,28-Sep-2023,19.8423,ABMag,r - ZTF,0.223,Galaxy,LAMOST J231224.20+174241.3,"['LAMOST J231224.20+174241.3' '348.101' '17.711' '0.223' 'inf' 'Galaxy'
  'G']",A. Munoz-Arancibia
 2023tsh,22:17:19.110,-35:49:52.21,2023-09-25 17:51:21.600,28-Sep-2023,18.32,ABMag,G - Gaia,0.732,Galaxy,2dFGRS TGS588Z262,['2dFGRS TGS588Z262' '334.33' '-35.831' '0.732' 'inf' 'Galaxy' 'G'],S.T. Hodgkin
