@@ -1,4 +1,4 @@
-,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Gal_2_type,Gal_2_ABS_Mag,Gal_2_dist,Gal_2_z,Gal_2_info,Reporter
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Gal_2_type,Gal_2_ABS_Mag,Gal_2_dist,Gal_2_z,Gal_2_info,Reporter
 2023udc,02:48:29.080,+47:59:35.17,2023-09-28 11:18:59.328,06-Oct-2023,20.0183,ABMag,g - ZTF,0.25846556165156703,0.14516152627118736,G,-15.301069869044301,115.844114394,0.013111,"['42.12109' '47.993153' 'G' '115.844114394' '0.013111'
  '0.25846556165156703' '0.14516152627118736']",G,-15.339132809969602,117.892604417,0.0253314726657,"['42.121' '47.99314' 'G' '117.892604417' '0.0253314726657'
  '0.42330114570916144' '0.24194178069937824']",K. De (Caltech) on behalf of ZTF

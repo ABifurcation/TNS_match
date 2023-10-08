@@ -1,4 +1,4 @@
-,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter
 2023tpb,15:11:34.020,+40:51:35.03,2023-09-22 01:42:14.400,26-Sep-2023,18.7,ABMag,G - Gaia,0.045,QSO,SDSS J151134.01+405135.0,['SDSS J151134.01+405135.0' '227.892' '40.86' '0.045' 'inf' 'QSO' 'QSO'],,,,S.T. Hodgkin
 2023tpq*,11:21:10.410,+45:07:55.02,2023-09-21 04:07:40.800,26-Sep-2023,18.48,ABMag,G - Gaia,0.05,QSO,[VV2006] J112110.4+450755,['[VV2006] J112110.4+450755' '170.293' '45.132' '0.05' 'inf' 'QSO' 'QSO'],,,,S.T. Hodgkin
 2023tpe,09:11:41.050,+33:03:54.00,2023-09-21 22:36:28.800,26-Sep-2023,17.96,ABMag,G - Gaia,0.06,QSO,SDSS J091141.05+330353.9,['SDSS J091141.05+330353.9' '137.921' '33.065' '0.06' 'inf' 'QSO' 'QSO'],,,,S.T. Hodgkin

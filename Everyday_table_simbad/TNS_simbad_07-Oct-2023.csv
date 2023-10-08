@@ -1,4 +1,4 @@
-,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
 2023uem,20:08:24.466,-25:00:25.76,2023-10-06 01:11:53.952,07-Oct-2023,17.984,ABMag,cyan - ATLAS,0.929,Galaxy,2MASX J20082433-2500261,['2MASX J20082433-2500261' '302.102' '-25.007' '0.929' 'inf' 'Galaxy' 'G'],J. Tonry
 2023ugj,22:30:09.649,-24:50:56.48,2023-10-06 03:03:35.136,07-Oct-2023,19.006,ABMag,cyan - ATLAS,1.279,EmissionG,2MASX J22300969-2450572,"['2MASX J22300969-2450572' '337.541' '-24.849' '1.279' 'inf' 'EmissionG'
  'EmG']",J. Tonry

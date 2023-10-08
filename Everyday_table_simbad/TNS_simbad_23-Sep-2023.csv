@@ -1,4 +1,4 @@
-,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter
 2023tkl*,07:39:40.210,+27:32:53.92,2023-09-19 09:08:38.400,23-Sep-2023,17.92,ABMag,G - Gaia,0.079,QSO,[VV2006] J073940.2+273253,['[VV2006] J073940.2+273253' '114.918' '27.548' '0.079' 'inf' 'QSO' 'QSO'],,,,S.T. Hodgkin
 2023tjv,05:49:29.696,-25:00:54.20,2023-09-21 08:00:55.872,23-Sep-2023,18.921,ABMag,orange - ATLAS,1.201,Galaxy,LEDA  783584,['LEDA  783584' '87.374' '-25.015' '1.201' 'inf' 'Galaxy' 'G'],,,,J. Tonry
 2023tjx,22:30:13.652,-48:09:04.45,2023-09-12 01:33:16.992,23-Sep-2023,18.786,ABMag,cyan - ATLAS,2.561,Galaxy,2MASX J22301371-4809066,['2MASX J22301371-4809066' '337.557' '-48.152' '2.561' 'inf' 'Galaxy' 'G'],,,,J. Tonry

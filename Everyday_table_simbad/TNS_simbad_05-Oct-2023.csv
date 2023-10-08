@@ -1,4 +1,4 @@
-,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
 2023tzj,21:19:05.430,+03:26:06.18,2023-10-02 02:25:26.400,05-Oct-2023,18.69,ABMag,G - Gaia,0.046,QSO,SDSS J211905.42+032606.1,['SDSS J211905.42+032606.1' '319.773' '3.435' '0.046' 'inf' 'QSO' 'QSO'],S.T. Hodgkin
 2019aasz*,15:17:49.199,+04:09:44.82,2019-03-01 10:36:12.384,05-Oct-2023,16.5739,ABMag,r - ZTF,0.424,LINER,UGC  9804,['UGC  9804' '229.455' '4.163' '0.424' 'inf' 'LINER' 'LIN'],K. De (Caltech) on behalf of ZTF
 2023uah,01:50:15.468,-11:58:02.81,2023-10-03 11:00:02.304,05-Oct-2023,19.75,ABMag,i - P1,0.507,Galaxy,LEDA  959464,['LEDA  959464' '27.565' '-11.968' '0.507' 'inf' 'Galaxy' 'G'],K. C. Chambers

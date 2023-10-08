@@ -1,4 +1,4 @@
-,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Gal_2_type,Gal_2_ABS_Mag,Gal_2_dist,Gal_2_z,Gal_2_info,Reporter
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Gal_2_type,Gal_2_ABS_Mag,Gal_2_dist,Gal_2_z,Gal_2_info,Reporter
 2023tvk,16:39:11.081,+49:08:04.44,2023-10-01 05:35:02.688,02-Oct-2023,18.199,ABMag,orange - ATLAS,1.2699197487506353,1.040995150766979,G,-17.941487812995792,169.082072541,0.038354,"['249.796265' '49.134914' 'G' '169.082072541' '0.038354'
  '1.2699197487506353' '1.040995150766979']",G,999,0.0,0.0,['249.796' '49.13499' 'G' '0.0' '0.0' '1.5762259900274134' 'inf'],J. Tonry
 2023tvn,17:09:56.140,-82:14:09.71,2023-09-20 17:35:56.256,02-Oct-2023,18.537,ABMag,orange - ATLAS,2.248139644522884,2.8048421684748526,G,-18.515551385207438,257.341766045,0.057881,"['257.484558' '-82.236649' 'G' '257.341766045' '0.057881'
