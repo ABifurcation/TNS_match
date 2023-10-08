@@ -1,0 +1,6 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+2023tvk,16:39:11.081,+49:08:04.44,2023-10-01 05:35:02.688,02-Oct-2023,18.199,ABMag,orange - ATLAS,1.863,Galaxy,LEDA 2334434,['LEDA 2334434' '249.795' '49.135' '1.863' 'inf' 'Galaxy' 'G'],J. Tonry
+2023tvn,17:09:56.140,-82:14:09.71,2023-09-20 17:35:56.256,02-Oct-2023,18.537,ABMag,orange - ATLAS,2.112,Galaxy,2MASX J17095629-8214119,"['2MASX J17095629-8214119' '257.484' '-82.237' '2.112' '2.335' 'Galaxy'
+ 'G']",J. Tonry
+2023tvd,09:00:34.290,+01:18:54.90,2023-09-29 15:23:02.400,02-Oct-2023,18.71,ABMag,G - Gaia,2.683,RadioG,NVSS J090034+011857,['NVSS J090034+011857' '135.142' '1.316' '2.683' 'inf' 'RadioG' 'rG'],S.T. Hodgkin
+2023tvs,07:44:30.458,+67:16:27.51,2023-10-01 13:49:54.048,02-Oct-2023,17.62,ABMag,i - P1,4.321,GtowardsGroup,UGC  3979,['UGC  3979' '116.129' '67.274' '4.321' '1.328' 'GtowardsGroup' 'GiG'],K. C. Chambers

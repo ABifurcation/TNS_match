@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter
+2023tqr,07:54:40.820,+23:03:23.65,2023-09-25 14:42:31.968,27-Sep-2023,19.8,ABMag,w - P1,2.486,Galaxy,SDSS J075440.72+230325.7,['SDSS J075440.72+230325.7' '118.67' '23.057' '2.486' 'inf' 'Galaxy' 'G'],PairG,[PA2008] 118.669669+23.05716,"['[PA2008] 118.669669+23.05716' '118.67' '23.057' '2.555' 'inf' 'PairG'
+ 'PaG']",K. C. Chambers
+2023tre,07:57:43.579,+27:19:42.68,2023-09-25 14:46:14.880,27-Sep-2023,21.22,ABMag,w - P1,4.459,Galaxy,LEDA 1804664,['LEDA 1804664' '119.432' '27.327' '4.459' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers
