@@ -1,0 +1,12 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+2023vjx,22:13:26.244,-22:05:47.96,2023-08-09 08:43:01.344,20-Oct-2023,18.065,ABMag,g - ZTF,0.382,EmissionG,IC 1435,['IC 1435' '333.359' '-22.097' '0.382' '0.161' 'EmissionG' 'EmG'],K. De (Caltech) on behalf of ZTF
+2023vja,23:58:43.385,-26:59:03.39,2023-10-18 07:41:27.744,20-Oct-2023,19.95,ABMag,w - P1,1.971,Galaxy,2dFGRS TGS197Z195,['2dFGRS TGS197Z195' '359.68' '-26.985' '1.971' 'inf' 'Galaxy' 'G'],K. C. Chambers
+2023vjo*,10:35:42.135,+05:36:57.45,2023-10-12 12:45:08.640,20-Oct-2023,18.1531,ABMag,r - ZTF,2.27,GtowardsGroup,LEDA   31382,['LEDA   31382' '158.926' '5.616' '2.27' '1.338' 'GtowardsGroup' 'GiG'],K. De (Caltech) on behalf of ZTF
+2023vky,04:09:28.530,-52:07:22.97,2023-10-18 00:38:27.744,20-Oct-2023,19.237,ABMag,orange - ATLAS,2.305,Galaxy,LEDA  448405,['LEDA  448405' '62.368' '-52.122' '2.305' 'inf' 'Galaxy' 'G'],J. Tonry
+2023viu,05:04:06.090,+02:42:45.55,2023-10-17 13:30:17.280,20-Oct-2023,19.94,ABMag,w - P1,2.77,Galaxy,Gaia DR3 3238103082863392640,['Gaia DR3 3238103082863392640' '76.025' '2.712' '2.77' 'inf' 'Galaxy' 'G'],K. C. Chambers
+2023vit,23:26:45.088,-23:27:13.44,2023-10-18 07:38:10.752,20-Oct-2023,20.27,ABMag,w - P1,3.767,EmissionG,LEDA  800701,['LEDA  800701' '351.689' '-23.453' '3.767' 'inf' 'EmissionG' 'EmG'],K. C. Chambers
+2023vjq,18:01:10.822,+27:33:47.72,2023-10-10 03:43:29.997,20-Oct-2023,19.5752,ABMag,r - ZTF,4.413,Galaxy,LEDA 1811794,['LEDA 1811794' '270.294' '27.564' '4.413' 'inf' 'Galaxy' 'G'],Julien Peloton
+2023vjk,01:04:02.865,-26:31:03.30,2023-10-17 08:53:56.256,20-Oct-2023,20.03,ABMag,w - P1,4.543,Galaxy,LEDA    3804,['LEDA    3804' '16.011' '-26.519' '4.543' 'inf' 'Galaxy' 'G'],K. C. Chambers
+2023vjv,02:47:15.366,+38:26:55.62,2023-10-19 12:58:45.120,20-Oct-2023,20.8,ABMag,r - P1,4.545,Galaxy,LEDA 2127331,['LEDA 2127331' '41.815' '38.448' '4.545' 'inf' 'Galaxy' 'G'],D. O. Jones (UC Santa Cruz)
+2023viy,08:25:03.594,+27:52:03.69,2023-10-17 13:35:34.368,20-Oct-2023,21.2,ABMag,w - P1,4.631,Galaxy,SDSSCGB 30700.1,['SDSSCGB 30700.1' '126.266' '27.868' '4.631' 'inf' 'Galaxy' 'G'],K. C. Chambers
+2023viv*,00:16:46.688,+14:19:16.09,2023-10-17 06:48:50.688,20-Oct-2023,20.6,ABMag,w - P1,4.769,Galaxy,SDSS J001646.36+141915.1,['SDSS J001646.36+141915.1' '4.193' '14.321' '4.769' 'inf' 'Galaxy' 'G'],K. C. Chambers
