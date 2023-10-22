@@ -365,3 +365,6 @@ zero match within 5 arcsec to GC in 21-Oct-2023
 9 match within 5 arcsec to GLADE in 21-Oct-2023 
 zero match within 5 arcsec to GC in 21-Oct-2023
 7 match within 5 arcsec to simbad in 21-Oct-2023 
+5 match within 5 arcsec to GLADE in 22-Oct-2023 
+zero match within 5 arcsec to GC in 22-Oct-2023
+4 match within 5 arcsec to simbad in 22-Oct-2023 
