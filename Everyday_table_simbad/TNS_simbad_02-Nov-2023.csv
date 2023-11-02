@@ -1,0 +1,6 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+2018mkz*,08:43:51.301,+51:59:28.31,2018-11-09 12:18:31.968,02-Nov-2023,18.4159,ABMag,r - ZTF,0.226,GtowardsGroup,UGC  4546,['UGC  4546' '130.964' '51.991' '0.226' '0.084' 'GtowardsGroup' 'GiG'],K. De (Caltech) on behalf of ZTF
+2018mky*,01:56:12.031,+01:01:59.84,2018-09-19 10:06:14.400,02-Nov-2023,18.39,ABMag,r - ZTF,1.19,GtowardsCl,2MASX J01561200+0102016,['2MASX J01561200+0102016' '29.05' '1.034' '1.19' 'inf' 'GtowardsCl' 'GiC'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+2023wdi*,20:45:14.686,-05:29:01.36,2023-10-31 06:00:00.000,02-Nov-2023,16.7,ABMag,g - Sloan,2.56,RadioG,MCG-01-53-004,['MCG-01-53-004' '311.311' '-5.484' '2.56' 'inf' 'RadioG' 'rG'],K. Z. Stanek
+2023wdh,01:02:36.130,+08:57:55.75,2023-09-26 08:05:02.112,02-Nov-2023,19.7341,ABMag,r - ZTF,4.084,Galaxy,LAMOST J010236.21+085751.8,['LAMOST J010236.21+085751.8' '15.651' '8.964' '4.084' 'inf' 'Galaxy' 'G'],K. De (Caltech) on behalf of ZTF
+2017kib*,12:59:56.016,+08:47:09.96,2017-03-27 05:35:50.000,02-Nov-2023,18.65,ABMag,g - Sloan,4.538,Galaxy,LEDA 1353639,['LEDA 1353639' '194.983' '8.785' '4.538' '4.431' 'Galaxy' 'G'],Ine Theunissen-Limpens
