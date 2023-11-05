@@ -1,0 +1,13 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter
+2023wqk*,11:54:11.025,+56:26:07.06,2023-11-03 12:21:45.996,05-Nov-2023,19.4783,ABMag,g - ZTF,0.185,Galaxy,SDSS J115411.02+562607.0,['SDSS J115411.02+562607.0' '178.546' '56.435' '0.185' 'inf' 'Galaxy' 'G'],,,,F. Forster
+2023wqv,02:10:18.217,+01:48:11.63,2023-11-04 04:13:14.304,05-Nov-2023,18.346,ABMag,cyan - ATLAS,0.468,Galaxy,LEDA 1206323,['LEDA 1206323' '32.576' '1.803' '0.468' 'inf' 'Galaxy' 'G'],,,,J. Tonry
+2023wqr,02:36:12.600,-13:26:32.44,2023-11-04 04:39:04.320,05-Nov-2023,19.621,ABMag,cyan - ATLAS,0.478,EmissionG,6dFGS gJ023612.6-132633,"['6dFGS gJ023612.6-132633' '39.052' '-13.442' '0.478' 'inf' 'EmissionG'
+ 'EmG']",,,,J. Tonry
+2023wou,23:08:49.449,-11:35:44.04,2023-11-02 03:33:07.200,05-Nov-2023,19.09,ABMag,g - ZTF,0.721,Galaxy,LEDA  963939,['LEDA  963939' '347.206' '-11.596' '0.721' 'inf' 'Galaxy' 'G'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+2023wqq*,01:56:11.998,+01:02:00.00,2023-11-04 04:03:01.728,05-Nov-2023,18.518,ABMag,cyan - ATLAS,1.015,GtowardsCl,2MASX J01561200+0102016,"['2MASX J01561200+0102016' '29.05' '1.034' '1.015' 'inf' 'GtowardsCl'
+ 'GiC']",,,,J. Tonry
+2023wpm*,10:55:09.000,+21:46:19.88,2023-11-04 11:42:05.003,05-Nov-2023,18.9779,ABMag,g - ZTF,1.061,Galaxy,LEDA 1656929,['LEDA 1656929' '163.788' '21.772' '1.061' 'inf' 'Galaxy' 'G'],,,,F. Forster
+2023wqw,02:31:41.622,+02:47:55.82,2023-11-04 04:33:08.352,05-Nov-2023,18.781,ABMag,cyan - ATLAS,1.109,LowSurfBrghtG,IC  233,['IC  233' '37.923' '2.799' '1.109' '0.611' 'LowSurfBrghtG' 'LSB'],Galaxy,SDSS J023141.92+024755.4,['SDSS J023141.92+024755.4' '37.925' '2.799' '4.554' 'inf' 'Galaxy' 'G'],J. Tonry
+2023wqu,00:17:26.297,-08:20:44.49,2023-11-04 07:28:37.056,05-Nov-2023,21.13,ABMag,w - P1,2.135,Galaxy,LEDA 1004887,['LEDA 1004887' '4.36' '-8.345' '2.135' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers
+2023wpk*,11:22:44.494,+00:36:33.38,2023-11-03 12:45:40.003,05-Nov-2023,19.8386,ABMag,r - ZTF,2.27,Galaxy,2dFGRS TGN373Z203,['2dFGRS TGN373Z203' '170.686' '0.61' '2.27' 'inf' 'Galaxy' 'G'],,,,F. Forster
+2023wnw,00:28:45.718,-32:24:26.93,2023-10-31 01:12:00.000,05-Nov-2023,17.5,ABMag,g - Sloan,3.638,Galaxy,ESO 350-20,['ESO 350-20' '7.19' '-32.406' '3.638' 'inf' 'Galaxy' 'G'],,,,K. Z. Stanek
