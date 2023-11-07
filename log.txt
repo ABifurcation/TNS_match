@@ -545,3 +545,7 @@ zero match within 10 arcsec to GC in 04-Nov-2023
 1 match within 5 arcsec to GC in 06-Nov-2023 
 34 match within 5 arcsec to SDSSDR16 in 06-Nov-2023 
 11 match within 5 arcsec to simbad in 06-Nov-2023 
+14 match within 5 arcsec to GLADE in 07-Nov-2023 
+zero match within 5 arcsec to GC in 07-Nov-2023
+16 match within 5 arcsec to SDSSDR16 in 07-Nov-2023 
+13 match within 5 arcsec to simbad in 07-Nov-2023 
