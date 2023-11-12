@@ -1,0 +1,16 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+2023xna,17:37:35.770,-56:34:03.14,2023-10-31 11:24:00.000,12-Nov-2023,17.33,ABMag,G - Gaia,0.016,Seyfert2,ICRF J173735.7-563403,"['ICRF J173735.7-563403' '264.399' '-56.568' '0.016' 'inf' 'Seyfert2'
+ 'Sy2']",S.T. Hodgkin
+2023xlt*,23:54:42.633,+06:40:53.05,2023-11-02 04:03:21.600,12-Nov-2023,19.99,ABMag,g - ZTF,0.229,Galaxy,Gaia DR3 2746177728008217984,"['Gaia DR3 2746177728008217984' '358.678' '6.681' '0.229' 'inf' 'Galaxy'
+ 'G']",C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+2023xnm*,22:59:35.907,-09:32:27.72,2023-11-11 04:57:48.384,12-Nov-2023,17.42,ABMag,r - P1,0.445,Galaxy,2MASX J22593589-0932275,['2MASX J22593589-0932275' '344.9' '-9.541' '0.445' 'inf' 'Galaxy' 'G'],D. O. Jones (UC Santa Cruz)
+2022aeqx*,11:41:03.641,+01:43:32.15,2022-10-25 12:56:00.096,12-Nov-2023,18.7082,ABMag,r - ZTF,0.59,RadioG,2dFGRS TGN445Z024,['2dFGRS TGN445Z024' '175.265' '1.725' '0.59' '0.515' 'RadioG' 'rG'],K. De (Caltech) on behalf of ZTF
+2023xmr*,11:55:02.095,+01:06:33.50,2023-11-09 12:57:36.000,12-Nov-2023,19.22,ABMag,r - ZTF,0.866,Galaxy,2dFGRS TGN449Z235,['2dFGRS TGN449Z235' '178.759' '1.11' '0.866' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+2023xny,22:26:28.783,+05:13:39.32,2023-11-06 03:07:49.999,12-Nov-2023,20.3301,ABMag,r - ZTF,0.879,GtowardsCl,DES J222628.82+051339.7,"['DES J222628.82+051339.7' '336.62' '5.228' '0.879' 'inf' 'GtowardsCl'
+ 'GiC']",F. Forster
+2023xnj,00:21:31.464,-32:48:20.90,2023-11-11 10:45:19.296,12-Nov-2023,20.25,ABMag,L - GOTO,1.099,Galaxy,2MASX J00213153-3248212,['2MASX J00213153-3248212' '5.381' '-32.806' '1.099' 'inf' 'Galaxy' 'G'],B. Gompertz
+2023xmf,08:26:46.677,-08:39:44.78,2023-11-09 11:02:24.000,12-Nov-2023,19.38,ABMag,g - ZTF,1.163,Galaxy,LEDA 1000800,['LEDA 1000800' '126.694' '-8.662' '1.163' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+2023xms*,10:21:21.079,+22:30:27.56,2023-11-09 11:36:57.600,12-Nov-2023,18.46,ABMag,g - ZTF,1.652,Galaxy,2MASX J10212096+2230260,['2MASX J10212096+2230260' '155.337' '22.507' '1.652' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+2023xnl,09:26:29.692,-14:31:43.67,2023-11-11 11:28:39.072,12-Nov-2023,17.4931,ABMag,r - ZTF,2.042,Seyfert2,NGC  2890,['NGC  2890' '141.624' '-14.529' '2.042' '0.79' 'Seyfert2' 'Sy2'],K. De (Caltech) on behalf of ZTF
+2023xmk,02:18:23.154,-13:37:38.80,2023-11-05 08:28:19.200,12-Nov-2023,20.26,ABMag,g - ZTF,3.782,Galaxy,LEDA  935374,['LEDA  935374' '34.597' '-13.628' '3.782' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+2023xnk,05:10:47.444,+25:37:02.43,2023-11-11 10:24:35.136,12-Nov-2023,20.1803,ABMag,g - ZTF,4.868,Galaxy,LEDA 1743100,['LEDA 1743100' '77.696' '25.617' '4.868' 'inf' 'Galaxy' 'G'],K. De (Caltech) on behalf of ZTF
