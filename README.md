@@ -7,3 +7,7 @@ TNS ID in table with a "\*" marker has SDSS spectrum
 TNS_match_GLADE.csv is crossmatch with 'VII/281/glade2'
 TNS_match_simbad.csv is crossmatch with Simbad
 TNS_match_GC.csv is crossmatch with MW/M31 Cluster and Dwarf galaxy by SDSS MPA-JHU catalogue
+
+
+
+Important: the value of Sep_kpc in GC is pc !!!
