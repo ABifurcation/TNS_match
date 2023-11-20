@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,Reporter
+2023wju,08:42:40.496,+85:45:20.33,2023-10-03 10:35:02.400,04-Nov-2023,19.24,ABMag,g - ZTF,0,['m9530'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
