@@ -1,2 +1,2 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,Reporter
-2023upm,23:37:06.261,+22:03:13.55,2023-10-09 10:05:15.648,11-Oct-2023,21.43,ABMag,w - P1,2,['m5134'],K. C. Chambers
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,Reporter
+2023upm,23:37:06.261,+22:03:13.55,2023-10-09 10:05:15.648,11-Oct-2023,21.43,ABMag,w - P1,2,['m5134'],['23:32:19'],['+21:39:54'],K. C. Chambers

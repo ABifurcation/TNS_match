@@ -1,2 +1,2 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,Reporter
-2023xgn,03:02:48.834,-15:42:21.53,2023-11-09 06:33:07.200,10-Nov-2023,18.86,ABMag,r - ZTF,0,['m0505'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,Reporter
+2023xgn,03:02:48.834,-15:42:21.53,2023-11-09 06:33:07.200,10-Nov-2023,18.86,ABMag,r - ZTF,0,['m0505'],['03:00:43'],['-15:08:42'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration

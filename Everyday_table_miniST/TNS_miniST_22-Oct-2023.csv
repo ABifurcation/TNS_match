@@ -1,2 +1,2 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,Reporter
-2023vom,09:10:13.473,+42:18:03.18,2023-10-16 11:46:47.997,22-Oct-2023,20.5015,ABMag,r - ZTF,2,['m7192'],F. Forster
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,Reporter
+2023vom,09:10:13.473,+42:18:03.18,2023-10-16 11:46:47.997,22-Oct-2023,20.5015,ABMag,r - ZTF,2,['m7192'],['09:15:45'],['+42:06:54'],F. Forster

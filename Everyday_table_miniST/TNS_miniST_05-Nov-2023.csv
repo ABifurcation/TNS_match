@@ -1,3 +1,3 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,Reporter
-2023woz,23:30:09.915,+21:09:37.67,2023-11-03 08:41:32.352,05-Nov-2023,18.983,ABMag,orange - ATLAS,2,['m5134'],J. Tonry
-2023wqk,11:54:11.025,+56:26:07.06,2023-11-03 12:21:45.996,05-Nov-2023,19.4783,ABMag,g - ZTF,12,['m8316'],F. Forster
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,Reporter
+2023woz,23:30:09.915,+21:09:37.67,2023-11-03 08:41:32.352,05-Nov-2023,18.983,ABMag,orange - ATLAS,2,['m5134'],['23:32:19'],['+21:39:54'],J. Tonry
+2023wqk,11:54:11.025,+56:26:07.06,2023-11-03 12:21:45.996,05-Nov-2023,19.4783,ABMag,g - ZTF,12,['m8316'],['11:57:23'],['+55:44:54'],F. Forster
