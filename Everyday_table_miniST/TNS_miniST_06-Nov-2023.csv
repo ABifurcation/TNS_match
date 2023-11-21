@@ -1,3 +1,3 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,GLADE_info,SDSS_info,Reporter
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
 2023wrk,11:28:39.122,+58:33:12.67,2023-11-04 05:29:46.464,06-Nov-2023,18.11,ABMag,L - GOTO,0,['m8498'],['11:31:00'],['+58:28:30'],[],[],B. Godson
 2023wrn,23:31:53.501,+22:39:30.74,2023-11-05 07:58:05.664,06-Nov-2023,18.919,ABMag,cyan - ATLAS,0,['m5290'],['23:27:45'],['+23:01:42'],[],[],J. Tonry
