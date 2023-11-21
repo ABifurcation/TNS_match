@@ -1,2 +1,3 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,Reporter
-2023xpo,12:13:08.997,+54:45:01.85,2023-11-12 11:46:28.004,13-Nov-2023,19.3697,ABMag,g - ZTF,2,['m8220'],['12:17:07'],['+54:23:06'],F. Forster
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,GLADE_info,SDSS_info,Reporter
+2023xpo,12:13:08.997,+54:45:01.85,2023-11-12 11:46:28.004,13-Nov-2023,19.3697,ABMag,g - ZTF,2,['m8220'],['12:17:07'],['+54:23:06'],[],"['183.287638' '54.750531' 'Galaxy' '405.1917055254579' '0.0957'
+ '0.31870302129248895' '0.6260681262476423']",F. Forster

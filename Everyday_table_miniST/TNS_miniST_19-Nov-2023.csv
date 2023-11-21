@@ -1,3 +1,4 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,Reporter
-2023yaj,01:51:45.712,+21:24:31.38,2023-10-09 08:35:17.376,19-Nov-2023,21.58,ABMag,w - P1,0,['m4992'],['01:54:36'],['+21:39:54'],K. C. Chambers
-2023yas,02:27:30.835,+29:26:44.98,2023-10-14 09:53:19.392,19-Nov-2023,21.81,ABMag,w - P1,2,['m5916'],['02:32:10'],['+29:50:42'],K. C. Chambers
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,GLADE_info,SDSS_info,Reporter
+2023yaj,01:51:45.712,+21:24:31.38,2023-10-09 08:35:17.376,19-Nov-2023,21.58,ABMag,w - P1,0,['m4992'],['01:54:36'],['+21:39:54'],[],[],K. C. Chambers
+2023yas,02:27:30.835,+29:26:44.98,2023-10-14 09:53:19.392,19-Nov-2023,21.81,ABMag,w - P1,2,['m5916'],['02:32:10'],['+29:50:42'],[],"['36.877218' '29.446029' 'Galaxy' '875.7761533811034' '0.2126'
+ '4.019511889947622' '17.066375623817066']",K. C. Chambers
