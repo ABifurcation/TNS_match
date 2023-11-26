@@ -12,5 +12,3 @@ TNS_match_GC.csv is crossmatch with MW/M31 Cluster and Dwarf galaxy by SDSS MPA-
 TNS_match_miniST.csv is crossmatch with miniST observation region
     Gal_match 0 = 'no match with galaxy', 1 = 'matched with GLADE', 2 = 'matched with SDSSDR16'
 
-
-Important: the value of Sep_kpc in GC is pc !!!
