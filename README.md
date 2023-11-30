@@ -1,6 +1,6 @@
 # TNS_match
 
-Everyday TNS matched galaxy
+Everyday TNS matched galaxy/cluster. Update in 9:00, 12:00, 18:00 Beijing, China (UTC+8).
 
 TNS ID in table with a "\*" marker has SDSS spectrum
 
