@@ -855,3 +855,9 @@ zero match within 5 arcsec to GC in 01-Dec-2023
 zero match within 5 arcsec to GC in 01-Dec-2023
 6 match within 5 arcsec to SDSSDR16 in 01-Dec-2023 
 3 match within 5 arcsec to simbad in 01-Dec-2023 
+--------running start at 01-Dec-2023  18:02:40--------
+--------running start at 02-Dec-2023  09:00:03--------
+zero match within 5 arcsec to GLADE in 02-Dec-2023
+zero match within 5 arcsec to GC in 02-Dec-2023
+1 match within 5 arcsec to SDSSDR16 in 02-Dec-2023 
+1 match within 5 arcsec to simbad in 02-Dec-2023 
