@@ -903,3 +903,11 @@ zero match within 5 arcsec to GC in 03-Dec-2023
 zero match within 5 arcsec to GC in 04-Dec-2023
 9 match within 5 arcsec to SDSSDR16 in 04-Dec-2023 
 4 match within 5 arcsec to simbad in 04-Dec-2023 
+--------running start at 04-Dec-2023  09:06:33--------
+--------running start at 04-Dec-2023  11:31:21--------
+--------running start at 04-Dec-2023  11:31:21--------
+--------running start at 04-Dec-2023  11:37:04--------
+today matching already finished and uploaded
+--------running start at 04-Dec-2023  11:37:04--------
+--------running start at 04-Dec-2023  11:40:15--------
+today matching already finished and uploaded
