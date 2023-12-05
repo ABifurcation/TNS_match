@@ -918,3 +918,13 @@ today matching already finished and uploaded
 zero match within 5 arcsec to GC in 04-Dec-2023
 9 match within 5 arcsec to SDSSDR16 in 04-Dec-2023 
 4 match within 5 arcsec to simbad in 04-Dec-2023 
+--------running start at 04-Dec-2023  11:51:58--------
+--------running start at 04-Dec-2023  12:00:04--------
+today matching already finished and uploaded
+--------running start at 04-Dec-2023  12:00:04--------
+--------running start at 04-Dec-2023  18:00:04--------
+today matching already finished and uploaded
+--------running start at 04-Dec-2023  18:00:04--------
+--------running start at 05-Dec-2023  09:00:04--------
+--------running start at 05-Dec-2023  12:00:03--------
+The previous github connection failed
