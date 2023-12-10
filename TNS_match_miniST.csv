@@ -25,6 +25,8 @@ TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,
 2023wus,08:49:59.890,+73:31:34.45,2023-11-06 12:20:47.003,07-Nov-2023,20.2407,ABMag,r - ZTF,0,['m9250'],['08:43:38'],['+73:28:18'],[],[],A. Munoz-Arancibia
 2023zbp,02:53:55.708,-16:15:26.89,2023-12-07 07:08:10.176,08-Dec-2023,20.36,ABMag,w - P1,0,['m0341'],['02:53:05'],['-16:30:30'],[],[],K. C. Chambers
 2023ukv,09:10:32.229,+74:16:48.91,2023-10-07 12:11:13.004,09-Oct-2023,20.3488,ABMag,r - ZTF,0,['m9297'],['08:56:59'],['+74:50:06'],[],[],A. Munoz-Arancibia
+2023zeg,01:23:25.706,+03:43:24.78,2023-11-20 03:34:33.600,10-Dec-2023,19.64,ABMag,r - ZTF,0,['m2842'],['01:21:13'],['+03:56:30'],[],[],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+2023zgl,12:01:48.351,+75:29:36.75,2023-12-09 09:18:43.200,10-Dec-2023,20.03,ABMag,g - ZTF,0,['m9303'],['12:11:47'],['+74:50:06'],[],[],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
 2023xgn,03:02:48.834,-15:42:21.53,2023-11-09 06:33:07.200,10-Nov-2023,18.86,ABMag,r - ZTF,0,['m0505'],['03:00:43'],['-15:08:42'],[],[],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
 2023und,02:46:02.274,-00:41:37.68,2023-10-07 11:32:42.720,10-Oct-2023,20.21,ABMag,g - P1,0,['m2344'],['02:45:57'],['-00:08:54'],[],[],D. O. Jones (UC Santa Cruz)
 2023xhw,23:36:28.035,+21:31:14.27,2023-11-09 08:26:38.976,11-Nov-2023,20.65,ABMag,w - P1,0,['m5134'],['23:32:19'],['+21:39:54'],[],[],K. C. Chambers
