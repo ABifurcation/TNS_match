@@ -1008,3 +1008,6 @@ today matching already finished and uploaded
 29 match within 5 arcsec to SDSSDR16 in 12-Dec-2023 
 14 match within 5 arcsec to simbad in 12-Dec-2023 
 --------running end at 12-Dec-2023  09:09:53--------
+--------running start at 12-Dec-2023  12:00:04--------
+The previous github connection failed
+--------running end at 12-Dec-2023  12:00:04--------
