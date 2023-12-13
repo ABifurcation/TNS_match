@@ -1011,3 +1011,12 @@ today matching already finished and uploaded
 --------running start at 12-Dec-2023  12:00:04--------
 The previous github connection failed
 --------running end at 12-Dec-2023  12:00:04--------
+--------running start at 12-Dec-2023  18:00:04--------
+today matching already finished and uploaded
+--------running end at 12-Dec-2023  18:00:04--------
+--------running start at 13-Dec-2023  09:00:05--------
+33 match within 5 arcsec to GLADE in 13-Dec-2023 
+2 match within 5 arcsec to GC in 13-Dec-2023 
+34 match within 5 arcsec to SDSSDR16 in 13-Dec-2023 
+34 match within 5 arcsec to simbad in 13-Dec-2023 
+--------running end at 13-Dec-2023  09:14:44--------
