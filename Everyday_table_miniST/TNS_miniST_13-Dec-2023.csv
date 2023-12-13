@@ -1,3 +1,5 @@
 TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
-2023zrw,05:50:53.168,-18:50:09.22,2023-12-10 08:13:55.200,13-Dec-2023,20.01,ABMag,g - ZTF,0,['m0039'],['05:46:41'],['-19:14:06'],[],[],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
-2023zsl,03:03:43.372,-15:29:04.27,2023-10-11 09:28:22.944,13-Dec-2023,19.4054,ABMag,g - ZTF,0,['m0505'],['03:00:43'],['-15:08:42'],[],[],K. De (Caltech) on behalf of ZTF
+2023zrw,05:50:53.168,-18:50:09.22,2023-12-10 08:13:55.200,13-Dec-2023,20.01,ABMag,g - ZTF,1,['m0039'],['05:46:41'],['-19:14:06'],"['87.721687' '-18.83593' 'G' '627.271570817' '0.132966'
+ '0.5389937702251469' '1.6391330885568598']",[],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+2023zsl,03:03:43.372,-15:29:04.27,2023-10-11 09:28:22.944,13-Dec-2023,19.4054,ABMag,g - ZTF,1,['m0505'],['03:00:43'],['-15:08:42'],"['45.930733' '-15.484624' 'G' '38.3775380858' '0.006991'
+ '0.38064151316403894' '0.07082199059807541']",[],K. De (Caltech) on behalf of ZTF
