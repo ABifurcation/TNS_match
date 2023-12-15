@@ -1048,3 +1048,12 @@ The previous github connection failed
 --------running start at 14-Dec-2023  18:00:04--------
 The previous github connection failed
 --------running end at 14-Dec-2023  18:00:04--------
+--------running start at 14-Dec-2023  18:15:44--------
+today matching already finished and uploaded
+--------running end at 14-Dec-2023  18:15:44--------
+--------running start at 15-Dec-2023  09:00:05--------
+14 match within 5 arcsec to GLADE in 15-Dec-2023 
+2 match within 5 arcsec to GC in 15-Dec-2023 
+40 match within 5 arcsec to SDSSDR16 in 15-Dec-2023 
+14 match within 5 arcsec to simbad in 15-Dec-2023 
+--------running end at 15-Dec-2023  09:09:38--------
