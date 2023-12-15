@@ -1057,3 +1057,9 @@ today matching already finished and uploaded
 40 match within 5 arcsec to SDSSDR16 in 15-Dec-2023 
 14 match within 5 arcsec to simbad in 15-Dec-2023 
 --------running end at 15-Dec-2023  09:09:38--------
+--------running start at 15-Dec-2023  09:38:20--------
+14 match within 5 arcsec to GLADE in 15-Dec-2023 
+2 match within 5 arcsec to GC in 15-Dec-2023 
+40 match within 5 arcsec to SDSSDR16 in 15-Dec-2023 
+14 match within 5 arcsec to simbad in 15-Dec-2023 
+--------running end at 15-Dec-2023  09:40:00--------
