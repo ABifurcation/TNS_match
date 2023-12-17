@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+2023aagc,05:29:37.639,-35:55:16.45,2023-12-15 12:28:26.400,17-Dec-2023,20.17,ABMag,L - GOTO,0.272,BLLac,IVS B0527-359,['IVS B0527-359' '82.407' '-35.921' '0.272' 'inf' 'BLLac' 'BLL'],B. Gompertz
+2020afgu*,07:37:47.424,+41:06:48.10,2020-10-13 10:17:45.600,17-Dec-2023,20.8,ABMag,g - ZTF,0.275,QSO,2MASS J07374745+4106479,['2MASS J07374745+4106479' '114.448' '41.113' '0.275' 'inf' 'QSO' 'QSO'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
+2023aagg,06:19:13.430,+80:04:07.84,2023-12-15 09:45:13.824,17-Dec-2023,17.3392,ABMag,r - ZTF,1.539,GtowardsGroup,IC  440,['IC  440' '94.805' '80.068' '1.539' '0.42' 'GtowardsGroup' 'GiG'],K. De (Caltech) on behalf of ZTF
+2023aafu*,09:54:16.026,+10:13:47.27,2023-12-15 12:48:28.224,17-Dec-2023,20.31,ABMag,w - P1,4.198,Galaxy,LEDA 1376495,['LEDA 1376495' '148.567' '10.229' '4.198' '3.547' 'Galaxy' 'G'],K. C. Chambers
