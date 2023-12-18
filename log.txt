@@ -1087,3 +1087,13 @@ zero match within 5 arcsec to GC in 17-Dec-2023
 7 match within 5 arcsec to SDSSDR16 in 17-Dec-2023 
 4 match within 5 arcsec to simbad in 17-Dec-2023 
 --------running end at 17-Dec-2023  09:02:23--------
+--------running start at 17-Dec-2023  12:00:04--------
+today matching already finished and uploaded
+--------running end at 17-Dec-2023  12:00:04--------
+--------running start at 17-Dec-2023  18:00:04--------
+today matching already finished and uploaded
+--------running end at 17-Dec-2023  18:00:04--------
+--------running start at 18-Dec-2023  09:00:05--------
+--------running start at 18-Dec-2023  12:00:03--------
+The previous github connection failed
+--------running end at 18-Dec-2023  12:00:03--------
