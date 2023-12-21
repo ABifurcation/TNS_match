@@ -1,4 +1,0 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
-2023ygu,00:27:22.240,-12:29:28.54,2023-11-20 17:15:21.600,23-Nov-2023,17.39,ABMag,G - Gaia,0.044,Galaxy,6dFGS gJ002722.2-122928,['6dFGS gJ002722.2-122928' '6.843' '-12.491' '0.044' 'inf' 'Galaxy' 'G'],S.T. Hodgkin
-2023ygx,04:25:32.959,+56:52:40.97,2023-11-02 07:43:40.800,23-Nov-2023,19.68,ABMag,r - ZTF,3.341,Galaxy,2MASX J04253260+5652426,['2MASX J04253260+5652426' '66.386' '56.879' '3.341' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
-2023yhg*,08:14:44.227,+07:15:34.05,2023-11-21 14:00:16.992,23-Nov-2023,19.55,ABMag,w - P1,4.725,Galaxy,2MASX J08144416+0715295,['2MASX J08144416+0715295' '123.684' '7.258' '4.725' 'inf' 'Galaxy' 'G'],K. C. Chambers

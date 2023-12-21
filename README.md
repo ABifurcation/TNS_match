@@ -5,6 +5,7 @@ Everyday TNS matched galaxy/cluster. Update in 9:00, 12:00, 18:00 Beijing, China
 ### The Summary Table:
 https://abifurcation.github.io/TNS_match/index.html 
 
+Everyday update Has a lag in ~20 min.
 TNS_ID has hyperlink to the target webpage.
 
 

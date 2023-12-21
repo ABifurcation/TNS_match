@@ -1,3 +1,0 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
-2023wbs,07:30:23.059,+61:49:07.24,2023-10-24 09:48:46.368,31-Oct-2023,19.8475,ABMag,r - ZTF,1.349,Galaxy,2MASX J07302323+6149077,['2MASX J07302323+6149077' '112.597' '61.819' '1.349' 'inf' 'Galaxy' 'G'],K. De (Caltech) on behalf of ZTF
-2023wby*,08:58:57.754,+28:54:08.86,2023-10-21 10:37:57.792,31-Oct-2023,19.819,ABMag,g - ZTF,2.649,RadioG,FIRST J085857.7+285406,['FIRST J085857.7+285406' '134.741' '28.902' '2.649' '2.383' 'RadioG' 'rG'],K. De (Caltech) on behalf of ZTF

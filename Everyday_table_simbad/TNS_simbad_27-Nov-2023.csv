@@ -1,6 +1,0 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
-2023yly,01:14:17.847,-27:12:49.03,2023-10-17 09:00:25.056,27-Nov-2023,21.35,ABMag,w - P1,2.215,Galaxy,2dFGRS TGS214Z223,['2dFGRS TGS214Z223' '18.574' '-27.213' '2.215' 'inf' 'Galaxy' 'G'],K. C. Chambers
-2023ylz,10:06:20.914,-06:15:22.08,2023-11-24 07:44:59.424,27-Nov-2023,18.429,ABMag,orange - ATLAS,3.833,Galaxy,2dFGRS TGN037Z044,['2dFGRS TGN037Z044' '151.588' '-6.257' '3.833' 'inf' 'Galaxy' 'G'],J. Tonry
-2023yma,00:52:13.715,+44:19:55.68,2023-11-25 09:01:03.072,27-Nov-2023,17.399,ABMag,orange - ATLAS,3.841,Seyfert,UGC   530,['UGC   530' '13.057' '44.331' '3.841' 'inf' 'Seyfert' 'SyG'],J. Tonry
-2023ymc*,10:23:19.904,+56:25:38.30,2023-11-01 15:14:42.144,27-Nov-2023,20.4,ABMag,r - P1,3.931,Galaxy,2MASX J10231999+5625423,['2MASX J10231999+5625423' '155.833' '56.428' '3.931' 'inf' 'Galaxy' 'G'],D. O. Jones (UC Santa Cruz)
-2023ymh,10:42:50.049,+25:09:09.39,2023-11-24 14:33:55.296,27-Nov-2023,20.68,ABMag,w - P1,3.948,Galaxy,LEDA 1727046,['LEDA 1727046' '160.708' '25.152' '3.948' 'inf' 'Galaxy' 'G'],K. C. Chambers

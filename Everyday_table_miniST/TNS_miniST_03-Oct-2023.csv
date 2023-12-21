@@ -1,3 +1,0 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
-2023twb,03:43:20.290,-17:42:09.43,2023-09-24 10:33:00.576,03-Oct-2023,19.3952,ABMag,r - ZTF,1,['m0185'],['03:38:59'],['-17:52:18'],"['55.834484' '-17.702755' 'G' '234.289252334' '0.052492'
- '0.52655180185292' '0.5980924725572149']",[],K. De (Caltech) on behalf of ZTF

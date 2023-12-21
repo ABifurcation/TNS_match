@@ -1,3 +1,0 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
-2023wcm,03:01:46.658,+24:52:03.77,2023-10-24 09:38:52.800,01-Nov-2023,20.27,ABMag,r - ZTF,3.852,Galaxy,LEDA 1718627,['LEDA 1718627' '45.444' '24.867' '3.852' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
-2017kib*,12:59:56.016,+08:47:09.96,2017-03-27 05:35:50.000,01-Nov-2023,18.65,ABMag,g - Sloan,4.538,Galaxy,LEDA 1353639,['LEDA 1353639' '194.983' '8.785' '4.538' '4.431' 'Galaxy' 'G'],Ine Theunissen-Limpens

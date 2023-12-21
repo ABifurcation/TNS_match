@@ -1,8 +1,0 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter
-2023aaoc,05:28:56.099,-10:09:55.43,2023-12-09 05:34:04.800,21-Dec-2023,20.21,ABMag,g - ZTF,0.076,Galaxy,Gaia DR3 3013752923535747200,"['Gaia DR3 3013752923535747200' '82.234' '-10.165' '0.076' 'inf' 'Galaxy'
- 'G']",,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
-2019aaua,23:34:33.911,+03:37:43.94,2019-07-07 10:26:24.000,21-Dec-2023,18.59,ABMag,r - ZTF,0.175,Galaxy,LAMOST J233433.91+033743.8,['LAMOST J233433.91+033743.8' '353.641' '3.629' '0.175' 'inf' 'Galaxy' 'G'],Galaxy,LAMOST J233433.91+033743.7,['LAMOST J233433.91+033743.7' '353.641' '3.629' '0.183' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
-2021aiaw*,23:40:52.417,+14:39:28.01,2021-07-21 10:26:24.000,21-Dec-2023,19.11,ABMag,r - ZTF,0.281,Galaxy,SDSS J234052.39+143927.9,['SDSS J234052.39+143927.9' '355.218' '14.658' '0.281' 'inf' 'Galaxy' 'G'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
-2018mls*,11:15:21.894,+31:31:24.90,2018-11-07 12:36:00.000,21-Dec-2023,19.43,ABMag,r - ZTF,0.683,Galaxy,SDSS J111521.85+313124.8,['SDSS J111521.85+313124.8' '168.841' '31.524' '0.683' 'inf' 'Galaxy' 'G'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
-2023aanw,02:31:29.231,+00:21:31.81,2023-09-18 12:22:02.784,21-Dec-2023,21.13,ABMag,w - P1,2.582,BrightestCG,SDSS J023129.09+002130.3,"['SDSS J023129.09+002130.3' '37.871' '0.358' '2.582' 'inf' 'BrightestCG'
- 'BiC']",,,,K. C. Chambers

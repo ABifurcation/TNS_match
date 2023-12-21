@@ -1,2 +1,0 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
-2023uxl,03:45:02.558,-19:40:22.88,2023-10-13 11:36:30.816,15-Oct-2023,20.62,ABMag,g - P1,0,['m0025'],['03:40:45'],['-19:14:06'],[],[],D. O. Jones (UC Santa Cruz)
