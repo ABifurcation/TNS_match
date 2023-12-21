@@ -2,6 +2,13 @@
 
 Everyday TNS matched galaxy/cluster. Update in 9:00, 12:00, 18:00 Beijing, China (UTC+8).
 
+### The Summary Table:
+https://abifurcation.github.io/TNS_match/index.html 
+
+TNS_ID has hyperlink to the target webpage.
+
+
+### CSV Table
 TNS ID in table with a "\*" marker has SDSS spectrum
 
 TNS_match_GLADE.csv is crossmatch with 'VII/281/glade2'
