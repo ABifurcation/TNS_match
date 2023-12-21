@@ -1,60 +1,15 @@
 
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<style>
-    table, th, td {{
-        border: 1px solid black;
-        border-collapse: collapse;
-    }}
-    th, td {{
-        padding: 5px;
-        text-align: left;
-    }}
-    th {{
-        cursor: pointer;
-    }}
-</style>
-<script>
-function sortTable(n, tableId) {{
-  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-  table = document.getElementById(tableId);
-  switching = true;
-  dir = "asc"; 
-  while (switching) {{
-    switching = false;
-    rows = table.rows;
-    for (i = 1; i < (rows.length - 1); i++) {{
-      shouldSwitch = false;
-      x = rows[i].getElementsByTagName("TD")[n];
-      y = rows[i + 1].getElementsByTagName("TD")[n];
-      if (dir == "asc") {{
-        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {{
-          shouldSwitch = true;
-          break;
-        }}
-      }} else if (dir == "desc") {{
-        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {{
-          shouldSwitch = true;
-          break;
-        }}
-      }}
-    }}
-    if (shouldSwitch) {{
-      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
-      switching = true;
-      switchcount++;      
-    }} else {{
-      if (switchcount == 0 && dir == "asc") {{
-        dir = "desc";
-        switching = true;
-      }}
-    }}
-  }}
-}}
-</script>
+<meta charset="UTF-8">
+<title>Data Table</title>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
 </head>
 <body>
-<table border="1" class="dataframe">
+<table border="1" class="dataframe display">
   <thead>
     <tr style="text-align: right;">
       <th>TNS_ID</th>
@@ -46401,17 +46356,10 @@ function sortTable(n, tableId) {{
     </tr>
   </tbody>
 </table>
-<script>
-// Add onclick listeners to table headers
-var table = document.getElementsByTagName("table")[0];
-table.id = 'myTable';
-var headers = table.getElementsByTagName("th");
-for (var i = 0; i < headers.length; i++) {{
-    headers[i].addEventListener("click", function() {{
-        var index = Array.prototype.indexOf.call(headers, this);
-        sortTable(index, 'myTable');
-    });
-}}
+<script type="text/javascript">
+$(document).ready( function () {
+    $('.display').DataTable();
+} );
 </script>
 </body>
 </html>
