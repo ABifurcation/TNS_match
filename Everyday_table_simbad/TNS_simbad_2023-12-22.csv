@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+2023aaou,03:29:12.385,-23:33:43.36,2023-12-20 21:22:54.624,2023-12-22,18.854,ABMag,orange - ATLAS,4.645,Galaxy,LEDA  799531,['LEDA  799531' '52.302' '-23.563' '4.645' 'inf' 'Galaxy' 'G'],J. Tonry

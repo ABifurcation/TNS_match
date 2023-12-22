@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
+2023xyr*,11:06:42.401,+45:44:53.81,2023-11-17 13:55:12.000,2023-11-18,16.9,ABMag,g - Sloan,1.268,LINER,2MFGC 8659,['2MFGC 8659' '166.677' '45.748' '1.268' 'inf' 'LINER' 'LIN'],K. Z. Stanek
+2023xxz,22:40:43.532,+39:30:53.10,2023-11-17 05:21:33.984,2023-11-18,20.51,ABMag,w - P1,2.597,Galaxy,LEDA 2151115,['LEDA 2151115' '340.181' '39.514' '2.597' 'inf' 'Galaxy' 'G'],K. C. Chambers
+2023xzm,03:59:25.693,-21:12:51.97,2023-11-03 13:17:24.864,2023-11-18,20.91,ABMag,w - P1,3.297,Galaxy,LEDA  831157,['LEDA  831157' '59.857' '-21.215' '3.297' 'inf' 'Galaxy' 'G'],K. C. Chambers
