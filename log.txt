@@ -1822,3 +1822,12 @@ today matching already finished and uploaded
 --------running start at 2023-12-22  15:02:23--------
 today matching already finished and uploaded
 --------running end at 2023-12-22  15:02:23--------
+--------running start at 2023-12-22  18:00:03--------
+today matching already finished and uploaded
+--------running end at 2023-12-22  18:00:03--------
+--------running start at 2023-12-23  09:00:04--------
+11 match within 5 arcsec to GLADE in 2023-12-23 
+zero match within 5 arcsec to GC in 2023-12-23
+32 match within 5 arcsec to SDSSDR16 in 2023-12-23 
+12 match within 5 arcsec to simbad in 2023-12-23 
+--------running end at 2023-12-23  09:08:47--------
