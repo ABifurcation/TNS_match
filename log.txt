@@ -910,3 +910,6 @@ No TNS email in 2023-12-05
 38 match within 5 arcsec to SDSSDR16 in 2023-12-29 
 8 match within 5 arcsec to simbad in 2023-12-29 
 --------running end at 2023-12-29  10:59:13--------
+--------running start at 2023-12-29  11:16:38--------
+The previous github connection failed
+--------running end at 2023-12-29  11:16:38--------

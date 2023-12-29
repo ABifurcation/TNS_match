@@ -1,4 +1,4 @@
-TNS_ID,objectId,type,g_minus_r_mean,g_minus_r_latest,g,r,latest_utc,N_obs,N_obs_14_day,rising,fading,sherlock,offsetArcsec,g_max,r_max,g_host,r_host,g_minus_r_host,sg_score,disc_mjd,latest_mjd,ra,decl
+TNS_ID,ZTF_ID,type,g_minus_r_mean,g_minus_r_latest,g,r,latest_utc,N_obs,N_obs_14_day,rising,fading,sherlock,offsetArcsec,g_max,r_max,g_host,r_host,g_minus_r_host,sg_score,disc_mjd,latest_mjd,ra,decl
 2023abmf,ZTF23absptym,,0.48,0.27,20.4814,20.216,2023-12-15T11:47:45.997421,5,5,,fading,NT,1.47,20.4814,19.9975,19.3475,18.9715,0.38,0.005,60291.3,60293.5,121.45148788571429,52.37703515714286
 2023abnb,ZTF23abvnahb,SN Ia,0.94,0.94,17.1301,16.1934,2023-12-27T04:19:40.002235,1,1,rising/peak,,SN,3.37,17.1301,16.1934,16.313,15.5405,0.77,0.5,60305.1,60305.2,31.23081425,28.98773965
 2023abnj,ZTF23absgqhq,,0.09,0.15,20.4464,20.2954,2023-12-15T11:47:45.997421,1,1,rising/peak,,SN,3.1,20.4125,20.2538,21.3581,21.023,0.34,0.00708333,60287.3,60293.5,124.20396483,55.55353539
