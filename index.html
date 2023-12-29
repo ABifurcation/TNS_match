@@ -7,6 +7,15 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
     <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+    <script type="text/javascript">
+    $(document).ready( function () {
+        $('.display').DataTable({
+            "columnDefs": [
+                { "type": "num", "targets": [0] }  // 假设数字在第一列，您可以根据需要修改 targets 数组
+            ]
+        });
+    } );
+    </script>
     </head>
     <body>
     <table border="1" class="dataframe display">

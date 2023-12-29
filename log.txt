@@ -920,3 +920,10 @@ The previous github connection failed
 38 match within 5 arcsec to SDSSDR16 in 2023-12-29 
 8 match within 5 arcsec to simbad in 2023-12-29 
 --------running end at 2023-12-29  11:19:20--------
+--------running start at 2023-12-29  12:00:03--------
+The previous github connection failed
+8 match within 5 arcsec to GLADE in 2023-12-29 
+1 match within 5 arcsec to GC in 2023-12-29 
+38 match within 5 arcsec to SDSSDR16 in 2023-12-29 
+8 match within 5 arcsec to simbad in 2023-12-29 
+--------running end at 2023-12-29  12:01:01--------
