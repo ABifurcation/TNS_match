@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
+2023otw,23:11:13.614,-23:01:07.29,2023-11-08,SN II,0.087,2023-11-07 13:53:39,Sebastian Gomez (STScI)
+2023qvl,15:50:08.295,+53:39:37.04,2023-11-08,SLSN-I,0.4365,2023-11-07 13:55:58,Sebastian Gomez (STScI)
+2023szi,22:19:56.030,+25:54:56.29,2023-11-08,SLSN-I,0.5063,2023-11-07 13:58:28,Sebastian Gomez (STScI)

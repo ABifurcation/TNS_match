@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
+2023xgt,01:06:50.730,-05:24:00.18,2023-11-29,SN Ia,0.08,2023-11-28 15:11:59,M. Gonzalez-Banuelos
+2023yim,04:13:32.727,-68:12:59.27,2023-11-29,SN Ia-91T-like,0.05,2023-11-28 15:11:59,M. Gonzalez-Banuelos
+2023yoa,00:43:09.320,+41:15:41.60,2023-11-29,Nova,0,2023-11-28 19:40:05,Claudio Balcon (Belluno A.O. ISSP)

@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
+2023aaby,08:40:45.339,-04:07:00.78,2023-12-17,SN Ic,0.014,2023-12-16 13:58:32,S. Barmentloo
+2023xjl,01:52:20.091,-36:39:45.47,2023-12-17,SN IIP,0.048,2023-12-16 13:58:32,S. Barmentloo
+2023aagf,00:42:38.160,+41:10:24.80,2023-12-17,Nova,,2023-12-16 15:47:49,Claudio Balcon (Belluno A.O. ISSP)
+2023zjm,05:22:30.044,+05:34:15.19,2023-12-17,SN Ia,0.036529,2023-12-17 00:04:45,Claudio Balcon (Belluno A.O. ISSP)

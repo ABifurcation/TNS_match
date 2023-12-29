@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
+2023wvl,19:58:20.650,+55:06:53.10,2023-11-09,CV,,2023-11-08 11:34:07,Jingyuan Zhao
+2023wuk,22:19:30.397,+29:23:17.61,2023-11-09,Computed-Ia,0.015,2023-11-08 13:30:47,M. Stritzinger (Aarhus)
+2023wvm,22:02:00.360,+39:49:35.60,2023-11-09,CV,0,2023-11-08 19:37:02,Andrea Reguitti

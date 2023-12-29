@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
+2023umn,21:10:10.813,+24:28:56.05,2023-10-14,SN Ia,0.051,2023-10-13 05:45:23,C. Fremling
+2023usf,08:17:23.510,+21:41:40.60,2023-10-14,SN Ib/c,0.012,2023-10-13 08:26:19,Jingyuan Zhao
+2023ldh,15:09:09.597,+52:31:59.80,2023-10-14,SN IIn,0.011321,2023-10-13 16:42:55,A. Pastorello (INAF-OAPd)

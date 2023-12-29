@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
+2023uqe,01:22:14.091,+33:30:27.67,2023-10-12,SN Ia,0.08,2023-10-11 16:04:30,Megan Newsome (LCO/UCSB)
+2023txn,19:50:33.320,+30:28:22.40,2023-10-12,Nova,,2023-10-11 17:58:05,Mitsugu Fujii (Fujii Kurosaki Observatory)
+2023ujr,17:08:25.282,+11:52:16.58,2023-10-12,SN Ia,0.033,2023-10-11 19:06:03,Claudio Balcon (Belluno A.O. ISSP)
+2023uiq,00:41:48.698,+41:31:21.25,2023-10-12,Nova,0,2023-10-11 22:21:28,Claudio Balcon (Belluno A.O. ISSP)

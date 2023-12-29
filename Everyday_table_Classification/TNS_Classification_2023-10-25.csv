@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
+2023ucy,19:01:41.992,+40:45:05.89,2023-10-25,SN II,0.0155,2023-10-24 03:55:02,Kenta Taguchi (Kyoto University)
+2023qhe,02:14:15.820,-32:03:10.01,2023-10-25,SN Ia,0.0117,2023-10-24 15:26:34,T. Pessi
+2023uvx,05:00:19.634,-18:51:09.52,2023-10-25,SN Ia,0.061,2023-10-24 15:26:34,T. Pessi
+2023vio,04:27:33.594,-42:09:38.64,2023-10-25,SN Iax[02cx-like],0.0156,2023-10-24 15:26:34,T. Pessi

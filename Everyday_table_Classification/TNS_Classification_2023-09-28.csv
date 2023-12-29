@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
+2023sls,16:48:29.844,+24:27:28.53,2023-09-28,SN Ia,0.074389,2023-09-27 03:35:32,C. Fremling
+2023tpo,06:15:34.905,+51:58:14.50,2023-09-28,SN Ia,0.050135,2023-09-27 10:10:35,C. Fremling
+2023tqm,07:57:28.590,+51:07:23.82,2023-09-28,SN Ia,0.055,2023-09-27 11:39:56,C. Fremling
