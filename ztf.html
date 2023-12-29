@@ -9,15 +9,21 @@
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
     <script type="text/javascript">
     $(document).ready( function () {
-        var columnDefs = [];
+        // 自定义排序插件
+        jQuery.fn.dataTable.ext.type.order['num-html-nan-last-pre'] = function(data) {
+            if (data === '' || data === 'np.nan') {
+                return Infinity; // 将空字符串或 'np.nan' 视为无穷大
+            }
+            return parseFloat(data) || 0; // 将无法解析为数字的字符串转换为0
+        };
 
+        var columnDefs = [];
         // 遍历表格的每个标题
         $('.display thead th').each(function(i) {
             var title = $(this).text();
-
             // 检查标题是否是 'g_minus_r_latest' 或 'g_minus_r_mean'
             if (title === 'g_minus_r_latest' || title === 'g_minus_r_mean') {
-                columnDefs.push({ "type": "num", "targets": i });
+                columnDefs.push({ "type": "num-html-nan-last", "targets": i });
             }
         });
 

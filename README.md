@@ -14,7 +14,6 @@ https://abifurcation.github.io/TNS_match/ztf.html
 TNS_ID has hyperlink to the target TNS webpage.
 
 ### CSV Table
-TNS ID in table with a "\*" marker has SDSS spectrum
 
 TNS_match_GLADE.csv is crossmatch with 'VII/281/glade2'
 TNS_match_SDSSDR16.csv is crossmatch with 'V/154'
