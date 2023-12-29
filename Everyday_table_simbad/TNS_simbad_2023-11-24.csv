@@ -1,5 +1,5 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter
-2023yie,21:56:24.091,-15:46:01.38,2023-11-04 05:11:22.272,2023-11-24,19.62,ABMag,w - P1,0.402,Galaxy,LEDA  906770,['LEDA  906770' '329.1' '-15.767' '0.402' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers
-2023yhw,09:01:12.507,+03:10:55.15,2023-11-21 14:12:21.888,2023-11-24,20.73,ABMag,w - P1,1.155,Compact_Gr_G,SDSSCGB 1994,['SDSSCGB 1994' '135.302' '3.182' '1.155' 'inf' 'Compact_Gr_G' 'CGG'],,,,K. C. Chambers
-2023yil*,03:03:17.288,+01:09:44.22,2023-11-19 09:00:51.840,2023-11-24,21.15,ABMag,w - P1,2.935,Galaxy,SDSSCGB 4658.1,['SDSSCGB 4658.1' '45.821' '1.162' '2.935' 'inf' 'Galaxy' 'G'],Compact_Gr_G,SDSSCGB 4658,['SDSSCGB 4658' '45.823' '1.162' '4.684' 'inf' 'Compact_Gr_G' 'CGG'],K. C. Chambers
-2023yic,04:56:03.588,-18:06:33.94,2023-11-20 10:58:45.408,2023-11-24,21.09,ABMag,w - P1,4.363,Galaxy,LEDA  872595,['LEDA  872595' '74.015' '-18.111' '4.363' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter,SDSS_image
+2023yie,21:56:24.091,-15:46:01.38,2023-11-04 05:11:22.272,2023-11-24,19.62,ABMag,w - P1,0.402,Galaxy,LEDA  906770,['LEDA  906770' '329.1' '-15.767' '0.402' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers,No
+2023yhw,09:01:12.507,+03:10:55.15,2023-11-21 14:12:21.888,2023-11-24,20.73,ABMag,w - P1,1.155,Compact_Gr_G,SDSSCGB 1994,['SDSSCGB 1994' '135.302' '3.182' '1.155' 'inf' 'Compact_Gr_G' 'CGG'],,,,K. C. Chambers,No
+2023yil,03:03:17.288,+01:09:44.22,2023-11-19 09:00:51.840,2023-11-24,21.15,ABMag,w - P1,2.935,Galaxy,SDSSCGB 4658.1,['SDSSCGB 4658.1' '45.821' '1.162' '2.935' 'inf' 'Galaxy' 'G'],Compact_Gr_G,SDSSCGB 4658,['SDSSCGB 4658' '45.823' '1.162' '4.684' 'inf' 'Compact_Gr_G' 'CGG'],K. C. Chambers,Yes
+2023yic,04:56:03.588,-18:06:33.94,2023-11-20 10:58:45.408,2023-11-24,21.09,ABMag,w - P1,4.363,Galaxy,LEDA  872595,['LEDA  872595' '74.015' '-18.111' '4.363' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers,No

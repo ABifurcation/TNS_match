@@ -1,7 +1,7 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
-2023urc,20:08:46.900,-61:05:59.82,2023-10-09 23:32:38.400,2023-10-12,16.27,ABMag,G - Gaia,0.105,Seyfert1,NGC  6860,['NGC  6860' '302.195' '-61.1' '0.105' 'inf' 'Seyfert1' 'Sy1'],S.T. Hodgkin
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2023urc,20:08:46.900,-61:05:59.82,2023-10-09 23:32:38.400,2023-10-12,16.27,ABMag,G - Gaia,0.105,Seyfert1,NGC  6860,['NGC  6860' '302.195' '-61.1' '0.105' 'inf' 'Seyfert1' 'Sy1'],S.T. Hodgkin,No
 2023urj,00:03:46.499,+24:36:44.18,2023-10-10 09:35:27.168,2023-10-12,18.775,ABMag,cyan - ATLAS,1.692,Galaxy,Gaia DR3 2849990356023776896,"['Gaia DR3 2849990356023776896' '0.944' '24.613' '1.692' 'inf' 'Galaxy'
- 'G']",J. Tonry
+ 'G']",J. Tonry,No
 2023urk,02:04:08.603,+35:09:58.04,2023-10-08 11:39:50.400,2023-10-12,18.399,ABMag,orange - ATLAS,3.084,GtowardsGroup,2MASX J02040841+3509591,"['2MASX J02040841+3509591' '31.035' '35.167' '3.084' 'inf' 'GtowardsGroup'
- 'GiG']",J. Tonry
-2023urr,02:12:27.823,+11:17:12.31,2023-10-10 12:51:22.752,2023-10-12,19.57,ABMag,w - P1,4.411,Galaxy,2MASX J02122810+1117133,['2MASX J02122810+1117133' '33.117' '11.287' '4.411' 'inf' 'Galaxy' 'G'],K. C. Chambers
+ 'GiG']",J. Tonry,No
+2023urr,02:12:27.823,+11:17:12.31,2023-10-10 12:51:22.752,2023-10-12,19.57,ABMag,w - P1,4.411,Galaxy,2MASX J02122810+1117133,['2MASX J02122810+1117133' '33.117' '11.287' '4.411' 'inf' 'Galaxy' 'G'],K. C. Chambers,No

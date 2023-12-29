@@ -1,0 +1,2 @@
+tns_name,objectId,type,g_minus_r_mean,g_minus_r_latest,g,r,latest_utc,N_obs,N_obs_14_day,rising,fading,sherlock,offsetArcsec,g_max,r_max,g_host,r_host,g_minus_r_host,sg_score,disc_mjd,latest_mjd,ra,decl
+2023aaou,ZTF23abvoqup,,,,18.6309,,2023-12-28T04:02:05.999984,1,1,,,SN,4.74,18.6309,,-999.0,-999.0,0.0,0.5,60306.2,60306.2,52.3015959,-23.5620494

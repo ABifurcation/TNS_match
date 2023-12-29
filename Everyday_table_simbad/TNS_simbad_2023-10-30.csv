@@ -1,6 +1,6 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
-2018mkx*,12:16:29.958,+08:42:53.20,2018-06-08 05:11:02.400,2023-10-30,19.72,ABMag,g - ZTF,0.74,Seyfert1,LEDA 1352332,['LEDA 1352332' '184.125' '8.715' '0.74' 'inf' 'Seyfert1' 'Sy1'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
-2023wat,02:21:13.920,-09:52:17.62,2023-09-11 13:02:07.296,2023-10-30,21.71,ABMag,w - P1,2.115,Galaxy,GAMA 1621179,['GAMA 1621179' '35.308' '-9.871' '2.115' 'inf' 'Galaxy' 'G'],K. C. Chambers
-2023waq*,09:36:02.597,+08:52:18.47,2023-10-17 14:36:55.008,2023-10-30,21.53,ABMag,w - P1,2.662,Galaxy,SDSS J093602.49+085216.3,['SDSS J093602.49+085216.3' '144.01' '8.871' '2.662' 'inf' 'Galaxy' 'G'],K. C. Chambers
-2023wbg,03:16:36.647,-30:59:20.11,2023-10-27 10:58:35.040,2023-10-30,20.23,ABMag,i - P1,4.506,Seyfert2,LEDA  133019,['LEDA  133019' '49.151' '-30.988' '4.506' 'inf' 'Seyfert2' 'Sy2'],K. C. Chambers
-2023wai,04:06:35.016,-06:51:34.70,2023-09-11 13:50:13.920,2023-10-30,21.42,ABMag,w - P1,4.716,Galaxy,LEDA 1027795,['LEDA 1027795' '61.645' '-6.86' '4.716' 'inf' 'Galaxy' 'G'],K. C. Chambers
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2018mkx,12:16:29.958,+08:42:53.20,2018-06-08 05:11:02.400,2023-10-30,19.72,ABMag,g - ZTF,0.74,Seyfert1,LEDA 1352332,['LEDA 1352332' '184.125' '8.715' '0.74' 'inf' 'Seyfert1' 'Sy1'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2023wat,02:21:13.920,-09:52:17.62,2023-09-11 13:02:07.296,2023-10-30,21.71,ABMag,w - P1,2.115,Galaxy,GAMA 1621179,['GAMA 1621179' '35.308' '-9.871' '2.115' 'inf' 'Galaxy' 'G'],K. C. Chambers,No
+2023waq,09:36:02.597,+08:52:18.47,2023-10-17 14:36:55.008,2023-10-30,21.53,ABMag,w - P1,2.662,Galaxy,SDSS J093602.49+085216.3,['SDSS J093602.49+085216.3' '144.01' '8.871' '2.662' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2023wbg,03:16:36.647,-30:59:20.11,2023-10-27 10:58:35.040,2023-10-30,20.23,ABMag,i - P1,4.506,Seyfert2,LEDA  133019,['LEDA  133019' '49.151' '-30.988' '4.506' 'inf' 'Seyfert2' 'Sy2'],K. C. Chambers,No
+2023wai,04:06:35.016,-06:51:34.70,2023-09-11 13:50:13.920,2023-10-30,21.42,ABMag,w - P1,4.716,Galaxy,LEDA 1027795,['LEDA 1027795' '61.645' '-6.86' '4.716' 'inf' 'Galaxy' 'G'],K. C. Chambers,No

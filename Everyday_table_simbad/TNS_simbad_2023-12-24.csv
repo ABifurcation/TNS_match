@@ -1,5 +1,5 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
-2023aawa*,21:51:45.709,-06:54:26.50,2023-09-12 07:40:21.216,2023-12-24,20.52,ABMag,w - P1,0.518,Galaxy,LEDA 1027097,['LEDA 1027097' '327.94' '-6.908' '0.518' 'inf' 'Galaxy' 'G'],K. C. Chambers
-2023aats,02:25:51.107,-05:15:58.20,2023-10-11 10:11:33.216,2023-12-24,21.26,ABMag,w - P1,1.476,Galaxy,VIDEO J022551.20-051558.67,['VIDEO J022551.20-051558.67' '36.463' '-5.266' '1.476' 'inf' 'Galaxy' 'G'],K. C. Chambers
-2023aawc,07:31:47.555,+21:35:36.89,2023-10-15 13:32:07.872,2023-12-24,21.25,ABMag,w - P1,2.872,Galaxy,LEDA 1653250,['LEDA 1653250' '112.947' '21.593' '2.872' 'inf' 'Galaxy' 'G'],K. C. Chambers
-2023aauk,18:13:37.815,+37:34:01.91,2023-09-18 05:51:05.184,2023-12-24,21.08,ABMag,w - P1,3.778,Galaxy,2MASX J18133747+3734028,['2MASX J18133747+3734028' '273.406' '37.568' '3.778' 'inf' 'Galaxy' 'G'],K. C. Chambers
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2023aawa,21:51:45.709,-06:54:26.50,2023-09-12 07:40:21.216,2023-12-24,20.52,ABMag,w - P1,0.518,Galaxy,LEDA 1027097,['LEDA 1027097' '327.94' '-6.908' '0.518' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2023aats,02:25:51.107,-05:15:58.20,2023-10-11 10:11:33.216,2023-12-24,21.26,ABMag,w - P1,1.476,Galaxy,VIDEO J022551.20-051558.67,['VIDEO J022551.20-051558.67' '36.463' '-5.266' '1.476' 'inf' 'Galaxy' 'G'],K. C. Chambers,No
+2023aawc,07:31:47.555,+21:35:36.89,2023-10-15 13:32:07.872,2023-12-24,21.25,ABMag,w - P1,2.872,Galaxy,LEDA 1653250,['LEDA 1653250' '112.947' '21.593' '2.872' 'inf' 'Galaxy' 'G'],K. C. Chambers,No
+2023aauk,18:13:37.815,+37:34:01.91,2023-09-18 05:51:05.184,2023-12-24,21.08,ABMag,w - P1,3.778,Galaxy,2MASX J18133747+3734028,['2MASX J18133747+3734028' '273.406' '37.568' '3.778' 'inf' 'Galaxy' 'G'],K. C. Chambers,No

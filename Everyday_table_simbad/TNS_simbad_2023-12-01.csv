@@ -1,5 +1,5 @@
-TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter
-2023ypt*,02:03:54.020,-09:24:52.74,2023-11-28 23:06:43.200,2023-12-01,18.48,ABMag,G - Gaia,0.797,Seyfert1,[VV2003c] J020354.0-092452,"['[VV2003c] J020354.0-092452' '30.975' '-9.414' '0.797' 'inf' 'Seyfert1'
- 'Sy1']",S.T. Hodgkin
-2023ypv*,23:59:31.758,+00:20:19.51,2023-11-29 19:21:38.880,2023-12-01,18.95,ABMag,orange - ATLAS,0.811,Galaxy,LEDA 1163383,['LEDA 1163383' '359.882' '0.339' '0.811' 'inf' 'Galaxy' 'G'],J. Tonry
-2023ypk,12:43:30.280,-06:51:54.07,2023-11-27 02:19:40.800,2023-12-01,18.68,ABMag,G - Gaia,1.193,Galaxy,LEDA   96776,['LEDA   96776' '190.876' '-6.865' '1.193' 'inf' 'Galaxy' 'G'],S.T. Hodgkin
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2023ypt,02:03:54.020,-09:24:52.74,2023-11-28 23:06:43.200,2023-12-01,18.48,ABMag,G - Gaia,0.797,Seyfert1,[VV2003c] J020354.0-092452,"['[VV2003c] J020354.0-092452' '30.975' '-9.414' '0.797' 'inf' 'Seyfert1'
+ 'Sy1']",S.T. Hodgkin,Yes
+2023ypv,23:59:31.758,+00:20:19.51,2023-11-29 19:21:38.880,2023-12-01,18.95,ABMag,orange - ATLAS,0.811,Galaxy,LEDA 1163383,['LEDA 1163383' '359.882' '0.339' '0.811' 'inf' 'Galaxy' 'G'],J. Tonry,Yes
+2023ypk,12:43:30.280,-06:51:54.07,2023-11-27 02:19:40.800,2023-12-01,18.68,ABMag,G - Gaia,1.193,Galaxy,LEDA   96776,['LEDA   96776' '190.876' '-6.865' '1.193' 'inf' 'Galaxy' 'G'],S.T. Hodgkin,No
