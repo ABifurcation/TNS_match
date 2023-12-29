@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2023vhq,10:39:27.112,+12:48:47.39,2023-10-18 12:29:17.998,2023-10-19,20.0289,ABMag,r - ZTF,2,['m4080'],['10:42:18'],['+13:29:06'],[],"['159.863064' '12.813022' 'Galaxy' '930.6833723528085' '0.2267'
+ '0.6145389833936307' '2.772849250846952']",A. Munoz-Arancibia
+2023vie,23:29:39.616,+21:19:38.81,2023-10-14 08:07:48.000,2023-10-19,20.7664,ABMag,r - ZTF,2,['m5134'],['23:32:19'],['+21:39:54'],[],"['352.41491' '21.327442' 'Galaxy' '903.085291009974' '0.2196'
+ '0.5257119188663494' '2.301714528342001']",A. Munoz-Arancibia

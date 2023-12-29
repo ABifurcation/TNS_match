@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2023ukv,09:10:32.229,+74:16:48.91,2023-10-07 12:11:13.004,2023-10-09,20.3488,ABMag,r - ZTF,0,['m9297'],['08:56:59'],['+74:50:06'],[],[],A. Munoz-Arancibia

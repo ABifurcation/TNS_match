@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2023zvj,05:54:18.640,+78:31:22.66,2023-12-11 06:51:50.400,2023-12-14,18.4,ABMag,G - Gaia,0,['m9409'],['06:17:34'],['+78:55:30'],[],[],S.T. Hodgkin
+2018mlp,11:26:18.255,+58:35:38.80,2018-11-07 12:12:57.600,2023-12-14,19.6,ABMag,r - ZTF,12,['m8498'],['11:31:00'],['+58:28:30'],"['171.577' '58.5941' 'G' '522.396' '0.112284326142' '1.7591586824176269'
+ '4.455328447860638']","['171.576892' '58.594078' 'Galaxy' '477.73810750840784' '0.11329'
+ '1.5606604476381578' '3.614707628901058']",C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
