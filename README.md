@@ -7,6 +7,7 @@ https://abifurcation.github.io/TNS_match/index.html
 
 The webpage table has a deploy lag of ~20 min in updating.
 TNS_ID has hyperlink to the target TNS webpage.
+ZTF_ID has hyperlink to the target Lasair webpage.
 
 ### The ZTF Table:
 https://abifurcation.github.io/TNS_match/ztf.html 
