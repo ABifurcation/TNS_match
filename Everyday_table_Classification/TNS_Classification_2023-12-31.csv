@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
+2023aaqu,00:23:10.447,-52:25:15.32,2023-12-31,SN Ia,0.031,2023-12-30 16:44:43,B. Barmentloo
+2023acbq,03:13:18.858,+17:59:28.03,2023-12-31,SN Ia,0.035,2023-12-30 16:44:43,B. Barmentloo
+2018mli,11:07:52.832,+44:21:44.99,2023-12-31,TDE-H-He,0.076,2023-12-30 17:34:31,Iair Arcavi (Tel Aviv University)
+2023aakh,01:57:18.569,-03:22:34.20,2023-12-31,SN Ia,0.078,2023-12-30 18:34:48,C. Fremling
