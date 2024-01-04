@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024bv,23:27:39.749,+22:45:29.74,2024-01-02 05:04:12.000,2024-01-03,18.42,ABMag,z - P1,12,['m5290'],['23:27:45'],['+23:01:42'],"['351.916168' '22.75894' 'G' '165.561251326' '0.037802'
+ '3.0450910946733734' '2.4441837713638646']","['351.916148' '22.758914' 'Galaxy' '147.2370101527268' '0.0343'
+ '2.9303635637899315' '2.0917672657533095']",D. O. Jones (UC Santa Cruz)
