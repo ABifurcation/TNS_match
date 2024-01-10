@@ -1197,3 +1197,12 @@ zero match within 5 arcsec to GC in 2024-01-10
 --------running start at 2024-01-10  11:00:49--------
 The previous github connection failed
 --------running end at 2024-01-10  11:00:52--------
+--------running start at 2024-01-10  11:01:54--------
+The previous github connection failed
+9 match within 5 arcsec to GLADE in 2024-01-10 
+zero match within 5 arcsec to GC in 2024-01-10
+11 match within 5 arcsec to SDSSDR16 in 2024-01-10 
+10 match within 5 arcsec to simbad in 2024-01-10 
+--------running start at 2024-01-10  11:06:07--------
+The previous github connection failed
+--------running end at 2024-01-10  11:06:09--------
