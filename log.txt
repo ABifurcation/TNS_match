@@ -1168,3 +1168,32 @@ zero match within 5 arcsec to GC in 2024-01-09
 20 match within 5 arcsec to SDSSDR16 in 2024-01-09 
 11 match within 5 arcsec to simbad in 2024-01-09 
 --------running end at 2024-01-09  09:07:25--------
+--------running start at 2024-01-09  12:00:03--------
+today matching already finished and uploaded
+--------running end at 2024-01-09  12:00:04--------
+--------running start at 2024-01-09  18:00:03--------
+today matching already finished and uploaded
+--------running end at 2024-01-09  18:00:04--------
+--------running start at 2024-01-10  09:00:03--------
+9 match within 5 arcsec to GLADE in 2024-01-10 
+zero match within 5 arcsec to GC in 2024-01-10
+11 match within 5 arcsec to SDSSDR16 in 2024-01-10 
+10 match within 5 arcsec to simbad in 2024-01-10 
+--------running start at 2024-01-10  10:14:47--------
+9 match within 5 arcsec to GLADE in 2024-01-10 
+zero match within 5 arcsec to GC in 2024-01-10
+11 match within 5 arcsec to SDSSDR16 in 2024-01-10 
+10 match within 5 arcsec to simbad in 2024-01-10 
+--------running start at 2024-01-10  10:28:17--------
+9 match within 5 arcsec to GLADE in 2024-01-10 
+zero match within 5 arcsec to GC in 2024-01-10
+11 match within 5 arcsec to SDSSDR16 in 2024-01-10 
+10 match within 5 arcsec to simbad in 2024-01-10 
+--------running start at 2024-01-10  10:50:31--------
+9 match within 5 arcsec to GLADE in 2024-01-10 
+zero match within 5 arcsec to GC in 2024-01-10
+11 match within 5 arcsec to SDSSDR16 in 2024-01-10 
+10 match within 5 arcsec to simbad in 2024-01-10 
+--------running start at 2024-01-10  11:00:49--------
+The previous github connection failed
+--------running end at 2024-01-10  11:00:52--------
