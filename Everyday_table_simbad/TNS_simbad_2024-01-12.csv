@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024wf,09:56:33.501,+01:50:57.26,2024-01-08 11:26:49.344,2024-01-12,18.3615,ABMag,r - ZTF,0.45,Galaxy,Z   8-3,['Z   8-3' '149.139' '1.849' '0.45' 'inf' 'Galaxy' 'G'],K. De (Caltech) on behalf of ZTF,Yes
+2024vs,07:51:07.260,+72:57:57.10,2024-01-10 21:23:24.864,2024-01-12,16.8,VegaMag,Clear - ,2.629,Galaxy,LEDA   21981,['LEDA   21981' '117.779' '72.965' '2.629' 'inf' 'Galaxy' 'G'],Hualin Li,No
+2024we,23:42:17.098,+26:13:55.81,2024-01-11 02:38:24.000,2024-01-12,17,ABMag,g - Sloan,3.521,GtowardsGroup,NGC  7735,['NGC  7735' '355.572' '26.232' '3.521' '2.033' 'GtowardsGroup' 'GiG'],K. Z. Stanek,No
+2024vr,02:35:21.162,-25:31:39.15,2024-01-10 20:06:51.840,2024-01-12,18.327,ABMag,cyan - ATLAS,6.439,EmissionG,ESO 479-15,['ESO 479-15' '38.84' '-25.528' '6.439' 'inf' 'EmissionG' 'EmG'],J. Tonry,No
