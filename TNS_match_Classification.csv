@@ -785,3 +785,5 @@ TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
 2024amp,12:58:47.670,-08:49:07.10,2024-01-21,CV,,2024-01-20 04:12:44,Jingyuan Zhao
 2024ahv,16:18:46.313,+07:24:44.90,2024-01-21,SN Ib,0.004833,2024-01-20 05:17:32,Claudio Balcon (Belluno A.O. ISSP)
 2024vf,09:17:41.220,+07:36:48.70,2024-01-21,CV,0.0,2024-01-20 15:55:41,Robin Leadbeater
+2024ahe,23:02:37.840,+41:13:57.70,2024-01-22,SN Ia-91T-like,0.02,2024-01-21 10:37:51,Claudio Balcon (Belluno A.O. ISSP)
+2024any,03:08:57.835,-02:56:45.92,2024-01-22,SN Ia,0.0082,2024-01-21 21:52:55,Claudio Balcon (Belluno A.O. ISSP)
