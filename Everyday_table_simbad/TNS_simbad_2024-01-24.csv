@@ -1,0 +1,10 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Gal_3_type,Gal_3_name,Gal_3_info,Reporter,SDSS_image
+2024aro,14:15:02.902,+07:05:41.03,2024-01-23 14:54:59.328,2024-01-24,19.81,ABMag,i - P1,0.317,Galaxy,SDSS J141502.88+070541.1,['SDSS J141502.88+070541.1' '213.762' '7.095' '0.317' 'inf' 'Galaxy' 'G'],,,,,,,D. O. Jones (UC Santa Cruz),Yes
+2024arc,16:13:42.251,+55:42:04.00,2024-01-22 14:55:14.016,2024-01-24,18.852,ABMag,orange - ATLAS,0.564,Galaxy,[EEB2013] RX J1613.7+5542-g01s,"['[EEB2013] RX J1613.7+5542-g01s' '243.426' '55.701' '0.564' 'inf'
+ 'Galaxy' 'G']",AGN,[EEB2013] RX J1613.7+5542-g1,"['[EEB2013] RX J1613.7+5542-g1' '243.426' '55.701' '0.564' 'inf' 'AGN'
+ 'AGN']",Galaxy,[EEB2013] RX J1613.7+5542-g2,"['[EEB2013] RX J1613.7+5542-g2' '243.425' '55.699' '8.412' 'inf' 'Galaxy'
+ 'G']",J. Tonry,No
+2024arr,06:39:12.252,-28:56:53.66,2024-01-13 12:13:45.984,2024-01-24,19.45,ABMag,L - GOTO,0.846,Galaxy,LEDA  735435,['LEDA  735435' '99.801' '-28.948' '0.846' 'inf' 'Galaxy' 'G'],,,,,,,B. Godson,No
+2024arf,06:21:04.470,-36:58:29.27,2024-01-21 11:52:43.680,2024-01-24,18.75,ABMag,L - GOTO,1.112,Galaxy,LEDA  630172,['LEDA  630172' '95.268' '-36.975' '1.112' 'inf' 'Galaxy' 'G'],,,,,,,T. Killestein,No
+2024arp,05:40:27.704,-49:39:52.33,2024-01-19 11:50:56.544,2024-01-24,18.19,ABMag,L - GOTO,7.786,Seyfert2,LEDA 2816497,['LEDA 2816497' '85.115' '-49.662' '7.786' 'inf' 'Seyfert2' 'Sy2'],,,,,,,B. Godson,No
+2024arb,14:40:39.996,+35:52:53.76,2024-01-22 12:51:01.152,2024-01-24,18.51,ABMag,orange - ATLAS,9.205,Galaxy,SDSS J144040.74+355254.2,['SDSS J144040.74+355254.2' '220.17' '35.882' '9.205' 'inf' 'Galaxy' 'G'],,,,,,,J. Tonry,No
