@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_info,Reporter,SDSS_image
+2024art,00:43:01.450,+41:16:17.22,2024-01-23 22:57:59.616,2024-01-25,17.22,ABMag,g - Sloan,7.31821544960533,0.02767417357448029,F_P10 M31 old Cluster,15.009626697305258,780.0,"['P10_B090D' '10.75508' '41.26955' 'F_P10 M31 old Cluster' '780.0'
+ '7.31821544960533' '0.02767417357448029']",M. Michaud (MCD Observatory) ,No

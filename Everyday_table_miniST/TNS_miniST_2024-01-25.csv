@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024asa,01:52:18.060,+22:07:07.72,2024-01-19 10:56:38.400,2024-01-25,17.98,ABMag,G - Gaia,0,['m4992'],['01:54:36'],['+21:39:54'],[],[],S.T. Hodgkin
+2024asw,12:03:06.802,+52:44:58.06,2024-01-22 13:51:10.080,2024-01-25,20.27,ABMag,i - P1,0,['m8119'],['12:07:44'],['+53:01:18'],[],[],K. C. Chambers
