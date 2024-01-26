@@ -1,0 +1,10 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Gal_3_type,Gal_3_name,Gal_3_info,Reporter,SDSS_image
+2024aub,03:35:51.673,-15:38:32.47,2024-01-21 05:51:19.872,2024-01-26,20.03,ABMag,r - P1,1.579,Galaxy,LEDA  908397,['LEDA  908397' '53.965' '-15.643' '1.579' 'inf' 'Galaxy' 'G'],,,,,,,D. O. Jones (UC Santa Cruz),No
+2024att,12:52:55.763,-05:23:28.09,2024-01-21 14:13:28.416,2024-01-26,20.34,ABMag,i - P1,1.729,Galaxy,2dFGRS TGN071Z327,['2dFGRS TGN071Z327' '193.232' '-5.391' '1.729' 'inf' 'Galaxy' 'G'],,,,,,,D. O. Jones (UC Santa Cruz),No
+2024atr,12:25:33.604,+09:23:28.36,2024-01-22 13:05:02.688,2024-01-26,19.72,ABMag,i - P1,2.505,ClG,ZwCl  5127,['ZwCl  5127' '186.389' '9.391' '2.505' 'inf' 'ClG' 'ClG'],BrightestCG,SDSS J122533.45+092329.3,"['SDSS J122533.45+092329.3' '186.389' '9.391' '2.569' 'inf' 'BrightestCG'
+ 'BiC']",BrightestCG,SDSS J122533.78+092328.2,"['SDSS J122533.78+092328.2' '186.391' '9.391' '2.578' 'inf' 'BrightestCG'
+ 'BiC']",D. O. Jones (UC Santa Cruz),No
+2024ato,02:11:27.216,+39:21:17.50,2024-01-16 05:05:16.800,2024-01-26,19.76,ABMag,g - ZTF,2.507,Galaxy,LEDA 2148269,['LEDA 2148269' '32.863' '39.354' '2.507' 'inf' 'Galaxy' 'G'],,,,,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024atm,02:56:03.233,+11:16:48.73,2024-01-16 05:06:43.200,2024-01-26,19.62,ABMag,g - ZTF,2.615,Galaxy,2MASX J02560331+1116463,['2MASX J02560331+1116463' '44.014' '11.28' '2.615' 'inf' 'Galaxy' 'G'],,,,,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024atg,14:16:59.976,+00:17:42.20,2024-01-22 14:45:36.864,2024-01-26,20.66,ABMag,w - P1,3.404,Galaxy,SDSS J141659.86+001739.2,['SDSS J141659.86+001739.2' '214.249' '0.294' '3.404' 'inf' 'Galaxy' 'G'],,,,,,,K. C. Chambers,No
+2024atj,12:22:00.767,+00:30:14.43,2024-01-21 14:27:21.312,2024-01-26,21.28,ABMag,w - P1,4.857,Galaxy,SDSS J122200.67+003010.0,['SDSS J122200.67+003010.0' '185.503' '0.503' '4.857' 'inf' 'Galaxy' 'G'],,,,,,,K. C. Chambers,No
