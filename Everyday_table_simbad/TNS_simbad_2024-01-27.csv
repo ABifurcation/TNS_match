@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2019aauh,10:23:44.939,+24:59:22.87,2019-03-14 08:32:38.400,2024-01-27,20.1,ABMag,g - ZTF,0.372,QSO,2MASS J10234492+2459225,['2MASS J10234492+2459225' '155.937' '24.99' '0.372' 'inf' 'QSO' 'QSO'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2024aul,10:21:53.237,+00:17:44.16,2024-01-26 10:10:51.001,2024-01-27,17.6095,ABMag,g - ZTF,1.109,PartofG,[BKD2008] WR   3,['[BKD2008] WR   3' '155.472' '0.295' '1.109' 'inf' 'PartofG' 'PoG'],A. Munoz-Arancibia,Yes
+2024auh,03:02:05.585,-10:20:36.03,2024-01-26 01:52:32.160,2024-01-27,18.26,ABMag,orange - ATLAS,3.039,Galaxy,LEDA  979400,['LEDA  979400' '45.523' '-10.343' '3.039' '0.0' 'Galaxy' 'G'],J. Tonry,No
+2024auj,11:52:02.776,+16:51:22.58,2024-01-13 10:58:04.800,2024-01-27,20.47,ABMag,g - ZTF,6.92,Galaxy,2MASX J11520246+1651180,['2MASX J11520246+1651180' '178.01' '16.855' '6.92' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
