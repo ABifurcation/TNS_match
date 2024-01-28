@@ -1457,3 +1457,9 @@ The previous github connection failed
 --------running start at 2024-01-27  18:00:03--------
 The previous github connection failed
 --------running end at 2024-01-27  18:00:04--------
+--------running start at 2024-01-28  09:00:02--------
+15 match within 10 arcsec to GLADE in 2024-01-28 
+zero match within 10 arcsec to GC in 2024-01-28
+39 match within 10 arcsec to SDSSDR16 in 2024-01-28 
+17 match within 10 arcsec to simbad in 2024-01-28 
+--------running end at 2024-01-28  09:10:16--------

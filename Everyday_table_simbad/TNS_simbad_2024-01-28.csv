@@ -1,0 +1,19 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2022aerh,02:48:22.005,+13:56:06.09,2022-12-19 05:15:44.064,2024-01-28,19.5794,ABMag,r - ZTF,0.108,Seyfert1,Mrk 1187,['Mrk 1187' '42.092' '13.935' '0.108' '0.1' 'Seyfert1' 'Sy1'],K. De (Caltech) on behalf of ZTF,No
+2018mmh,13:59:34.096,+27:49:48.84,2018-06-07 04:40:48.000,2024-01-28,19.58,ABMag,r - ZTF,0.317,BrightestCG,LEDA 1819117,['LEDA 1819117' '209.892' '27.83' '0.317' 'inf' 'BrightestCG' 'BiC'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2019aaui,15:22:03.777,+00:11:29.04,2019-04-11 09:28:48.000,2024-01-28,20,ABMag,r - ZTF,0.641,Seyfert1,2MASX J15220380+0011283,"['2MASX J15220380+0011283' '230.516' '0.191' '0.641' 'inf' 'Seyfert1'
+ 'Sy1']",C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2024awk,11:43:10.491,+52:58:05.56,2024-01-22 12:08:16.800,2024-01-28,20.11,ABMag,i - P1,1.939,Galaxy,LEDA 2428398,['LEDA 2428398' '175.795' '52.968' '1.939' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024axa,14:14:42.221,+00:18:44.61,2024-01-22 14:43:46.272,2024-01-28,20.49,ABMag,w - P1,2.128,Galaxy,SDSS J141442.35+001843.8,['SDSS J141442.35+001843.8' '213.676' '0.312' '2.128' 'inf' 'Galaxy' 'G'],K. C. Chambers,No
+2024awq,09:32:07.345,-04:50:07.18,2024-01-19 12:12:23.904,2024-01-28,20.12,ABMag,w - P1,2.33,Galaxy,LEDA 1052841,['LEDA 1052841' '143.031' '-4.835' '2.33' 'inf' 'Galaxy' 'G'],K. C. Chambers,No
+2024avq,02:32:41.548,-20:46:51.48,2024-01-20 06:05:51.648,2024-01-28,18.85,ABMag,w - P1,2.573,Galaxy,LEDA  837046,['LEDA  837046' '38.172' '-20.781' '2.573' 'inf' 'Galaxy' 'G'],K. C. Chambers,No
+2024awi,02:59:04.560,-23:47:10.60,2024-01-19 05:58:43.104,2024-01-28,20.24,ABMag,w - P1,3.403,Galaxy,LEDA  797060,['LEDA  797060' '44.768' '-23.786' '3.403' 'inf' 'Galaxy' 'G'],K. C. Chambers,No
+2024aww,11:03:00.162,+07:24:02.59,2024-01-19 14:44:49.344,2024-01-28,20.93,ABMag,w - P1,3.966,Galaxy,LEDA 1320898,['LEDA 1320898' '165.751' '7.402' '3.966' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024aws,09:10:20.555,+42:11:54.18,2024-01-20 13:38:13.344,2024-01-28,20.7,ABMag,w - P1,4.04,Galaxy,SDSS J091020.30+421151.2,['SDSS J091020.30+421151.2' '137.585' '42.198' '4.04' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024awt,10:56:45.323,+44:21:54.98,2024-01-23 12:52:12.000,2024-01-28,20.18,ABMag,i - P1,4.502,Galaxy,LEDA 2242619,['LEDA 2242619' '164.19' '44.365' '4.502' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024avb,10:32:59.890,+06:44:51.59,2024-01-20 12:07:35.328,2024-01-28,19.92,ABMag,w - P1,4.523,Galaxy,SDSSCGB 46387.2,['SDSSCGB 46387.2' '158.249' '6.747' '4.523' 'inf' 'Galaxy' 'G'],K. C. Chambers,No
+2024awf,09:43:49.794,+23:09:12.98,2024-01-19 09:35:42.720,2024-01-28,20.86,ABMag,w - P1,6.419,Galaxy,2MASX J09434933+2309121,['2MASX J09434933+2309121' '145.956' '23.153' '6.419' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024awv,11:35:33.096,-01:21:10.90,2024-01-20 15:20:44.160,2024-01-28,21.74,ABMag,w - P1,6.728,Galaxy,2dFGRS TGN307Z169,['2dFGRS TGN307Z169' '173.888' '-1.351' '6.728' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024aun,06:02:06.563,+63:08:49.12,2024-01-27 05:44:09.600,2024-01-28,18.79,ABMag,g - ZTF,6.836,Galaxy,2MASX J06020595+6308542,['2MASX J06020595+6308542' '90.525' '63.148' '6.836' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024awa,09:36:36.532,+03:47:37.85,2024-01-20 12:08:46.176,2024-01-28,20.31,ABMag,w - P1,7.649,Galaxy,2MASX J09363670+0347304,['2MASX J09363670+0347304' '144.153' '3.792' '7.649' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024awo,11:07:55.106,+07:56:29.87,2024-01-19 14:44:49.344,2024-01-28,21.61,ABMag,w - P1,7.701,Galaxy,SDSS J110755.29+075622.6,['SDSS J110755.29+075622.6' '166.98' '7.94' '7.701' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
