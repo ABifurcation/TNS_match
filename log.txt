@@ -1490,3 +1490,6 @@ zero match within 10 arcsec to GC in 2024-01-30
 3 match within 10 arcsec to SDSSDR16 in 2024-01-30 
 5 match within 10 arcsec to simbad in 2024-01-30 
 --------running end at 2024-01-30  09:02:12--------
+--------running start at 2024-01-30  12:00:02--------
+The previous github connection failed
+--------running end at 2024-01-30  12:00:04--------
