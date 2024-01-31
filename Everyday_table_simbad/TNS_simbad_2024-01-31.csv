@@ -1,0 +1,6 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2018mmi,03:51:34.064,-12:22:49.88,2018-09-19 10:36:28.800,2024-01-31,19.78,ABMag,r - ZTF,0.342,Galaxy,LEDA  953670,['LEDA  953670' '57.892' '-12.381' '0.342' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024bdp,01:11:38.359,-03:20:42.36,2024-01-27 03:07:12.000,2024-01-31,16.5,ABMag,g - Sloan,1.995,Seyfert1,MCG-01-04-011,['MCG-01-04-011' '17.91' '-3.345' '1.995' '0.696' 'Seyfert1' 'Sy1'],K. Z. Stanek,No
+2024bdt,08:37:08.321,-01:56:12.98,2024-01-17 08:49:55.200,2024-01-31,20.65,ABMag,g - ZTF,2.966,Galaxy,GAMA 3551650,['GAMA 3551650' '129.285' '-1.936' '2.966' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024bdw,09:02:43.745,+60:33:24.74,2024-01-25 05:41:16.800,2024-01-31,19.61,ABMag,r - ZTF,6.135,Seyfert2,2MASX J09024357+6033181,"['2MASX J09024357+6033181' '135.682' '60.555' '6.135' 'inf' 'Seyfert2'
+ 'Sy2']",C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
