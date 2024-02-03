@@ -1,0 +1,10 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter,SDSS_image
+2024bjp,08:15:10.470,+10:16:35.52,2024-02-01 08:58:50.016,2024-02-03,19.3,ABMag,w - P1,0.513,Galaxy,SDSS J081510.47+101635.8,['SDSS J081510.47+101635.8' '123.794' '10.277' '0.513' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers,Yes
+2024bjh,08:28:06.254,+27:56:29.29,2024-02-01 11:15:46.656,2024-02-03,20.36,ABMag,w - P1,1.282,Galaxy,SDSS J082806.34+275629.5,['SDSS J082806.34+275629.5' '127.026' '27.942' '1.282' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers,Yes
+2024bjv,01:37:57.366,+31:58:51.10,2024-01-31 03:00:36.288,2024-02-03,20.2639,ABMag,g - ZTF,2.077,Galaxy,LEDA 1974138,['LEDA 1974138' '24.489' '31.981' '2.077' 'inf' 'Galaxy' 'G'],,,,K. De (Caltech) on behalf of ZTF,No
+2024bjn,09:56:28.310,+18:31:00.81,2024-02-01 12:53:57.408,2024-02-03,20.83,ABMag,w - P1,3.948,BrightestCG,2MASX J09562806+1831023,"['2MASX J09562806+1831023' '149.117' '18.517' '3.948' 'inf' 'BrightestCG'
+ 'BiC']",,,,K. C. Chambers,Yes
+2024bjk,15:06:33.858,+05:13:23.77,2024-01-31 14:18:35.000,2024-02-03,18.017,ABMag,orange - ATLAS,4.359,Galaxy,SDSS J150633.57+051325.0,['SDSS J150633.57+051325.0' '226.64' '5.224' '4.359' 'inf' 'Galaxy' 'G'],GtowardsGroup,Z  49-1,['Z  49-1' '226.644' '5.224' '9.32' '6.814' 'GtowardsGroup' 'GiG'],J. Tonry,Yes
+2024bjd,11:37:31.196,+32:02:56.60,2024-02-01 15:14:02.400,2024-02-03,21.32,ABMag,w - P1,5.306,Galaxy,SDSS J113731.10+320251.3,['SDSS J113731.10+320251.3' '174.38' '32.048' '5.306' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers,Yes
+2024biy,10:22:29.154,-49:22:24.53,2024-02-01 14:35:56.256,2024-02-03,19.22,ABMag,L - GOTO,6.73,Galaxy,2MFGC 8034,['2MFGC 8034' '155.62' '-49.372' '6.73' 'inf' 'Galaxy' 'G'],,,,K. Ulaczyk,No
+2024bje,10:32:06.420,+31:05:47.34,2024-02-01 14:15:06.912,2024-02-03,21.45,ABMag,w - P1,8.608,Galaxy,LEDA 1931570,['LEDA 1931570' '158.025' '31.099' '8.608' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers,Yes
