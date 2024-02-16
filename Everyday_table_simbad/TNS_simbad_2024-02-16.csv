@@ -1,0 +1,30 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter,SDSS_image
+2024csj,10:55:45.980,+10:55:34.84,2024-02-12 09:03:34.998,2024-02-16,20.2846,ABMag,r - ZTF,0.076,GtowardsCl,DES J105545.97+105534.9,"['DES J105545.97+105534.9' '163.942' '10.926' '0.076' 'inf' 'GtowardsCl'
+ 'GiC']",,,,F. Forster,No
+2024ctb,13:41:43.558,-06:43:40.14,2024-02-11 10:04:48.000,2024-02-16,19.91,ABMag,g - ZTF,0.588,Galaxy,LCRS B133906.5-062833,['LCRS B133906.5-062833' '205.432' '-6.728' '0.588' 'inf' 'Galaxy' 'G'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024csp,04:44:31.320,+08:31:42.69,2024-02-13 04:58:04.800,2024-02-16,20.38,ABMag,g - ZTF,0.836,Galaxy,Gaia DR3 3292380646167183232,"['Gaia DR3 3292380646167183232' '71.131' '8.529' '0.836' 'inf' 'Galaxy'
+ 'G']",,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024cth,13:18:22.303,-24:59:19.64,2024-02-14 06:42:52.992,2024-02-16,18.539,ABMag,orange - ATLAS,1.094,Galaxy,6dFGS gJ131822.2-245920,['6dFGS gJ131822.2-245920' '199.593' '-24.989' '1.094' 'inf' 'Galaxy' 'G'],,,,J. Tonry,No
+2024cte,15:04:22.781,+09:04:48.33,2024-01-18 12:27:21.600,2024-02-16,19.34,ABMag,g - ZTF,1.213,Seyfert2,2MASS J15042284+0904488,['2MASS J15042284+0904488' '226.095' '9.08' '1.213' 'inf' 'Seyfert2' 'Sy2'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2024cso,08:00:04.852,+10:21:15.22,2024-01-15 09:07:09.408,2024-02-16,20.5306,ABMag,g - ZTF,1.602,Galaxy,SDSS J080004.94+102114.3,['SDSS J080004.94+102114.3' '120.021' '10.354' '1.602' 'inf' 'Galaxy' 'G'],,,,K. De (Caltech) on behalf of ZTF,Yes
+2024cuj,14:36:26.396,-24:03:31.33,2024-02-11 12:01:00.998,2024-02-16,19.99,ABMag,r - ZTF,1.949,Galaxy,LEDA  794063,['LEDA  794063' '219.11' '-24.058' '1.949' 'inf' 'Galaxy' 'G'],,,,F. Forster,No
+2024csn,08:16:20.278,+17:13:38.82,2024-02-14 06:38:11.000,2024-02-16,19.8647,ABMag,g - ZTF,2.001,Galaxy,SDSS J081620.37+171337.3,['SDSS J081620.37+171337.3' '124.085' '17.227' '2.001' 'inf' 'Galaxy' 'G'],,,,F. Forster,Yes
+2024csl,11:08:12.417,+28:53:34.38,2024-02-14 10:42:10.996,2024-02-16,18.5257,ABMag,g - ZTF,2.346,Galaxy,LEDA 1849232,['LEDA 1849232' '167.051' '28.893' '2.346' 'inf' 'Galaxy' 'G'],,,,F. Forster,Yes
+2024ctl,10:18:38.641,-18:05:58.61,2024-02-15 10:05:04.416,2024-02-16,19.88,ABMag,g - P1,2.46,Galaxy,LEDA  872757,['LEDA  872757' '154.661' '-18.1' '2.46' 'inf' 'Galaxy' 'G'],,,,D. O. Jones (UC Santa Cruz),No
+2024ctm,09:12:51.822,+03:12:30.16,2024-02-15 09:21:22.176,2024-02-16,20.11,ABMag,r - P1,2.537,Galaxy,2MASX J09125168+0312299,['2MASX J09125168+0312299' '138.215' '3.208' '2.537' 'inf' 'Galaxy' 'G'],,,,D. O. Jones (UC Santa Cruz),Yes
+2024cuq,12:16:23.493,-04:15:04.08,2024-02-11 08:56:18.004,2024-02-16,20.3553,ABMag,g - ZTF,2.631,Galaxy,2dFGRS TGN122Z157,['2dFGRS TGN122Z157' '184.097' '-4.251' '2.631' 'inf' 'Galaxy' 'G'],,,,F. Forster,No
+2024cta,14:06:14.219,+28:23:42.61,2024-02-11 09:43:12.000,2024-02-16,19.59,ABMag,g - ZTF,2.673,Seyfert2,2XMM J140614.2+282340,['2XMM J140614.2+282340' '211.559' '28.394' '2.673' 'inf' 'Seyfert2' 'Sy2'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2024cuw,13:25:03.943,-31:04:00.48,2024-02-14 07:09:48.672,2024-02-16,18.884,ABMag,orange - ATLAS,3.476,GtowardsCl,LEDA   97770,['LEDA   97770' '201.266' '-31.066' '3.476' 'inf' 'GtowardsCl' 'GiC'],,,,J. Tonry,No
+2024ctc,14:42:07.280,-17:42:15.70,2024-02-15 11:29:48.192,2024-02-16,19.1849,ABMag,r - ZTF,3.53,Galaxy,2MASX J14420746-1742136,['2MASX J14420746-1742136' '220.531' '-17.704' '3.53' '3.609' 'Galaxy' 'G'],,,,K. De (Caltech) on behalf of ZTF,No
+2024cst,10:11:48.535,-02:57:12.97,2024-02-13 07:30:43.200,2024-02-16,19.9,ABMag,r - ZTF,3.617,Galaxy,2dFGRS TGN219Z008,['2dFGRS TGN219Z008' '152.953' '-2.954' '3.617' 'inf' 'Galaxy' 'G'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024crp,09:55:41.385,+01:36:36.94,2024-02-13 11:03:46.944,2024-02-16,19.84,ABMag,w - P1,4.632,Galaxy,SDSS J095541.31+013641.4,['SDSS J095541.31+013641.4' '148.922' '1.612' '4.632' 'inf' 'Galaxy' 'G'],Galaxy,LEDA 1200124,['LEDA 1200124' '148.923' '1.608' '8.569' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024cug,16:23:11.666,-00:06:33.29,2024-02-13 13:01:06.997,2024-02-16,20.236,ABMag,r - ZTF,4.679,Galaxy,SDSS J162311.37-000633.3,['SDSS J162311.37-000633.3' '245.797' '-0.109' '4.679' 'inf' 'Galaxy' 'G'],,,,F. Forster,Yes
+2024cuy,14:55:57.526,+22:05:31.31,2024-01-17 12:25:13.728,2024-02-16,19.5204,ABMag,r - ZTF,6.245,Galaxy,LEDA 1663376,['LEDA 1663376' '223.99' '22.094' '6.245' 'inf' 'Galaxy' 'G'],,,,K. De (Caltech) on behalf of ZTF,Yes
+2024cuh,15:13:01.866,+09:27:29.36,2024-02-15 12:25:55.001,2024-02-16,20.0148,ABMag,g - ZTF,6.38,Galaxy,LEDA   54308,['LEDA   54308' '228.258' '9.456' '6.38' 'inf' 'Galaxy' 'G'],,,,F. Forster,Yes
+1991bq,02:54:46.740,+10:36:59.50,1991-10-13 08:56:00.000,2024-02-16,17.6,ABMag,B - Johnson,6.56,Galaxy,LEDA 1382088,['LEDA 1382088' '43.695' '10.618' '6.56' 'inf' 'Galaxy' 'G'],,,,Roman Lisniak,No
+2024crn,13:33:15.096,+05:45:58.26,2024-02-11 09:38:11.328,2024-02-16,20.736,ABMag,g - ZTF,7.382,BrightestCG,SDSS J133315.33+054551.8,"['SDSS J133315.33+054551.8' '203.314' '5.764' '7.382' 'inf' 'BrightestCG'
+ 'BiC']",,,,K. De (Caltech) on behalf of ZTF,Yes
+2024csr,04:31:10.850,+07:37:46.97,2024-02-13 03:25:55.200,2024-02-16,19.81,ABMag,r - ZTF,9.693,GtowardsGroup,NGC  1590,['NGC  1590' '67.793' '7.631' '9.693' '2.486' 'GtowardsGroup' 'GiG'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024ctx,05:01:10.819,-11:36:54.50,2024-02-14 05:48:02.880,2024-02-16,20.26,ABMag,w - P1,9.927,LowSurfBrghtG,2MASX J05011059-1136450,"['2MASX J05011059-1136450' '75.294' '-11.613' '9.927' 'inf'
+ 'LowSurfBrghtG' 'LSB']",,,,K. C. Chambers,No
+2024ctd,12:35:00.298,-05:29:16.65,2024-02-15 05:24:13.824,2024-02-16,19.129,ABMag,orange - ATLAS,9.949,EmissionG,MCG-01-32-025,['MCG-01-32-025' '188.752' '-5.491' '9.949' 'inf' 'EmissionG' 'EmG'],,,,J. Tonry,No
