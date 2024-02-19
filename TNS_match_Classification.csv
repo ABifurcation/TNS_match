@@ -903,3 +903,5 @@ TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
 2023aafk,04:30:41.671,+02:56:42.89,2024-02-17,SLSN-I,0.2455,2024-02-16 18:05:57,F. Poidevin (IAC and ULL)
 2023ljg,16:15:25.259,+27:59:43.45,2024-02-17,SN Ia,0.109,2024-02-16 18:16:44,Maria Jose Bustamante Rosell
 2024cvb,10:12:48.039,-02:41:21.83,2024-02-18,SN Ia,0.038,2024-02-17 04:17:40,Liping Li (Yunnan University); Qian Zhai
+2024cdr,12:14:10.926,-00:50:01.70,2024-02-19,SN IIb,0.025,2024-02-18 07:36:23,S. Srivastav (Oxford)
+2019hyn,07:24:30.370,+73:10:55.52,2024-02-19,Varstar,0.0,2024-02-18 22:24:29,J.H. Terwel (TCD)
