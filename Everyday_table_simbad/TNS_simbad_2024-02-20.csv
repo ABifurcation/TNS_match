@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024dbt,13:04:34.871,-03:16:20.91,2024-02-06 14:26:28.608,2024-02-20,20.9,ABMag,w - P1,1.697,Galaxy,2dFGRS TGN133Z245,['2dFGRS TGN133Z245' '196.146' '-3.273' '1.697' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024dby,11:06:50.218,-14:17:35.82,2024-02-06 12:50:17.952,2024-02-20,20.33,ABMag,w - P1,5.443,Seyfert2,6dFGS gJ110649.9-141738,"['6dFGS gJ110649.9-141738' '166.708' '-14.294' '5.443' 'inf' 'Seyfert2'
+ 'Sy2']",K. C. Chambers,No
+2024dbw,15:01:09.293,+35:30:29.95,2024-02-07 14:55:01.920,2024-02-20,20.62,ABMag,w - P1,8.113,Galaxy,2MASX J15010957+3530220,['2MASX J15010957+3530220' '225.29' '35.506' '8.113' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
