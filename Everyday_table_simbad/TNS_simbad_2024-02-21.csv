@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024dcn,15:18:15.543,+01:27:02.11,2024-02-18 14:45:46.368,2024-02-21,20.72,ABMag,w - P1,3.178,Galaxy,LEDA 1195350,['LEDA 1195350' '229.564' '1.451' '3.178' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024dcl,20:19:18.322,+85:30:37.40,2024-02-19 14:09:22.176,2024-02-21,18.958,ABMag,cyan - ATLAS,3.846,Galaxy,Gaia DR3 2303947421105717888,"['Gaia DR3 2303947421105717888' '304.828' '85.511' '3.846' 'inf' 'Galaxy'
+ 'G']",J. Tonry,No
+2024dcj,20:07:51.498,+55:59:25.26,2024-02-19 15:18:32.832,2024-02-21,17.966,ABMag,cyan - ATLAS,4.572,Galaxy,LEDA 2521566,['LEDA 2521566' '301.964' '55.989' '4.572' 'inf' 'Galaxy' 'G'],J. Tonry,No
