@@ -1,0 +1,7 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024dhc,09:29:34.315,-11:01:56.16,2024-02-26 04:47:26.304,2024-02-28,17.887,ABMag,orange - ATLAS,0.273,Galaxy,LEDA  970809,['LEDA  970809' '142.393' '-11.032' '0.273' 'inf' 'Galaxy' 'G'],J. Tonry,No
+2024dha,04:58:13.295,-20:21:47.58,2024-02-26 19:29:08.160,2024-02-28,18.488,ABMag,orange - ATLAS,1.564,Seyfert2,NGC  1716,['NGC  1716' '74.556' '-20.364' '1.564' '0.705' 'Seyfert2' 'Sy2'],J. Tonry,No
+2023acmx,02:26:41.507,-14:30:52.68,2023-12-12 21:07:35.328,2024-02-28,17.758,ABMag,orange - ATLAS,3.81,EmissionG,NGC   944,['NGC   944' '36.673' '-14.516' '3.81' 'inf' 'EmissionG' 'EmG'],J. Tonry,No
+2024dhb,03:52:05.386,+61:47:23.82,2024-02-27 05:30:29.664,2024-02-28,18.444,ABMag,orange - ATLAS,6.218,Galaxy,2MASX J03520561+6147178,['2MASX J03520561+6147178' '58.023' '61.788' '6.218' 'inf' 'Galaxy' 'G'],J. Tonry,No
+2024dgx,09:44:04.930,+34:41:48.78,2024-02-26 10:57:11.232,2024-02-28,18.361,ABMag,orange - ATLAS,8.421,GtowardsGroup,2MASX J09440537+3441421,"['2MASX J09440537+3441421' '146.022' '34.695' '8.421' '3.633'
+ 'GtowardsGroup' 'GiG']",J. Tonry,Yes
