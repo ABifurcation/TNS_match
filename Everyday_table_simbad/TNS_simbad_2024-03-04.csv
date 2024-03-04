@@ -1,0 +1,8 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Gal_3_type,Gal_3_name,Gal_3_info,Reporter,SDSS_image
+2024dsu,11:32:16.548,+26:15:16.39,2024-03-03 13:19:13.728,2024-03-04,19.48,ABMag,w - P1,0.654,Galaxy,SDSS J113216.51+261515.9,['SDSS J113216.51+261515.9' '173.069' '26.254' '0.654' 'inf' 'Galaxy' 'G'],,,,,,,K. C. Chambers,Yes
+2024dsl,11:04:58.622,+29:08:16.06,2024-03-02 12:56:33.792,2024-03-04,19.99,ABMag,w - P1,1.139,EmissionG,SDSS J110458.54+290815.7,"['SDSS J110458.54+290815.7' '166.244' '29.138' '1.139' 'inf' 'EmissionG'
+ 'EmG']",Cluster*,[CLT2004] Mrk  36 1,['[CLT2004] Mrk  36 1' '166.243' '29.138' '2.909' 'inf' 'Cluster*' 'Cl*'],StarburstG,Mrk   36,['Mrk   36' '166.243' '29.138' '4.272' '0.228' 'StarburstG' 'SBG'],K. C. Chambers,Yes
+2024dru,02:52:51.089,+42:12:21.51,2024-03-02 05:45:53.280,2024-03-04,15.968,ABMag,orange - ATLAS,1.795,GtowardsGroup,NGC  1122,['NGC  1122' '43.213' '42.205' '1.795' '0.435' 'GtowardsGroup' 'GiG'],,,,,,,J. Tonry,No
+2024drh,13:37:33.687,+49:21:39.77,2024-03-02 12:35:15.072,2024-03-04,20.08,ABMag,i - P1,2.435,Galaxy,SDSS J133733.45+492139.1,['SDSS J133733.45+492139.1' '204.389' '49.361' '2.435' 'inf' 'Galaxy' 'G'],,,,,,,D. O. Jones (UC Santa Cruz),Yes
+2024dsm,11:20:53.865,+29:04:17.42,2024-03-02 12:59:24.864,2024-03-04,19.62,ABMag,w - P1,6.917,Galaxy,LEDA 1854837,['LEDA 1854837' '170.226' '29.073' '6.917' '6.912' 'Galaxy' 'G'],,,,,,,K. C. Chambers,Yes
+2024drt,12:41:44.704,+35:03:55.74,2024-03-02 11:40:28.416,2024-03-04,17.928,ABMag,orange - ATLAS,9.954,Seyfert2,NGC  4619,['NGC  4619' '190.436' '35.063' '9.954' '4.942' 'Seyfert2' 'Sy2'],,,,,,,J. Tonry,Yes
