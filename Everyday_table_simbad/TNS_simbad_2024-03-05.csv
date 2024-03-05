@@ -1,0 +1,9 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Gal_3_type,Gal_3_name,Gal_3_info,Reporter,SDSS_image
+2024dtg,18:21:57.210,+64:20:36.20,2024-03-01 11:48:28.800,2024-03-05,13.63,ABMag,G - Gaia,0.029,Seyfert1,7C 1821+6419,['7C 1821+6419' '275.488' '64.343' '0.029' 'inf' 'Seyfert1' 'Sy1'],Galaxy,[AWP2011] H1821+643 companion,"['[AWP2011] H1821+643 companion' '275.489' '64.343' '1.991' 'inf' 'Galaxy'
+ 'G']",Galaxy,[KSS94] J182157.2+642036 49,"['[KSS94] J182157.2+642036 49' '275.492' '64.346' '9.281' 'inf' 'Galaxy'
+ 'G']",S.T. Hodgkin,No
+2024dth,14:17:43.390,+11:54:45.04,2024-03-01 13:00:28.800,2024-03-05,18.54,ABMag,G - Gaia,0.092,QSO,SDSS J141743.39+115444.9,['SDSS J141743.39+115444.9' '214.431' '11.913' '0.092' 'inf' 'QSO' 'QSO'],,,,,,,S.T. Hodgkin,Yes
+2024dtt,09:36:32.054,+59:24:19.26,2024-02-29 11:59:29.760,2024-03-05,19.14,ABMag,g - ZTF,1.699,Seyfert1,2MASX J09363187+5924184,"['2MASX J09363187+5924184' '144.133' '59.405' '1.699' 'inf' 'Seyfert1'
+ 'Sy1']",,,,,,,J. Nordin,Yes
+2024dtb,04:49:11.650,-62:21:37.08,2024-02-04 04:55:12.000,2024-03-05,17.93,ABMag,G - Gaia,3.497,Galaxy,ESO 119-11,['ESO 119-11' '72.297' '-62.36' '3.497' 'inf' 'Galaxy' 'G'],,,,,,,S.T. Hodgkin,No
+2024dtn,05:51:43.490,-60:57:10.66,2024-02-02 10:56:38.400,2024-03-05,20.08,ABMag,G - Gaia,3.754,Galaxy,2MASX J05514340-6057068,['2MASX J05514340-6057068' '87.931' '-60.952' '3.754' 'inf' 'Galaxy' 'G'],,,,,,,S.T. Hodgkin,No
