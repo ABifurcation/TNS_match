@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024eff,05:51:41.890,-19:13:06.24,2024-03-10 09:25:55.200,2024-03-13,17.03,ABMag,G - Gaia,0.057,EmissionG,LEDA  858238,['LEDA  858238' '87.925' '-19.218' '0.057' 'inf' 'EmissionG' 'EmG'],S.T. Hodgkin,No
+2024efk,06:05:48.965,-27:54:39.81,2024-03-11 23:58:33.000,2024-03-13,16.37,ABMag,BG-q - BlackGem,0.205,Seyfert1,LEDA 3707147,['LEDA 3707147' '91.454' '-27.911' '0.205' 'inf' 'Seyfert1' 'Sy1'],H. Tranin,No
+2020afhw,12:30:02.184,+13:38:11.95,2020-11-28 11:49:00.768,2024-03-13,16.9214,ABMag,r - ZTF,0.44,Seyfert2,NGC  4477,['NGC  4477' '187.509' '13.637' '0.44' '0.035' 'Seyfert2' 'Sy2'],K. De (Caltech) on behalf of ZTF,No
+2024eey,09:24:53.372,+17:44:33.00,2024-03-05 06:04:19.200,2024-03-13,19.82,ABMag,r - ZTF,8.628,Galaxy,SDSS J092453.60+174440.9,['SDSS J092453.60+174440.9' '141.223' '17.745' '8.628' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes

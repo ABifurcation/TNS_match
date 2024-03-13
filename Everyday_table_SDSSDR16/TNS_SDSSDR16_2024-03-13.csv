@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024eez,09:36:43.512,+08:22:12.30,2024-03-05 06:04:19.200,2024-03-13,19.95,ABMag,r - ZTF,1.4004352621867842,inf,Galaxy,-inf,inf,inf,['144.181473' '8.369734' 'Galaxy' 'inf' 'inf' '1.4004352621867842' 'inf'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024efc,11:36:18.322,+15:21:20.95,2024-03-11 22:17:43.008,2024-03-13,19.084,ABMag,cyan - ATLAS,2.553996216732858,4.935051750815731,Galaxy,-18.918482973916067,398.56264725058236,0.0941,"['174.075833' '15.356332' 'Galaxy' '398.56264725058236' '0.0941'
+ '2.553996216732858' '4.935051750815731']",J. Tonry,No
