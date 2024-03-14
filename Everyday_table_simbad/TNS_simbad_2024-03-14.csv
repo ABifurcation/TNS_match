@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024eft,10:38:38.864,-41:56:30.21,2024-03-03 13:21:33.696,2024-03-14,19.32,ABMag,L - GOTO,3.84,Seyfert2,6dFGS gJ103838.5-415629,"['6dFGS gJ103838.5-415629' '159.661' '-41.941' '3.84' 'inf' 'Seyfert2'
+ 'Sy2']",G. Ramsay,No

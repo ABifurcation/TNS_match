@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2018mmz,02:54:30.559,-02:55:55.63,2018-08-10 00:00:00.000,2024-03-14,19.24,ABMag,g - ZTF,0.2515361068337248,2.2781989585939497,Galaxy,-22.117082236901364,1868.1702309831953,0.4857,"['43.627262' '-2.932139' 'Galaxy' '1868.1702309831953' '0.4857'
+ '0.2515361068337248' '2.2781989585939497']",A. Baluta (MSU) and T. Pshenichniy (MSU) on behalf of the Fink broker report the discovery of a new...,No
+2018mmy,05:01:44.090,-04:10:19.67,2018-08-23 00:00:00.000,2024-03-14,18.87,ABMag,r - P1,4.230774429906087,inf,Galaxy,-inf,inf,inf,['75.433035' '-4.173095' 'Galaxy' 'inf' 'inf' '4.230774429906087' 'inf'],A. Baluta (MSU) and T. Pshenichniy (MSU) on behalf of the Fink broker report the discovery of a new...,No
