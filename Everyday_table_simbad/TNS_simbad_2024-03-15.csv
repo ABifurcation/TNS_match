@@ -1,0 +1,10 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2018mna,15:26:11.791,+29:39:04.83,2018-05-17 06:34:33.600,2024-03-15,18.84,ABMag,r - ZTF,0.338,BrightestCG,2MASX J15261183+2939048,"['2MASX J15261183+2939048' '231.549' '29.651' '0.338' 'inf' 'BrightestCG'
+ 'BiC']",C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2024egi,15:13:02.247,+09:44:06.94,2024-03-14 10:24:42.998,2024-03-15,19.2318,ABMag,r - ZTF,0.517,Seyfert1,2MASS J15130223+0944062,"['2MASS J15130223+0944062' '228.259' '9.735' '0.517' 'inf' 'Seyfert1'
+ 'Sy1']",A. Munoz-Arancibia,Yes
+2021aibm,16:02:12.864,+15:37:48.20,2021-01-10 12:28:48.000,2024-03-15,20.08,ABMag,r - ZTF,1.308,AGN,[VV2010c] J160212.9+153747,['[VV2010c] J160212.9+153747' '240.554' '15.63' '1.308' 'inf' 'AGN' 'AGN'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2024ege,08:25:02.245,-21:50:46.97,2024-03-14 10:45:18.432,2024-03-15,19.83,ABMag,L - GOTO,2.821,Galaxy,LEDA  822933,['LEDA  822933' '126.259' '-21.846' '2.821' 'inf' 'Galaxy' 'G'],K. Ulaczyk,No
+2024ega,16:28:11.536,+47:28:46.56,2024-02-29 12:08:38.400,2024-03-15,20.18,ABMag,g - ZTF,3.154,Seyfert2,2MASS J16281146+4728434,"['2MASS J16281146+4728434' '247.048' '47.479' '3.154' 'inf' 'Seyfert2'
+ 'Sy2']",C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2024egd,16:30:41.487,+44:30:40.10,2024-03-14 09:56:47.996,2024-03-15,18.4082,ABMag,r - ZTF,8.573,GtowardsCl,Z 224-62,['Z 224-62' '247.672' '44.513' '8.573' 'inf' 'GtowardsCl' 'GiC'],A. Munoz-Arancibia,Yes
