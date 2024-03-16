@@ -207,3 +207,4 @@ TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,
 2024dsv,11:43:17.628,+56:05:32.11,2024-03-02 11:20:51.648,2024-03-04,19.42,ABMag,w - P1,0,['m8315'],['11:42:18'],['+55:44:54'],[],[],K. C. Chambers
 2018mmo,03:17:56.581,+41:59:09.72,2018-12-12 06:12:57.600,2024-03-06,19.4,ABMag,r - ZTF,0,['m7161'],['03:20:49'],['+42:06:54'],[],[],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration
 2024dzo,11:54:06.436,+55:01:24.87,2024-03-02 10:59:44.160,2024-03-08,18.7,ABMag,orange - ATLAS,0,['m8316'],['11:57:23'],['+55:44:54'],[],[],J. Tonry
+2024egm,12:13:00.497,+53:25:20.98,2024-03-14 11:40:45.696,2024-03-16,18.038,ABMag,orange - ATLAS,0,['m8119'],['12:07:44'],['+53:01:18'],[],[],J. Tonry
