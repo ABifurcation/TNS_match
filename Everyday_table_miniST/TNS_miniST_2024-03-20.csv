@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024eqe,11:57:52.774,+55:18:42.17,2024-03-14 09:47:24.996,2024-03-20,20.5703,ABMag,r - ZTF,0,['m8316'],['11:57:23'],['+55:44:54'],[],[],Jesper Sollerman on behalf of ZTF
+2024erp,09:14:47.764,+39:19:25.14,2024-03-19 05:54:03.004,2024-03-20,19.9283,ABMag,r - ZTF,0,['m6935'],['09:15:24'],['+39:23:18'],[],[],A. Munoz-Arancibia
