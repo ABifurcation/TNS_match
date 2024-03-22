@@ -1,0 +1,9 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024eua,15:31:11.635,+49:56:30.21,2024-03-21 09:23:02.400,2024-03-22,18.89,ABMag,r - ZTF,1.745,Galaxy,LEDA 2358096,['LEDA 2358096' '232.798' '49.942' '1.745' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2024euo,18:06:38.829,+10:13:47.87,2024-03-18 12:04:19.200,2024-03-22,19.32,ABMag,r - ZTF,2.528,Galaxy,LEDA 2807944,['LEDA 2807944' '271.662' '10.23' '2.528' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024ety,22:36:35.247,+26:06:04.19,2024-03-21 12:45:52.004,2024-03-22,16.9186,ABMag,r - ZTF,3.016,Galaxy,2MASX J22363505+2606056,['2MASX J22363505+2606056' '339.146' '26.102' '3.016' 'inf' 'Galaxy' 'G'],A. Munoz-Arancibia,No
+2024ets,11:08:30.149,+29:50:10.27,2024-03-21 04:59:37.248,2024-03-22,18.9,ABMag,g - ZTF,3.797,Seyfert2,2MASX J11083025+2950131,"['2MASX J11083025+2950131' '167.126' '29.837' '3.797' 'inf' 'Seyfert2'
+ 'Sy2']",J. Nordin,Yes
+2024eun,14:31:18.931,+49:51:43.53,2024-03-20 13:20:48.768,2024-03-22,19.91,ABMag,y - P1,5.74,Galaxy,2MASX J14311928+4951477,['2MASX J14311928+4951477' '217.831' '49.863' '5.74' 'inf' 'Galaxy' 'G'],D. O. Jones (UC Santa Cruz),Yes
+2024etw,18:54:20.715,-48:05:52.07,2024-03-21 09:08:00.000,2024-03-22,19.96,ABMag,BG-q - BlackGem,6.161,Galaxy,LEDA  491334,['LEDA  491334' '283.584' '-48.098' '6.161' 'inf' 'Galaxy' 'G'],F. Stoppa,No
+2024eut,14:53:14.113,+00:39:19.10,2024-03-05 11:12:28.800,2024-03-22,19.32,ABMag,r - ZTF,6.957,Galaxy,LEDA 1171858,['LEDA 1171858' '223.307' '0.656' '6.957' 'inf' 'Galaxy' 'G'],C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
