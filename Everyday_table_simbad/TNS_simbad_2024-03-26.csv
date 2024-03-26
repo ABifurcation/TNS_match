@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024eya,14:04:48.090,-47:40:07.72,2024-03-17 19:55:12.000,2024-03-26,18.79,ABMag,G - Gaia,8.098,EmissionG,LEDA  497671,['LEDA  497671' '211.198' '-47.668' '8.098' 'inf' 'EmissionG' 'EmG'],S.T. Hodgkin,No
