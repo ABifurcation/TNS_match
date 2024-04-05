@@ -1,0 +1,30 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter,SDSS_image
+2024fqg,08:07:59.972,+81:50:51.95,2024-03-29 07:17:28.000,2024-04-05,19.8501,ABMag,g - ZTF,0.23,Galaxy,Gaia DR3 1148462714374533248,['Gaia DR3 1148462714374533248' '122.0' '81.848' '0.23' 'inf' 'Galaxy' 'G'],,,,A. Munoz-Arancibia,No
+2024fqh,16:06:21.590,+17:45:11.96,2024-03-29 10:13:58.999,2024-04-05,20.3006,ABMag,r - ZTF,0.302,Galaxy,SDSSCGB 68143.2,['SDSSCGB 68143.2' '241.59' '17.753' '0.302' 'inf' 'Galaxy' 'G'],Galaxy,SDSSCGB 68143.1,['SDSSCGB 68143.1' '241.589' '17.756' '9.62' 'inf' 'Galaxy' 'G'],A. Munoz-Arancibia,No
+2024fpa,10:37:57.417,+57:45:30.24,2024-04-04 06:56:18.240,2024-04-05,19.76,ABMag,g - P1,1.035,Galaxy,Gaia DR3 855143626610797312,"['Gaia DR3 855143626610797312' '159.49' '57.758' '1.035' 'inf' 'Galaxy'
+ 'G']",,,,D. O. Jones (UC Santa Cruz),Yes
+2024fpy,15:21:26.506,+27:51:45.94,2024-04-04 09:10:23.998,2024-04-05,19.9002,ABMag,g - ZTF,1.423,GtowardsCl,2MASX J15212655+2751450,"['2MASX J15212655+2751450' '230.361' '27.863' '1.423' 'inf' 'GtowardsCl'
+ 'GiC']",,,,A. Munoz-Arancibia,No
+2024fpd,14:54:23.410,+16:21:19.90,2024-04-02 18:29:42.432,2024-04-05,18.1,VegaMag,Clear - ,1.439,RadioG,IC 4516,['IC 4516' '223.598' '16.355' '1.439' '1.431' 'RadioG' 'rG'],,,,Ya.Kechin,Yes
+2024for,15:35:09.792,+14:53:46.37,2024-04-04 09:34:55.200,2024-04-05,19.57,ABMag,g - ZTF,1.69,Galaxy,SDSS J153509.67+145346.5,['SDSS J153509.67+145346.5' '233.79' '14.896' '1.69' 'inf' 'Galaxy' 'G'],,,,J. Nordin,Yes
+2024foy,09:49:13.798,+53:14:42.83,2024-04-04 03:54:36.996,2024-04-05,19.5283,ABMag,r - ZTF,1.731,Galaxy,2MASX J09491367+5314440,['2MASX J09491367+5314440' '147.307' '53.246' '1.731' 'inf' 'Galaxy' 'G'],,,,A. Munoz-Arancibia,Yes
+2024foo,13:05:55.544,+28:20:51.65,2024-04-02 12:07:25.824,2024-04-05,20.4,ABMag,i - P1,1.835,GtowardsCl,[TEM98] 130331.77+283653.0,"['[TEM98] 130331.77+283653.0' '196.481' '28.347' '1.835' 'inf'
+ 'GtowardsCl' 'GiC']",,,,D. O. Jones (UC Santa Cruz),No
+2024fpq,11:14:39.668,+17:33:59.29,2024-04-03 08:46:51.168,2024-04-05,19.5,ABMag,orange - ATLAS,1.856,Galaxy,LEDA 1535860,['LEDA 1535860' '168.665' '17.567' '1.856' 'inf' 'Galaxy' 'G'],,,,J. Tonry,Yes
+2024frm,14:46:21.552,+67:07:29.96,2024-04-04 09:48:10.996,2024-04-05,19.8793,ABMag,g - ZTF,1.868,Galaxy,LEDA 2695415,['LEDA 2695415' '221.591' '67.125' '1.868' 'inf' 'Galaxy' 'G'],,,,A. Munoz-Arancibia,No
+2024frd,17:38:52.241,-02:25:48.92,2024-04-04 10:11:56.000,2024-04-05,20.6776,ABMag,g - ZTF,2.006,Galaxy,2MASX J17385217-0225472,['2MASX J17385217-0225472' '264.717' '-2.43' '2.006' 'inf' 'Galaxy' 'G'],,,,A. Munoz-Arancibia,No
+2024fow,10:41:36.754,-03:12:27.57,2024-03-29 05:55:40.800,2024-04-05,20.15,ABMag,g - ZTF,2.132,Galaxy,2dFGRS TGN226Z119,['2dFGRS TGN226Z119' '160.403' '-3.207' '2.132' 'inf' 'Galaxy' 'G'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024fqa,14:36:13.437,-00:16:25.11,2024-04-04 08:34:15.997,2024-04-05,19.8908,ABMag,r - ZTF,2.255,Galaxy,MGC 65354,['MGC 65354' '219.056' '-0.274' '2.255' 'inf' 'Galaxy' 'G'],,,,A. Munoz-Arancibia,Yes
+2024fop,17:13:31.437,+21:36:18.42,2024-04-03 04:36:13.248,2024-04-05,18.7,ABMag,L - GOTO,2.398,Galaxy,2MASX J17133157+2136162,['2MASX J17133157+2136162' '258.381' '21.605' '2.398' 'inf' 'Galaxy' 'G'],,,,K. Ulaczyk,Yes
+2024fov,08:03:36.421,-08:04:56.84,2024-03-28 05:09:36.000,2024-04-05,19.71,ABMag,g - ZTF,2.857,Galaxy,LEDA 1008613,['LEDA 1008613' '120.902' '-8.082' '2.857' 'inf' 'Galaxy' 'G'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024frt,14:04:30.381,+30:04:12.15,2024-04-04 09:56:35.002,2024-04-05,20.3059,ABMag,g - ZTF,3.386,Galaxy,LEDA 1889076,['LEDA 1889076' '211.127' '30.071' '3.386' 'inf' 'Galaxy' 'G'],,,,A. Munoz-Arancibia,Yes
+2024fqj,15:19:25.094,+29:37:13.37,2024-04-03 10:38:19.997,2024-04-05,20.2919,ABMag,g - ZTF,3.481,Galaxy,2MASX J15192525+2937168,['2MASX J15192525+2937168' '229.855' '29.621' '3.481' 'inf' 'Galaxy' 'G'],,,,A. Munoz-Arancibia,Yes
+2024fpp,21:42:51.518,-47:15:06.04,2024-04-03 09:19:14.304,2024-04-05,19.511,ABMag,orange - ATLAS,5.274,Galaxy,LEDA  504314,['LEDA  504314' '325.712' '-47.252' '5.274' 'inf' 'Galaxy' 'G'],,,,J. Tonry,No
+2024frb,18:53:13.820,+32:25:15.84,2024-04-04 11:41:15.996,2024-04-05,20.3346,ABMag,r - ZTF,5.443,Galaxy,LEDA 2813677,['LEDA 2813677' '283.306' '32.421' '5.443' 'inf' 'Galaxy' 'G'],,,,A. Munoz-Arancibia,No
+2024fpe,22:14:32.341,+13:46:21.54,2024-03-27 12:41:45.600,2024-04-05,16.99,ABMag,r - ZTF,5.765,LowSurfBrghtG,NAME LSBC F673-02,"['NAME LSBC F673-02' '333.633' '13.773' '5.765' 'inf' 'LowSurfBrghtG'
+ 'LSB']",,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,Yes
+2024fpb,19:09:50.271,-17:55:43.47,2024-03-29 11:19:40.800,2024-04-05,17.9,ABMag,r - ZTF,5.986,Seyfert2,ESO 593-1,['ESO 593-1' '287.458' '-17.928' '5.986' '2.779' 'Seyfert2' 'Sy2'],,,,C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024fpk,22:01:56.706,-56:52:50.98,2024-04-03 09:21:12.672,2024-04-05,19.013,ABMag,orange - ATLAS,6.196,Galaxy,2dFGRS TGS812Z739,['2dFGRS TGS812Z739' '330.489' '-56.88' '6.196' 'inf' 'Galaxy' 'G'],,,,J. Tonry,No
+2024fpu,16:21:00.825,+34:37:15.23,2024-03-29 08:23:00.004,2024-04-05,19.8886,ABMag,g - ZTF,7.062,Galaxy,2MASX J16210025+3437155,['2MASX J16210025+3437155' '245.251' '34.621' '7.062' 'inf' 'Galaxy' 'G'],,,,A. Munoz-Arancibia,Yes
+2024foq,10:11:26.346,+38:26:41.68,2024-04-03 22:24:58.464,2024-04-05,18.95,ABMag,L - GOTO,7.634,GtowardsGroup,LEDA 2127302,['LEDA 2127302' '152.86' '38.447' '7.634' 'inf' 'GtowardsGroup' 'GiG'],,,,T. Killestein,Yes
+2024foz,16:06:05.419,+31:08:18.72,2024-04-04 09:11:44.998,2024-04-05,20.3397,ABMag,g - ZTF,8.562,Galaxy,LEDA 1933311,['LEDA 1933311' '241.524' '31.136' '8.562' 'inf' 'Galaxy' 'G'],,,,A. Munoz-Arancibia,Yes
