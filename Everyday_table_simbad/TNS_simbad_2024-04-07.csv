@@ -1,0 +1,7 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024fxa,13:11:58.058,+56:32:39.66,2024-04-06 11:04:24.096,2024-04-07,19.581,ABMag,orange - ATLAS,0.486,Galaxy,LEDA 2540153,['LEDA 2540153' '197.992' '56.544' '0.486' 'inf' 'Galaxy' 'G'],J. Tonry,No
+2024fxe,13:18:26.000,-08:30:50.02,2024-03-29 07:27:50.400,2024-04-07,19.41,ABMag,g - ZTF,1.127,Galaxy,Gaia DR3 3624972777444710784,"['Gaia DR3 3624972777444710784' '199.608' '-8.514' '1.127' 'inf' 'Galaxy'
+ 'G']",C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration,No
+2024fwo,15:09:56.767,+09:11:14.06,2024-04-05 14:11:09.312,2024-04-07,19.612,ABMag,orange - ATLAS,1.169,Galaxy,SDSS J150956.81+091113.0,['SDSS J150956.81+091113.0' '227.487' '9.187' '1.169' 'inf' 'Galaxy' 'G'],J. Tonry,Yes
+2024fwj,12:13:39.631,+14:14:39.86,2024-04-06 13:47:59.000,2024-04-07,18.371,ABMag,orange - ATLAS,1.504,Galaxy,LEDA 1453147,['LEDA 1453147' '183.415' '14.244' '1.504' 'inf' 'Galaxy' 'G'],J. Tonry,Yes
+2024fwu,10:04:59.650,+49:53:21.90,2024-04-06 08:33:33.696,2024-04-07,19.102,ABMag,orange - ATLAS,3.422,Galaxy,LEDA 2356553,['LEDA 2356553' '151.248' '49.89' '3.422' 'inf' 'Galaxy' 'G'],J. Tonry,Yes
