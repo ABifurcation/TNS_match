@@ -2353,3 +2353,17 @@ today matching already finished and uploaded
 36 match within 10 arcsec to SDSSDR16 in 2024-04-11 
 13 match within 10 arcsec to simbad in 2024-04-11 
 --------running end at 2024-04-11  09:09:32--------
+--------running start at 2024-04-11  12:00:03--------
+today matching already finished and uploaded
+--------running end at 2024-04-11  12:00:05--------
+--------running start at 2024-04-11  18:00:02--------
+today matching already finished and uploaded
+--------running end at 2024-04-11  18:00:05--------
+--------running start at 2024-04-12  09:00:03--------
+No TNS email in 2024-04-12
+No TNS email in 2024-04-12
+No TNS email in 2024-04-12
+No TNS email in 2024-04-12
+--------running start at 2024-04-12  12:00:07--------
+The previous github connection failed
+--------running end at 2024-04-12  12:00:10--------
