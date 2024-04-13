@@ -2367,3 +2367,12 @@ No TNS email in 2024-04-12
 --------running start at 2024-04-12  12:00:07--------
 The previous github connection failed
 --------running end at 2024-04-12  12:00:10--------
+--------running start at 2024-04-12  18:00:04--------
+today matching already finished and uploaded
+--------running end at 2024-04-12  18:00:07--------
+--------running start at 2024-04-13  09:00:03--------
+39 match within 10 arcsec to GLADE in 2024-04-13 
+5 match within 10 arcsec to GC in 2024-04-13 
+99 match within 10 arcsec to SDSSDR16 in 2024-04-13 
+48 match within 10 arcsec to simbad in 2024-04-13 
+--------running end at 2024-04-13  09:22:40--------
