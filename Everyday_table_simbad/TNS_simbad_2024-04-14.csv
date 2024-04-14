@@ -1,0 +1,15 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter,SDSS_image
+2024gnj,10:40:56.325,+05:27:55.91,2024-04-13 07:36:43.004,2024-04-14,21.9176,ABMag,g - ZTF,0.643,Galaxy,WiggleZ S11J104056293+05275548,"['WiggleZ S11J104056293+05275548' '160.235' '5.465' '0.643' 'inf' 'Galaxy'
+ 'G']",,,,VISHWAJEET Swain (IIT Bombay,No
+2024gnb,10:43:19.276,+03:39:17.24,2024-04-13 03:19:22.002,2024-04-14,21.2459,ABMag,g - ZTF,0.746,Galaxy,WiggleZ S11J104319290+03391652,"['WiggleZ S11J104319290+03391652' '160.83' '3.655' '0.746' 'inf' 'Galaxy'
+ 'G']",,,,VISHWAJEET Swain (IIT Bombay,No
+2024gmv,13:46:43.845,-10:48:46.35,2024-04-13 08:30:00.002,2024-04-14,18.8347,ABMag,g - ZTF,0.75,Galaxy,LEDA  973450,['LEDA  973450' '206.682' '-10.813' '0.75' 'inf' 'Galaxy' 'G'],,,,Jesper Sollerman (SU),No
+2024gmm,15:00:20.988,+16:12:35.18,2024-04-13 08:09:49.996,2024-04-14,19.7516,ABMag,g - ZTF,0.806,Galaxy,Gaia DR3 1187151058221846528,"['Gaia DR3 1187151058221846528' '225.087' '16.21' '0.806' 'inf' 'Galaxy'
+ 'G']",,,,Jesper Sollerman (SU),Yes
+2024gmn,14:32:12.341,+04:59:33.02,2024-04-08 07:42:02.001,2024-04-14,19.8533,ABMag,g - ZTF,1.909,Galaxy,2MASX J14321221+0459336,['2MASX J14321221+0459336' '218.051' '4.993' '1.909' 'inf' 'Galaxy' 'G'],,,,Jesper Sollerman (SU),Yes
+2024gml,14:10:20.692,+21:28:46.76,2024-04-13 08:08:28.996,2024-04-14,19.6395,ABMag,g - ZTF,2.23,Galaxy,LEDA 1650857,['LEDA 1650857' '212.587' '21.48' '2.23' 'inf' 'Galaxy' 'G'],,,,Jesper Sollerman (SU),Yes
+2024gmo,09:46:47.440,+72:27:03.56,2024-04-08 06:48:18.996,2024-04-14,18.9969,ABMag,g - ZTF,2.419,Galaxy,Mrk  120,['Mrk  120' '146.696' '72.45' '2.419' 'inf' 'Galaxy' 'G'],,,,Jesper Sollerman (SU),No
+2024gmu,15:56:41.555,+59:02:09.66,2024-04-13 09:52:13.002,2024-04-14,19.6805,ABMag,r - ZTF,3.05,Galaxy,LEDA 2585698,['LEDA 2585698' '239.172' '59.036' '3.05' 'inf' 'Galaxy' 'G'],,,,Eli Gendreau-Distler (UC Berkeley),No
+2024gmy,12:35:11.161,-00:13:19.40,2024-04-13 07:09:00.002,2024-04-14,19.9857,ABMag,g - ZTF,3.669,Galaxy,SDSS J123510.91-001320.1,['SDSS J123510.91-001320.1' '188.796' '-0.222' '3.669' 'inf' 'Galaxy' 'G'],Seyfert2,NGC  4541,['NGC  4541' '188.794' '-0.221' '8.14' '3.717' 'Seyfert2' 'Sy2'],Eli Gendreau-Distler (UC Berkeley),No
+2024gnv,02:39:43.996,-76:32:40.91,2024-04-13 17:15:43.200,2024-04-14,18.269,ABMag,orange - ATLAS,5.108,Galaxy,LEDA  239778,['LEDA  239778' '39.935' '-76.543' '5.108' 'inf' 'Galaxy' 'G'],,,,J. Tonry,No
+2024gnm,10:46:30.880,-04:58:38.35,2024-02-15 09:37:48.000,2024-04-14,21.85,ABMag,w - P1,7.172,Galaxy,2dFGRS TGN102Z019,['2dFGRS TGN102Z019' '161.631' '-4.977' '7.172' 'inf' 'Galaxy' 'G'],,,,K. C. Chambers,No
