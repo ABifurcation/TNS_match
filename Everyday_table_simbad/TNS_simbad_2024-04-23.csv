@@ -1,0 +1,11 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024haz,18:56:10.414,+82:20:10.11,2024-04-20 10:50:09.997,2024-04-23,20.1037,ABMag,g - ZTF,0.281,Galaxy,Gaia DR3 2296434973548272896,"['Gaia DR3 2296434973548272896' '284.044' '82.336' '0.281' 'inf' 'Galaxy'
+ 'G']",A. Munoz-Arancibia,No
+2024hap,14:37:16.440,+00:10:38.57,2024-04-13 08:05:45.000,2024-04-23,20.0269,ABMag,g - ZTF,0.428,Galaxy,LEDA 1159023,['LEDA 1159023' '219.319' '0.177' '0.428' 'inf' 'Galaxy' 'G'],Gabrielle Stewart (UC Berkeley),Yes
+2024hay,15:29:18.591,+06:43:59.51,2024-04-22 07:10:52.997,2024-04-23,19.0608,ABMag,r - ZTF,1.957,Galaxy,LEDA 1306454,['LEDA 1306454' '232.328' '6.733' '1.957' 'inf' 'Galaxy' 'G'],A. Munoz-Arancibia,Yes
+2024hau,17:34:01.374,+36:32:15.90,2024-04-18 08:53:36.003,2024-04-23,19.6979,ABMag,r - ZTF,2.726,Galaxy,LEDA 2082422,['LEDA 2082422' '263.507' '36.538' '2.726' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),No
+2024hba,12:53:49.973,-09:49:55.19,2024-04-19 08:58:17.184,2024-04-23,20.06,ABMag,y - P1,4.254,Seyfert2,LEDA  985877,['LEDA  985877' '193.459' '-9.832' '4.254' 'inf' 'Seyfert2' 'Sy2'],K. C. Chambers,No
+2024hao,08:23:02.958,+21:54:17.29,2024-04-20 06:13:54.001,2024-04-23,19.1136,ABMag,r - ZTF,4.324,Galaxy,LEDA 1659582,['LEDA 1659582' '125.762' '21.904' '4.324' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),Yes
+2024haj,07:09:42.791,+50:04:02.36,2024-04-22 05:12:19.995,2024-04-23,18.5515,ABMag,g - ZTF,6.57,GtowardsCl,2MFGC 5678,['2MFGC 5678' '107.427' '50.066' '6.57' 'inf' 'GtowardsCl' 'GiC'],Jesper Sollerman (SU),No
+2024hal,11:02:24.520,+36:53:41.04,2024-04-12 07:24:26.997,2024-04-23,19.9111,ABMag,r - ZTF,7.51,Galaxy,LEDA 2088871,['LEDA 2088871' '165.6' '36.893' '7.51' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),Yes
+2024han,08:03:06.937,+16:28:30.02,2024-04-20 06:13:54.001,2024-04-23,19.2038,ABMag,r - ZTF,7.586,Galaxy,SDSS J080306.44+162827.2,['SDSS J080306.44+162827.2' '120.777' '16.474' '7.586' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),Yes
