@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024hpb,12:16:32.658,+75:21:37.73,2024-04-30 05:27:42.998,2024-05-01,19.4012,ABMag,g - ZTF,0,['m9303'],['12:11:47'],['+74:50:06'],[],[],Nabeel Rehemtulla (CIERA
