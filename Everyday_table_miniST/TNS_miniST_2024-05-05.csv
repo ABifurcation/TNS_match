@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024iam,08:47:00.696,+86:13:00.64,2024-04-30 06:18:48.997,2024-05-05,20.1745,ABMag,r - ZTF,0,['m9530'],['08:39:13'],['+85:44:30'],[],[],Daniel Perley (LJMU)
+2024ich,11:34:13.858,+58:16:08.10,2024-05-04 06:49:32.998,2024-05-05,20.1228,ABMag,g - ZTF,0,['m8498'],['11:31:00'],['+58:28:30'],[],[],F. Forster
