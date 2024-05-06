@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024idg,19:51:12.856,-27:03:01.00,2024-05-04 07:43:18.336,2024-05-06,18.607,ABMag,orange - ATLAS,3.241,Galaxy,2MASX J19511265-2703020,['2MASX J19511265-2703020' '297.803' '-27.051' '3.241' 'inf' 'Galaxy' 'G'],J. Tonry,No
+2024ida,15:06:42.865,+40:34:48.77,2024-05-03 11:06:25.056,2024-05-06,19.62,ABMag,w - P1,5.982,LINER,UGC  9719,['UGC  9719' '226.676' '40.581' '5.982' '3.903' 'LINER' 'LIN'],K. C. Chambers,Yes
