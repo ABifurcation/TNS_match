@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024imb,12:04:40.567,+58:43:34.33,2024-05-09 08:34:08.256,2024-05-10,18.527,ABMag,orange - ATLAS,0,['m8500'],['12:03:29'],['+58:28:30'],[],[],J. Tonry
