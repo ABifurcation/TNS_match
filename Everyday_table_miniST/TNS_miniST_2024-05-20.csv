@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2018mnl,11:26:42.551,+59:09:29.57,2018-06-26 05:44:08.001,2024-05-20,19.4005,ABMag,r - ZTF,0,['m8498'],['11:31:00'],['+58:28:30'],[],[],Jesper Sollerman (SU)
