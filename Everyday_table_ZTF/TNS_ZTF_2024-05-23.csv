@@ -1,0 +1,3 @@
+TNS_ID,ZTF_ID,type,Days_ago,g_minus_r_mean,g_minus_r_latest,g,r,latest_utc,N_obs,N_obs_14_day,rising,fading,sherlock,offsetArcsec,g_max,r_max,g_host,r_host,g_minus_r_host,sg_score,disc_mjd,latest_mjd,ra,decl
+2024jfh,ZTF24aaooxcd,,5.588108740746975,0.08,-0.16,18.5879,18.7477,2024-05-22T10:57:17.003509,3,3,rising/peak,,SN,2.8,18.5879,18.7477,19.7435,18.787,0.96,,60450.4,60452.5,328.8387500333333,9.366664966666667
+2024jfe,ZTF24aaoaghn,,4.6021944410167634,0.43,0.54,19.4821,18.9421,2024-05-22T09:41:14.003517,3,3,rising/peak,,VS,0.84,19.4821,18.9421,18.9135,18.1234,0.79,0.0355417,60450.4,60452.4,305.9926570333334,0.1643618

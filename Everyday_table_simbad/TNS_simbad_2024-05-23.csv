@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024jfk,09:50:10.460,+40:24:47.79,2024-05-21 07:09:58.176,2024-05-23,19.4072,ABMag,r - ZTF,5.136,Galaxy,2MASX J09501037+4024427,['2MASX J09501037+4024427' '147.543' '40.412' '5.136' 'inf' 'Galaxy' 'G'],K. De (Caltech) on behalf of ZTF,No
