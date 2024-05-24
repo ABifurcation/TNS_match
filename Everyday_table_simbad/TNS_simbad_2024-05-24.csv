@@ -1,0 +1,6 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter,SDSS_image
+2024jfq,00:20:11.118,-03:24:00.82,2024-05-22 14:27:40.320,2024-05-24,18.055,ABMag,orange - ATLAS,1.416,Galaxy,LEDA  169988,['LEDA  169988' '5.047' '-3.401' '1.416' '0.868' 'Galaxy' 'G'],,,,J. Tonry,No
+2024jfm,23:41:43.598,-03:39:31.16,2024-05-22 14:09:06.624,2024-05-24,18.367,ABMag,orange - ATLAS,4.263,EmissionG,Mrk  933,['Mrk  933' '355.432' '-3.657' '4.263' 'inf' 'EmissionG' 'EmG'],PartofG,[HV96] Arp 295 G4,['[HV96] Arp 295 G4' '355.431' '-3.657' '6.332' 'inf' 'PartofG' 'PoG'],J. Tonry,No
+2024jfp,23:40:15.088,+04:20:33.18,2024-05-22 14:05:51.360,2024-05-24,17.336,ABMag,orange - ATLAS,5.103,Galaxy,LEDA 1266917,['LEDA 1266917' '355.063' '4.344' '5.103' '2.187' 'Galaxy' 'G'],,,,J. Tonry,No
+2024jfn,10:11:14.964,-35:41:46.66,2024-05-22 08:15:27.648,2024-05-24,18.64,ABMag,L - GOTO,5.195,Galaxy,MCG-06-23-009,['MCG-06-23-009' '152.812' '-35.695' '5.195' 'inf' 'Galaxy' 'G'],,,,S. Belkin,No
+2024jfu,00:52:22.748,-26:34:20.48,2024-05-22 19:39:07.776,2024-05-24,19.31,ABMag,L - GOTO,8.881,LowSurfBrghtG,NAME GSA N02,['NAME GSA N02' '13.092' '-26.572' '8.881' 'inf' 'LowSurfBrghtG' 'LSB'],,,,K. Ackley,No
