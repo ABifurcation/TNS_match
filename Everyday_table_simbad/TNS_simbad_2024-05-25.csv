@@ -1,0 +1,8 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Gal_3_type,Gal_3_name,Gal_3_info,Reporter,SDSS_image
+2024jgn,16:38:17.358,+39:51:08.82,2024-05-22 12:52:12.000,2024-05-25,20.06,ABMag,r - P1,0.61,Galaxy,SDSSCGB 36713.1,['SDSSCGB 36713.1' '249.572' '39.852' '0.61' 'inf' 'Galaxy' 'G'],Compact_Gr_G,SDSSCGB 36713,['SDSSCGB 36713' '249.572' '39.851' '5.858' 'inf' 'Compact_Gr_G' 'CGG'],Galaxy,SDSSCGB 36713.3,['SDSSCGB 36713.3' '249.574' '39.851' '7.244' 'inf' 'Galaxy' 'G'],D. O. Jones (UC Santa Cruz),No
+2024jgj,11:41:06.600,+16:23:07.68,2024-05-22 07:29:55.680,2024-05-25,18.475,ABMag,orange - ATLAS,1.0,Galaxy,SDSS J114106.53+162308.1,['SDSS J114106.53+162308.1' '175.277' '16.386' '1.0' 'inf' 'Galaxy' 'G'],,,,,,,J. Tonry,Yes
+2024jgi,14:49:31.655,+33:32:49.59,2024-05-22 11:51:56.160,2024-05-25,20.04,ABMag,i - P1,2.652,Galaxy,SDSS J144931.81+333251.3,['SDSS J144931.81+333251.3' '222.383' '33.548' '2.652' 'inf' 'Galaxy' 'G'],,,,,,,K. C. Chambers,Yes
+2024jgf,13:19:05.344,-37:04:01.86,2024-05-24 09:46:09.984,2024-05-25,17.55,ABMag,L - GOTO,8.251,Galaxy,LEDA  628836,['LEDA  628836' '199.775' '-37.068' '8.251' 'inf' 'Galaxy' 'G'],,,,,,,A. Kumar,No
+2024jfz,07:23:20.198,-73:27:06.31,2024-05-11 19:41:45.000,2024-05-25,0.003,mJy,F115W - JWST,8.92,Galaxy,RELICS wfc3ir SMACS J0723.3-7327  599,"['RELICS wfc3ir SMACS J0723.3-7327  599' '110.84' '-73.45' '8.92' 'inf'
+ 'Galaxy' 'G']",,,,,,,Thomas Reynolds (DAWN,No
+2024jge,11:58:50.290,-01:32:13.07,2024-05-12 01:47:46.000,2024-05-25,19.37,ABMag,BG-q - BlackGem,9.769,Galaxy,SDSS J115849.64-013211.2,['SDSS J115849.64-013211.2' '179.707' '-1.536' '9.769' 'inf' 'Galaxy' 'G'],,,,,,,H. Tranin,No
