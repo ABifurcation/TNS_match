@@ -1,0 +1,9 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Gal_3_type,Gal_3_name,Gal_3_info,Reporter,SDSS_image
+2024jgz,13:56:32.297,+28:31:17.21,2024-05-22 09:24:40.032,2024-05-27,19.73,ABMag,r - P1,2.136,Galaxy,Z 162-33,['Z 162-33' '209.135' '28.522' '2.136' '1.622' 'Galaxy' 'G'],,,,,,,D. O. Jones (UC Santa Cruz),Yes
+2024jhs,10:00:17.461,-19:04:22.71,2024-05-25 06:40:52.896,2024-05-27,20.08,ABMag,i - P1,3.169,GtowardsGroup,2MASX J10001749-1904193,"['2MASX J10001749-1904193' '150.073' '-19.072' '3.169' 'inf'
+ 'GtowardsGroup' 'GiG']",,,,,,,D. O. Jones (UC Santa Cruz),No
+2024jhg,12:38:35.807,+08:26:32.20,2024-05-26 07:14:05.997,2024-05-27,19.4862,ABMag,r - ZTF,3.493,Galaxy,LEDA 1346956,['LEDA 1346956' '189.649' '8.443' '3.493' 'inf' 'Galaxy' 'G'],,,,,,,Jesper Sollerman (SU),Yes
+2024jht,15:30:23.366,+13:59:26.77,2024-05-25 07:29:28.896,2024-05-27,20.27,ABMag,r - P1,4.203,Galaxy,SDSSCGB 23301.1,['SDSSCGB 23301.1' '232.598' '13.99' '4.203' 'inf' 'Galaxy' 'G'],Compact_Gr_G,SDSSCGB 23301,['SDSSCGB 23301' '232.596' '13.99' '6.004' 'inf' 'Compact_Gr_G' 'CGG'],Galaxy,SDSSCGB 23301.4,['SDSSCGB 23301.4' '232.597' '13.989' '8.36' 'inf' 'Galaxy' 'G'],D. O. Jones (UC Santa Cruz),Yes
+2024jhh,13:21:46.554,-01:45:52.83,2024-05-17 06:06:08.997,2024-05-27,20.0072,ABMag,g - ZTF,4.397,RadioG,NVSS J132147-014541,['NVSS J132147-014541' '200.445' '-1.766' '4.397' 'inf' 'RadioG' 'rG'],,,,,,,Jesper Sollerman (SU),Yes
+2024jhr,13:57:23.736,-19:44:56.83,2024-05-25 22:05:52.800,2024-05-27,19.22,ABMag,L - GOTO,5.338,Galaxy,LEDA  851009,['LEDA  851009' '209.348' '-19.75' '5.338' 'inf' 'Galaxy' 'G'],,,,,,,K. Ulaczyk,No
+2024jhk,10:51:24.291,+08:33:29.86,2024-05-26 07:37:51.744,2024-05-27,18.274,ABMag,orange - ATLAS,6.108,Galaxy,LEDA  213743,['LEDA  213743' '162.853' '8.557' '6.108' 'inf' 'Galaxy' 'G'],,,,,,,J. Tonry,Yes
