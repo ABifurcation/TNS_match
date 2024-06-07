@@ -3016,3 +3016,15 @@ today matching already finished and uploaded
 12 match within 10 arcsec to SDSSDR16 in 2024-06-06 
 7 match within 10 arcsec to simbad in 2024-06-06 
 --------running end at 2024-06-06  09:02:48--------
+--------running start at 2024-06-06  12:00:03--------
+today matching already finished and uploaded
+--------running end at 2024-06-06  12:00:06--------
+--------running start at 2024-06-06  18:00:02--------
+today matching already finished and uploaded
+--------running end at 2024-06-06  18:00:05--------
+--------running start at 2024-06-07  09:00:04--------
+8 match within 10 arcsec to GLADE in 2024-06-07 
+zero match within 10 arcsec to GC in 2024-06-07
+13 match within 10 arcsec to SDSSDR16 in 2024-06-07 
+6 match within 10 arcsec to simbad in 2024-06-07 
+--------running end at 2024-06-07  09:15:14--------
