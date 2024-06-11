@@ -3067,3 +3067,12 @@ today matching already finished and uploaded
 --------running start at 2024-06-10  12:00:03--------
 The previous github connection failed
 --------running end at 2024-06-10  12:00:06--------
+--------running start at 2024-06-10  18:00:03--------
+today matching already finished and uploaded
+--------running end at 2024-06-10  18:00:06--------
+--------running start at 2024-06-11  09:00:02--------
+13 match within 10 arcsec to GLADE in 2024-06-11 
+zero match within 10 arcsec to GC in 2024-06-11
+16 match within 10 arcsec to SDSSDR16 in 2024-06-11 
+15 match within 10 arcsec to simbad in 2024-06-11 
+--------running end at 2024-06-11  09:05:52--------
