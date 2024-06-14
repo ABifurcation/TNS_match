@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024ldj,01:50:00.064,+21:11:11.49,2024-06-07 11:23:28.999,2024-06-14,19.9994,ABMag,r - ZTF,0,['m4992'],['01:54:36'],['+21:39:54'],[],[],Jyotsna Ravi (UC Berkeley)
