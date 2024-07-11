@@ -3433,3 +3433,6 @@ zero match within 10 arcsec to simbad in 2024-07-11
 --------running start at 2024-07-11  12:00:19--------
 The previous github connection failed
 --------running end at 2024-07-11  12:00:23--------
+--------running start at 2024-07-11  18:00:10--------
+The previous github connection failed
+--------running end at 2024-07-11  18:00:14--------
