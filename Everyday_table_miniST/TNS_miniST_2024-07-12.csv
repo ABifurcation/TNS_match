@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024phg,01:26:03.765,-07:14:50.16,2024-07-11 04:39:47.520,2024-07-12,19.2,ABMag,L - GOTO,0,['m1491'],['01:30:11'],['-06:57:54'],[],[],T. Killestein
+2024phl,10:16:53.850,+73:24:03.20,2024-07-10 14:54:44.640,2024-07-12,12.6,VegaMag,Clear - ,0,['m9253'],['10:13:12'],['+73:28:18'],[],[],Ya.Kechin
+2024pho,12:27:22.424,+64:19:28.85,2024-06-18 05:16:48.000,2024-07-12,20.2,ABMag,g - ZTF,0,['m8828'],['12:24:47'],['+63:55:42'],[],[],Priscila Pessi (OKC)

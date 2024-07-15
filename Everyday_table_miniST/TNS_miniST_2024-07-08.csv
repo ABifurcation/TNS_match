@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024olz,23:12:02.753,+03:20:30.55,2024-06-19 13:43:59.808,2024-07-08,21.22,ABMag,w - P1,0,['m2996'],['23:12:17'],['+03:56:30'],[],[],K. C. Chambers
+2024omi,23:11:51.444,+04:17:21.39,2024-06-19 13:43:59.808,2024-07-08,21.12,ABMag,w - P1,0,['m2996'],['23:12:17'],['+03:56:30'],[],[],K. C. Chambers

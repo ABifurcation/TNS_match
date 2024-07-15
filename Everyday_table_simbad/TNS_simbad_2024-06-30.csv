@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024ndn,02:15:50.390,-34:55:18.80,2024-06-04 08:21:07.200,2024-06-30,18.95,ABMag,G - Gaia,0.476,Galaxy,2dFGRS TGS574Z283,['2dFGRS TGS574Z283' '33.96' '-34.922' '0.476' 'inf' 'Galaxy' 'G'],S.T. Hodgkin,No
+2024ncx,12:43:47.821,+35:18:59.10,2024-06-26 08:49:03.360,2024-06-30,19.86,ABMag,i - P1,0.753,Galaxy,NGP9 F268-1024594,['NGP9 F268-1024594' '190.949' '35.316' '0.753' 'inf' 'Galaxy' 'G'],K. C. Chambers,No
+2024ndj,00:41:31.191,+36:48:30.03,2024-06-23 10:55:01.001,2024-06-30,19.7151,ABMag,i - ZTF,2.972,Galaxy,LEDA 2087364,['LEDA 2087364' '10.38' '36.809' '2.972' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),No

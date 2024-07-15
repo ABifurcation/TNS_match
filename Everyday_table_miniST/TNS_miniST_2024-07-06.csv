@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024nwb,23:23:49.086,+23:15:29.94,2024-07-05 04:40:11.712,2024-07-06,19.23,ABMag,L - GOTO,0,['m5290'],['23:27:45'],['+23:01:42'],[],[],A. Kumar

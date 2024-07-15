@@ -1,0 +1,10 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024pfk,21:47:24.270,+12:30:51.52,2024-07-07 19:10:33.600,2024-07-11,18.34,ABMag,G - Gaia,0.099,QSO,SDSS J214724.26+123051.5,['SDSS J214724.26+123051.5' '326.851' '12.514' '0.099' 'inf' 'QSO' 'QSO'],S.T. Hodgkin,Yes
+2024pgf,17:23:50.864,+19:56:47.66,2024-07-08 07:10:10.000,2024-07-11,20.181,ABMag,r - ZTF,0.157,Galaxy,Gaia DR3 4554540894440167296,"['Gaia DR3 4554540894440167296' '260.962' '19.947' '0.157' 'inf' 'Galaxy'
+ 'G']",I. Pérez-Fournon,No
+2024pgs,21:41:24.785,-05:15:22.76,2024-07-08 09:39:11.998,2024-07-11,19.9656,ABMag,r - ZTF,1.687,GtowardsCl,DES J214124.70-051523.8,"['DES J214124.70-051523.8' '325.353' '-5.257' '1.687' 'inf' 'GtowardsCl'
+ 'GiC']",Gabrielle Stewart (UC Berkeley),No
+2024pfp,22:47:40.040,-37:11:06.50,2024-07-08 00:15:50.400,2024-07-11,18.46,ABMag,G - Gaia,1.746,Galaxy,LEDA  627166,['LEDA  627166' '341.916' '-37.185' '1.746' 'inf' 'Galaxy' 'G'],S.T. Hodgkin,No
+2024pfn,11:29:44.520,-36:23:27.00,2024-07-10 07:54:37.376,2024-07-11,16,Other,Other - ,2.05,EmissionG,NGC  3706,['NGC  3706' '172.435' '-36.391' '2.05' '0.335' 'EmissionG' 'EmG'],Stuart Parker,No
+2024pfo,09:46:51.440,-16:49:00.95,2024-07-08 02:09:36.000,2024-07-11,18.41,ABMag,G - Gaia,2.801,Galaxy,LEDA  893141,['LEDA  893141' '146.714' '-16.816' '2.801' 'inf' 'Galaxy' 'G'],S.T. Hodgkin,No
+2024pft,13:12:34.978,-29:57:55.33,2024-07-10 01:09:31.392,2024-07-11,19.246,ABMag,orange - ATLAS,4.932,Galaxy,LEDA  723043,['LEDA  723043' '198.146' '-29.967' '4.932' 'inf' 'Galaxy' 'G'],J. Tonry,No
