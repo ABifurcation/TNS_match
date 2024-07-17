@@ -3,9 +3,8 @@
 Everyday TNS matched galaxy/cluster. Update in 9:00, 12:00, 18:00 Beijing, China (UTC+8).
 
 ### The Summary Table:
-https://abifurcation.github.io/TNS_match/index.html 
+https://abifurcation.github.io/TNS_match/index.html
 
-The webpage table has a deploy lag of ~20 min in updating.
 TNS_ID has hyperlink to the target TNS webpage.
 ZTF_ID has hyperlink to the target Lasair webpage.
 
