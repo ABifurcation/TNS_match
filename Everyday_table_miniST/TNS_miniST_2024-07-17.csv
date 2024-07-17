@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024poy,02:50:02.357,-17:02:53.13,2024-07-01 09:50:29.000,2024-07-17,18.69,ABMag,BG-q - BlackGem,0,['m0341'],['02:53:05'],['-16:30:30'],[],[],S. Faris
