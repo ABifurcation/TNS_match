@@ -1,0 +1,8 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024pve,13:27:31.935,+65:48:48.13,2024-06-21 05:24:21.997,2024-07-22,19.8975,ABMag,g - ZTF,0.341,Seyfert1,SDSS J132731.98+654848.3,"['SDSS J132731.98+654848.3' '201.883' '65.813' '0.341' 'inf' 'Seyfert1'
+ 'Sy1']",Jesper Sollerman (SU),Yes
+2024pvd,01:18:58.582,-00:26:06.00,2024-07-20 10:42:33.408,2024-07-22,18.8799,ABMag,g - ZTF,0.403,Seyfert1,CAIRNS J011858.58-002606.4,"['CAIRNS J011858.58-002606.4' '19.744' '-0.435' '0.403' 'inf' 'Seyfert1'
+ 'Sy1']",K. De (Caltech) on behalf of ZTF,Yes
+2024pvc,23:37:44.950,+17:47:37.20,2024-07-20 19:07:57.216,2024-07-22,16.95,VegaMag,Clear - ,1.396,Galaxy,LEDA 1541844,['LEDA 1541844' '354.437' '17.793' '1.396' 'inf' 'Galaxy' 'G'],Ziyang Mai,No
+2024pvh,11:45:48.573,+32:58:48.96,2024-07-21 06:39:04.896,2024-07-22,17.608,ABMag,orange - ATLAS,3.349,GtowardsGroup,2MASX J11454837+3258465,"['2MASX J11454837+3258465' '176.452' '32.98' '3.349' 'inf' 'GtowardsGroup'
+ 'GiG']",J. Tonry,Yes
