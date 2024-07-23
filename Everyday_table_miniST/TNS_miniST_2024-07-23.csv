@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024pvt,03:38:06.171,-17:50:53.34,2024-06-29 09:32:18.816,2024-07-23,18.831,ABMag,orange - ATLAS,0,['m0185'],['03:38:59'],['-17:52:18'],[],[],J. Tonry
+2024pvu,23:31:11.947,+22:15:31.71,2024-07-10 10:41:47.996,2024-07-23,18.9182,ABMag,g - ZTF,0,['m5134'],['23:32:19'],['+21:39:54'],[],[],Kate Bostow (UC Berkeley)
+2024pwa,23:15:24.016,+03:53:04.19,2024-07-22 09:35:50.000,2024-07-23,18.79,ABMag,g - ZTF,0,['m2996'],['23:12:17'],['+03:56:30'],[],[],I. Pérez-Fournon
