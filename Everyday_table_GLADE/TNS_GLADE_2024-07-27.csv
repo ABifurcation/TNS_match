@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024qcs,11:35:57.608,+21:12:00.30,2024-07-18 04:28:17.996,2024-07-27,19.5379,ABMag,r - ZTF,1.8733260100679974,inf,G,999,0.0,0.0,['173.989502' '21.199924' 'G' '0.0' '0.0' '1.8733260100679974' 'inf'],Jesper Sollerman (SU),No
+2015fu,02:00:21.621,-01:38:42.64,2015-10-10 13:07:48.796,2024-07-27,19.0475,ABMag,r2 - HSC,7.008018320343677,inf,G,999,0.0,0.0,['30.0912' '-1.64358' 'G' '0.0' '0.0' '7.008018320343677' 'inf'],Claude Cornen,No
