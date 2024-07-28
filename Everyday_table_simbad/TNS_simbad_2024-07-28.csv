@@ -1,0 +1,6 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024qek,00:02:25.804,+01:00:12.91,2024-07-24 09:15:27.996,2024-07-28,19.0808,ABMag,r - ZTF,2.256,Galaxy,SDSS J000225.82+010015.1,['SDSS J000225.82+010015.1' '0.608' '1.004' '2.256' 'inf' 'Galaxy' 'G'],Eli Gendreau-Distler (UC Berkeley),Yes
+2024qee,14:23:32.502,-23:26:34.45,2024-07-24 11:46:23.520,2024-07-28,18.97,ABMag,L - GOTO,2.816,Galaxy,LEDA  800811,['LEDA  800811' '215.885' '-23.443' '2.816' 'inf' 'Galaxy' 'G'],T. Killestein,No
+2024qeq,12:12:50.772,-00:50:10.75,2024-07-25 23:02:24.000,2024-07-28,17.3,ABMag,g - Sloan,3.256,Galaxy,LEDA 1133455,['LEDA 1133455' '183.211' '-0.837' '3.256' 'inf' 'Galaxy' 'G'],K. Z. Stanek,Yes
+2024qfa,11:31:58.847,-16:32:37.10,2024-07-26 23:30:47.808,2024-07-28,18.617,ABMag,cyan - ATLAS,3.752,Galaxy,LEDA  896813,['LEDA  896813' '172.995' '-16.543' '3.752' 'inf' 'Galaxy' 'G'],J. Tonry,No
+2024qei,01:20:46.947,+43:29:20.74,2024-07-22 11:13:36.001,2024-07-28,20.2027,ABMag,r - ZTF,9.777,Galaxy,LEDA 2222010,['LEDA 2222010' '20.192' '43.49' '9.777' 'inf' 'Galaxy' 'G'],Eli Gendreau-Distler (UC Berkeley),No
