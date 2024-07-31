@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024qpt,14:19:14.307,-26:28:02.24,2024-07-30 08:58:24.096,2024-07-31,19.2,ABMag,L - GOTO,8.27516641834164,inf,G,999,0.0,0.0,['214.808' '-26.4655' 'G' '0.0' '0.0' '8.27516641834164' 'inf'],M. Kennedy,No
