@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024qxm,11:13:20.033,+40:34:38.38,2024-07-16 04:15:40.000,2024-08-03,19.9264,ABMag,r - ZTF,0.6702015764497423,inf,Galaxy,-inf,inf,inf,['168.33325' '40.577247' 'Galaxy' 'inf' 'inf' '0.6702015764497423' 'inf'],Daniel Perley (LJMU),No
+2024qwg,15:16:50.488,+65:13:19.99,2024-07-28 05:51:45.999,2024-08-03,20.1746,ABMag,g - ZTF,7.9152393644771974,inf,Galaxy,-inf,inf,inf,['229.215611' '65.222278' 'Galaxy' 'inf' 'inf' '7.9152393644771974' 'inf'],Jesper Sollerman (SU),No
