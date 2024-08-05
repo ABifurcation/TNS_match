@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024red,22:50:58.997,-18:50:38.41,2024-07-30 12:13:14.016,2024-08-05,19.82,ABMag,w - P1,8.775461738394272,inf,Galaxy,-inf,inf,inf,['342.74343' '-18.843096' 'Galaxy' 'inf' 'inf' '8.775461738394272' 'inf'],K. C. Chambers,No
