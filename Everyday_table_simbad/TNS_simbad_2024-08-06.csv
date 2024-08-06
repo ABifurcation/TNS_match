@@ -1,0 +1,11 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024rka,13:02:52.470,+57:48:37.55,2024-08-01 09:33:07.200,2024-08-06,18.9,ABMag,G - Gaia,0.07,Blazar,7C 130046.50+580438.00,['7C 130046.50+580438.00' '195.719' '57.81' '0.07' 'inf' 'Blazar' 'Bla'],S.T. Hodgkin,Yes
+2018moe,13:47:20.371,+46:51:25.24,2018-05-12 05:54:11.808,2024-08-06,20.81,ABMag,r - ZTF,0.173,Galaxy,SDSSCGB 63955.3,['SDSSCGB 63955.3' '206.835' '46.857' '0.173' 'inf' 'Galaxy' 'G'],Alina Volnova (IKI RAS) and Maria Pruzhinskaya (LPC) on behalf of the SNAD team,No
+2024rks,00:43:56.096,-01:35:30.36,2024-08-05 10:35:18.000,2024-08-06,19.652,ABMag,g - ZTF,0.365,Galaxy,LEDA 1115107,['LEDA 1115107' '10.984' '-1.592' '0.365' 'inf' 'Galaxy' 'G'],I. Pérez-Fournon,Yes
+2024rjp,21:02:04.081,-16:54:27.00,2024-08-03 07:01:42.240,2024-08-06,18.1915,ABMag,r - ZTF,1.096,Seyfert2,LEDA 3934737,['LEDA 3934737' '315.517' '-16.908' '1.096' 'inf' 'Seyfert2' 'Sy2'],K. De (Caltech) on behalf of ZTF,No
+2024rjs,18:10:44.307,+37:01:42.94,2024-08-03 05:50:38.996,2024-08-06,19.9937,ABMag,g - ZTF,1.283,Galaxy,LEDA 2091565,['LEDA 2091565' '272.684' '37.029' '1.283' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),No
+2024rkr,22:22:58.456,-08:38:53.97,2024-08-05 09:02:47.000,2024-08-06,19.727,ABMag,r - ZTF,3.626,Galaxy,2MASX J22225854-0838568,['2MASX J22225854-0838568' '335.744' '-8.649' '3.626' 'inf' 'Galaxy' 'G'],I. Pérez-Fournon,Yes
+2024rkt,13:54:23.900,+13:32:06.11,2024-08-05 04:10:25.000,2024-08-06,19.057,ABMag,g - ZTF,3.785,Galaxy,LEDA 1433538,['LEDA 1433538' '208.599' '13.535' '3.785' 'inf' 'Galaxy' 'G'],I. Pérez-Fournon,Yes
+2024rkj,03:31:27.129,-00:42:42.54,2024-08-01 14:33:37.152,2024-08-06,20.23,ABMag,i - P1,5.598,EmissionG,SDSS J033127.49-004243.8,"['SDSS J033127.49-004243.8' '52.865' '-0.712' '5.598' 'inf' 'EmissionG'
+ 'EmG']",D. O. Jones (UC Santa Cruz),Yes
+2024rkd,23:08:56.676,+03:14:04.16,2024-08-05 08:29:25.995,2024-08-06,19.4941,ABMag,g - ZTF,5.864,Galaxy,AGC 337046,['AGC 337046' '347.235' '3.233' '5.864' '5.041' 'Galaxy' 'G'],Jesper Sollerman (SU),No
