@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024rqc,20:18:44.723,-13:42:50.10,2024-07-28 08:22:21.002,2024-08-09,20.1134,ABMag,r - ZTF,0.5554183749347913,inf,G,999,0.0,0.0,['304.686371' '-13.714069' 'G' '0.0' '0.0' '0.5554183749347913' 'inf'],Daniel Perley (LJMU),No

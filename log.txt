@@ -3876,3 +3876,12 @@ zero match within 10 arcsec to GC in 2024-08-08
 --------running start at 2024-08-08  12:00:04--------
 The previous github connection failed
 --------running end at 2024-08-08  12:00:07--------
+--------running start at 2024-08-08  18:00:04--------
+today matching already finished and uploaded
+--------running end at 2024-08-08  18:00:07--------
+--------running start at 2024-08-09  09:00:04--------
+1 match within 10 arcsec to GLADE in 2024-08-09 
+zero match within 10 arcsec to GC in 2024-08-09
+zero match within 10 arcsec to SDSSDR16 in 2024-08-09
+5 match within 10 arcsec to simbad in 2024-08-09 
+--------running end at 2024-08-09  09:01:34--------

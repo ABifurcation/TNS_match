@@ -1,0 +1,6 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024rqe,13:25:04.281,+70:51:59.45,2024-07-09 22:28:08.544,2024-08-09,19.55,ABMag,L - GOTO,0.679,Galaxy,LEDA 2739019,['LEDA 2739019' '201.267' '70.867' '0.679' 'inf' 'Galaxy' 'G'],A. Kumar,No
+2024rqm,02:00:53.595,-08:16:21.02,2024-08-03 10:39:21.000,2024-08-09,20.349,ABMag,g - ZTF,0.823,Galaxy,SDSS J020053.63-081621.5,['SDSS J020053.63-081621.5' '30.223' '-8.273' '0.823' 'inf' 'Galaxy' 'G'],I. Pérez-Fournon,Yes
+2024rqn,02:29:50.550,-12:32:41.24,2024-08-08 16:14:04.416,2024-08-09,19.65,ABMag,L - GOTO,2.814,Galaxy,LEDA  951261,['LEDA  951261' '37.46' '-12.545' '2.814' 'inf' 'Galaxy' 'G'],A. Kumar,No
+2024rqh,00:37:23.862,-25:10:12.84,2024-08-07 15:23:00.672,2024-08-09,18.96,ABMag,L - GOTO,4.459,Seyfert2,LEDA  781925,['LEDA  781925' '9.348' '-25.169' '4.459' 'inf' 'Seyfert2' 'Sy2'],A. Kumar,No
+2024rpt,23:06:10.458,-19:50:14.14,2024-08-07 16:08:41.280,2024-08-09,19.73,ABMag,L - GOTO,9.271,Galaxy,LEDA  849792,['LEDA  849792' '346.545' '-19.839' '9.271' 'inf' 'Galaxy' 'G'],A. Kumar,No
