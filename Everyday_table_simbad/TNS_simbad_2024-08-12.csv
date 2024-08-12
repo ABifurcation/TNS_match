@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024rxb,15:47:05.839,+28:19:01.91,2024-08-06 04:54:39.003,2024-08-12,20.1562,ABMag,g - ZTF,0.119,Galaxy,2MASX J15470586+2819011,['2MASX J15470586+2819011' '236.774' '28.317' '0.119' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),Yes
+2024rwu,03:56:36.472,+14:12:45.93,2024-08-03 10:26:10.003,2024-08-12,18.9176,ABMag,r - ZTF,1.015,Galaxy,LEDA 1452190,['LEDA 1452190' '59.152' '14.212' '1.015' 'inf' 'Galaxy' 'G'],Kate Bostow (UC Berkeley),No
+2024rxa,23:15:26.132,+22:44:31.91,2024-08-07 07:47:26.001,2024-08-12,20.0878,ABMag,g - ZTF,1.129,Galaxy,2MASX J23152620+2244319,['2MASX J23152620+2244319' '348.859' '22.742' '1.129' 'inf' 'Galaxy' 'G'],Eli Gendreau-Distler (UC Berkeley),No
+2024rxv,02:58:43.939,+25:45:25.76,2024-08-02 09:52:30.144,2024-08-12,20.7051,ABMag,r - ZTF,4.042,RadioG,UGC  2445,['UGC  2445' '44.683' '25.758' '4.042' '1.963' 'RadioG' 'rG'],K. De (Caltech) on behalf of ZTF,No
