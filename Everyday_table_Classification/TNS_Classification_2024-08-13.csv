@@ -1,0 +1,10 @@
+TNS_ID,RA,DEC,ReportDate,Classification,Redshift,TimeReceived,Classifier
+2024rak,23:48:49.320,+02:14:58.45,2024-08-13,SN II,0.03,2024-08-12 12:50:01,Atlas Syncatto (University of Hawaii) on behalf on the SCAT team
+2024qnw,02:48:50.752,-03:39:18.88,2024-08-13,SN Ib-pec,0.04,2024-08-12 14:39:50,Atlas Syncatto (University of Hawaii) on behalf of the SCAT team
+2024raf,23:29:35.167,+32:20:22.75,2024-08-13,SN II,0.06,2024-08-12 14:41:36,Atlas Syncatto (University of Hawaii) on behalf of the SCAT team
+2024rkh,02:38:41.968,-07:17:03.58,2024-08-13,SN Ia-91bg-like,0.07,2024-08-12 15:15:56,Atlas Syncatto (University of Hawaii) on behalf of the SCAT team
+2024rsl,22:28:23.423,+09:34:07.30,2024-08-13,SN Ia,0.07,2024-08-12 16:16:24,J.H. Terwel (TCD)
+2024qns,01:39:52.822,+23:39:09.65,2024-08-13,SN Ia,0.08,2024-08-12 18:13:15,J. Sollerman
+2024qud,21:59:31.694,+09:42:08.99,2024-08-13,SN Ia,0.13,2024-08-12 18:49:24,Sebastian Gomez (Harvard CfA)
+2024rwq,18:17:45.468,+43:24:57.17,2024-08-13,CV,0,2024-08-12 19:35:26,M. E. Huber (IfA
+2024rlu,01:02:13.205,+34:59:53.82,2024-08-13,SN Ia,0.0665,2024-08-12 19:49:58,J. Sollerman

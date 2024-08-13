@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024ryx,22:53:28.330,-03:51:06.25,2024-07-27 09:56:48.998,2024-08-13,20.2511,ABMag,g - ZTF,0.6398652113878303,inf,Galaxy,-inf,inf,inf,['343.368087' '-3.851908' 'Galaxy' 'inf' 'inf' '0.6398652113878303' 'inf'],Jesper Sollerman (SU),No
+2024rzh,07:27:29.130,+31:21:35.76,2024-08-10 12:04:47.003,2024-08-13,18.291,ABMag,r - ZTF,3.602081548856612,inf,Galaxy,-inf,inf,inf,['111.870278' '31.360285' 'Galaxy' 'inf' 'inf' '3.602081548856612' 'inf'],Nabeel Rehemtulla (CIERA,No
