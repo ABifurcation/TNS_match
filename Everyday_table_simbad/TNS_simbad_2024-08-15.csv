@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter,SDSS_image
+2024sev,01:54:05.147,+13:17:35.86,2024-08-08 09:51:31.000,2024-08-15,20.301,ABMag,g - ZTF,0.71,Galaxy,SDSSCGB 30375.1,['SDSSCGB 30375.1' '28.522' '13.293' '0.71' 'inf' 'Galaxy' 'G'],Galaxy,SDSSCGB 30375.2,['SDSSCGB 30375.2' '28.52' '13.291' '9.263' 'inf' 'Galaxy' 'G'],I. Pérez-Fournon,No
+2024sem,00:10:34.779,-15:39:19.05,2024-07-31 10:30:36.000,2024-08-15,20.069,ABMag,g - ZTF,6.196,Galaxy,2dFGRS TGS904Z056,['2dFGRS TGS904Z056' '2.647' '-15.656' '6.196' 'inf' 'Galaxy' 'G'],,,,I. Pérez-Fournon,No
+2024sek,21:55:54.071,-09:41:21.20,2024-08-14 09:57:31.000,2024-08-15,19.184,ABMag,r - ZTF,8.05,Galaxy,LEDA  987780,['LEDA  987780' '328.977' '-9.688' '8.05' 'inf' 'Galaxy' 'G'],,,,I. Pérez-Fournon,No
+2024sej,22:01:23.458,-08:21:21.78,2024-08-09 08:01:40.998,2024-08-15,19.8464,ABMag,g - ZTF,9.072,Galaxy,2MASX J22012283-0821215,['2MASX J22012283-0821215' '330.345' '-8.356' '9.072' 'inf' 'Galaxy' 'G'],,,,Jesper Sollerman (SU),Yes
