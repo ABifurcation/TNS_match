@@ -1,0 +1,12 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Reporter,SDSS_image
+2021aice,20:44:39.460,-20:32:05.64,2021-07-13 10:02:58.272,2024-08-16,17.427,ABMag,r - ZTF,0.143,EmissionG,ESO 597-33,['ESO 597-33' '311.164' '-20.535' '0.143' '0.072' 'EmissionG' 'EmG'],,,,K. De (Caltech) on behalf of ZTF,No
+2018mom,16:47:00.758,+39:03:39.39,2018-05-20 08:58:51.744,2024-08-16,19.664,ABMag,g - ZTF,1.41,PartofG,[BKD2008] WR 124,['[BKD2008] WR 124' '251.753' '39.061' '1.41' 'inf' 'PartofG' 'PoG'],Seyfert1,LEDA   97540,['LEDA   97540' '251.753' '39.061' '1.518' 'inf' 'Seyfert1' 'Sy1'],K. De (Caltech) on behalf of ZTF,Yes
+2024sfj,13:23:21.260,-19:15:22.67,2024-08-15 00:14:11.040,2024-08-16,18.039,ABMag,orange - ATLAS,1.471,EmissionG,2MASX J13232124-1915209,"['2MASX J13232124-1915209' '200.839' '-19.256' '1.471' 'inf' 'EmissionG'
+ 'EmG']",,,,J. Tonry,No
+2024sfb,05:26:54.894,+04:28:08.87,2024-08-13 10:00:52.128,2024-08-16,18.4,ABMag,cyan - ATLAS,3.689,GtowardsCl,2MASX J05265500+0428123,"['2MASX J05265500+0428123' '81.729' '4.47' '3.689' 'inf' 'GtowardsCl'
+ 'GiC']",,,,J. Tonry,No
+2024sfx,02:08:43.800,-16:13:01.85,2024-08-15 09:41:36.000,2024-08-16,19.0711,ABMag,g - ZTF,4.7,Galaxy,LEDA  900998,['LEDA  900998' '32.181' '-16.217' '4.7' 'inf' 'Galaxy' 'G'],,,,Jesper Sollerman (SU),No
+2024sfd,13:16:05.765,-25:41:22.97,2024-08-14 23:21:52.128,2024-08-16,18.127,ABMag,orange - ATLAS,5.351,Galaxy,LEDA  776121,['LEDA  776121' '199.025' '-25.691' '5.351' 'inf' 'Galaxy' 'G'],,,,J. Tonry,No
+2024sfc,03:08:49.982,-47:21:19.58,2024-08-14 07:49:45.408,2024-08-16,19.249,ABMag,cyan - ATLAS,5.463,Galaxy,LEDA  502687,['LEDA  502687' '47.206' '-47.356' '5.463' 'inf' 'Galaxy' 'G'],,,,J. Tonry,No
+2024sfg,03:34:46.784,+20:47:17.87,2024-08-14 14:38:31.776,2024-08-16,18.878,ABMag,orange - ATLAS,7.261,Galaxy,LEDA 1635901,['LEDA 1635901' '53.693' '20.787' '7.261' 'inf' 'Galaxy' 'G'],,,,J. Tonry,No
+2024sfk,01:43:26.252,+16:58:21.83,2024-08-14 13:19:30.144,2024-08-16,19.147,ABMag,orange - ATLAS,7.672,Galaxy,LEDA   93851,['LEDA   93851' '25.86' '16.975' '7.672' '4.203' 'Galaxy' 'G'],,,,J. Tonry,No
