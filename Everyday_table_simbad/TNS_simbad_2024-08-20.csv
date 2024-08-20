@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024sku,14:12:05.411,-07:50:18.44,2024-08-18 06:13:47.712,2024-08-20,17.747,ABMag,orange - ATLAS,2.501,Seyfert2,LEDA 1012213,['LEDA 1012213' '213.023' '-7.839' '2.501' 'inf' 'Seyfert2' 'Sy2'],J. Tonry,No
+2024skv,03:31:35.811,-07:29:50.10,2024-08-16 14:16:24.672,2024-08-20,18.892,ABMag,orange - ATLAS,2.849,EmissionG,LEDA 1017981,['LEDA 1017981' '52.899' '-7.498' '2.849' 'inf' 'EmissionG' 'EmG'],J. Tonry,Yes
+2024skt,23:46:12.468,-75:16:24.94,2024-08-16 00:15:00.288,2024-08-20,18.301,ABMag,orange - ATLAS,4.905,EmissionG,ESO  28-2,['ESO  28-2' '356.55' '-75.275' '4.905' 'inf' 'EmissionG' 'EmG'],J. Tonry,No
+2024sla,01:16:41.789,-33:20:23.11,2024-08-07 15:13:27.840,2024-08-20,18.71,ABMag,L - GOTO,7.835,Galaxy,APMBGC 352-026-078,['APMBGC 352-026-078' '19.177' '-33.34' '7.835' 'inf' 'Galaxy' 'G'],T. Killestein,No
