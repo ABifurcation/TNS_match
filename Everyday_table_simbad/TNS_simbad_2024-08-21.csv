@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024slh,19:38:25.752,+67:44:26.16,2024-08-19 21:51:26.000,2024-08-21,18,ABMag,r - Sloan,0.203,Galaxy,2MASX J19382577+6744257,['2MASX J19382577+6744257' '294.607' '67.741' '0.203' 'inf' 'Galaxy' 'G'],J. Hernández-Fuertes,No
