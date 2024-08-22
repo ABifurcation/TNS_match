@@ -1,0 +1,4 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024slq,07:22:13.603,+28:09:14.11,2024-08-18 11:56:21.001,2024-08-22,19.2437,ABMag,r - ZTF,1.288,Galaxy,LEDA 1827828,['LEDA 1827828' '110.557' '28.154' '1.288' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),No
+2024sln,15:54:58.918,+42:06:18.94,2024-08-21 04:20:39.998,2024-08-22,18.791,ABMag,g - ZTF,2.288,Galaxy,LEDA 2192485,['LEDA 2192485' '238.746' '42.105' '2.288' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),Yes
+2024sll,16:32:18.119,+49:50:56.04,2024-08-14 04:46:37.997,2024-08-22,20.7104,ABMag,r - ZTF,5.637,Galaxy,MCG+08-30-022,['MCG+08-30-022' '248.078' '49.849' '5.637' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),No
