@@ -1,0 +1,5 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024sqv,16:05:09.300,-00:11:47.62,2024-08-03 07:02:14.208,2024-08-25,21.11,ABMag,w - P1,1.476,Galaxy,SDSS J160509.33-001146.2,['SDSS J160509.33-001146.2' '241.289' '-0.196' '1.476' 'inf' 'Galaxy' 'G'],K. C. Chambers,Yes
+2024spj,00:55:15.243,+08:14:52.02,2024-08-16 12:54:50.112,2024-08-25,19.84,ABMag,w - P1,5.476,Galaxy,LAMOST J005515.37+081457.0,['LAMOST J005515.37+081457.0' '13.814' '8.249' '5.476' 'inf' 'Galaxy' 'G'],K. C. Chambers,No
+2024srm,16:20:20.967,+21:32:33.55,2024-08-22 06:13:12.996,2024-08-25,20.1503,ABMag,r - ZTF,6.011,Galaxy,SDSS J162021.11+213239.2,['SDSS J162021.11+213239.2' '245.088' '21.544' '6.011' 'inf' 'Galaxy' 'G'],F. Forster,Yes
+2024spu,19:09:51.549,+42:21:57.74,2024-08-15 08:13:13.995,2024-08-25,20.472,ABMag,g - ZTF,7.713,Galaxy,LEDA 2197419,['LEDA 2197419' '287.462' '42.365' '7.713' 'inf' 'Galaxy' 'G'],Eli Gendreau-Distler (UC Berkeley),No
