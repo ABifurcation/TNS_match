@@ -1,0 +1,16 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Gal_2_type,Gal_2_name,Gal_2_info,Gal_3_type,Gal_3_name,Gal_3_info,Reporter,SDSS_image
+2024uln,04:52:15.324,+21:03:03.75,2024-08-25 10:54:16.997,2024-09-04,18.8315,ABMag,r - ZTF,0.34,Blazar,FL8Y J0452.0+2059,['FL8Y J0452.0+2059' '73.064' '21.051' '0.34' 'inf' 'Blazar' 'Bla'],,,,,,,Daniel Perley (LJMU),No
+2024ulr,23:58:46.616,-07:42:10.11,2024-09-02 07:14:20.002,2024-09-04,19.4397,ABMag,g - ZTF,0.921,Galaxy,LEDA 1014427,['LEDA 1014427' '359.694' '-7.703' '0.921' 'inf' 'Galaxy' 'G'],,,,,,,Daniel Perley (LJMU),Yes
+2024ukm,08:00:37.303,+15:52:08.94,2024-09-02 12:04:27.001,2024-09-04,18.3202,ABMag,r - ZTF,1.119,Galaxy,LEDA 1495234,['LEDA 1495234' '120.156' '15.869' '1.119' 'inf' 'Galaxy' 'G'],,,,,,,Nabeel Rehemtulla (CIERA,Yes
+2024ulb,01:23:48.883,-15:42:35.74,2024-09-01 06:38:53.664,2024-09-04,18.313,ABMag,orange - ATLAS,1.225,Galaxy,2MASX J01234900-1542350,['2MASX J01234900-1542350' '20.954' '-15.71' '1.225' '1.023' 'Galaxy' 'G'],,,,,,,J. Tonry,No
+2024umi,00:01:04.431,-39:52:10.97,2024-07-29 13:18:40.032,2024-09-04,20.74,ABMag,w - P1,1.301,Galaxy,LEDA 2794840,['LEDA 2794840' '0.269' '-39.87' '1.301' 'inf' 'Galaxy' 'G'],,,,,,,K. C. Chambers,No
+2024umt,00:55:16.965,-36:32:32.80,2024-07-27 14:22:55.200,2024-09-04,18.61,ABMag,w - P1,1.433,Galaxy,LEDA  635528,['LEDA  635528' '13.82' '-36.543' '1.433' 'inf' 'Galaxy' 'G'],,,,,,,K. C. Chambers,No
+2024ulf,08:15:26.204,+22:53:08.57,2024-09-01 12:15:43.997,2024-09-04,19.7316,ABMag,r - ZTF,1.441,GtowardsCl,DES J081526.30+225308.1,"['DES J081526.30+225308.1' '123.86' '22.886' '1.441' 'inf' 'GtowardsCl'
+ 'GiC']",,,,,,,Daniel Perley (LJMU),No
+2024uml,22:18:31.036,-28:14:49.60,2024-08-27 09:47:38.112,2024-09-04,21.32,ABMag,w - P1,3.504,Galaxy,2dFGRS TGS255Z126,['2dFGRS TGS255Z126' '334.63' '-28.248' '3.504' 'inf' 'Galaxy' 'G'],,,,,,,K. C. Chambers,No
+2024ukg,14:47:59.811,+29:45:22.55,2024-09-01 04:17:51.000,2024-09-04,19.7143,ABMag,r - ZTF,3.599,Galaxy,SDSS J144759.66+294525.5,['SDSS J144759.66+294525.5' '221.999' '29.757' '3.599' 'inf' 'Galaxy' 'G'],,,,,,,Jesper Sollerman (SU),Yes
+2024umc,15:22:50.998,+06:51:42.23,2024-09-03 03:35:45.001,2024-09-04,19.7986,ABMag,r - ZTF,3.942,Galaxy,LEDA 1308931,['LEDA 1308931' '230.712' '6.861' '3.942' 'inf' 'Galaxy' 'G'],,,,,,,A. Munoz-Arancibia,Yes
+2024ula,23:26:07.841,-38:06:25.19,2024-09-01 10:52:39.936,2024-09-04,19.06,ABMag,L - GOTO,4.106,InteractingG,ESO 347-14,['ESO 347-14' '351.533' '-38.108' '4.106' 'inf' 'InteractingG' 'IG'],GinPair,LCRS B232326.1-382300,['LCRS B232326.1-382300' '351.533' '-38.108' '4.855' 'inf' 'GinPair' 'GiP'],EmissionG,6dFGS gJ232608.3-380625,"['6dFGS gJ232608.3-380625' '351.534' '-38.107' '4.893' 'inf' 'EmissionG'
+ 'EmG']",A. Kumar,No
+2024umd,16:01:04.741,+48:45:36.35,2024-08-28 04:11:42.996,2024-09-04,20.7131,ABMag,g - ZTF,6.287,Galaxy,LEDA 2324988,['LEDA 2324988' '240.272' '48.759' '6.287' 'inf' 'Galaxy' 'G'],,,,,,,A. Munoz-Arancibia,Yes
+2024ukn,08:41:35.185,+42:11:35.76,2024-09-02 12:03:03.997,2024-09-04,19.1984,ABMag,r - ZTF,7.807,Galaxy,2MASX J08413498+4211428,['2MASX J08413498+4211428' '130.396' '42.195' '7.807' 'inf' 'Galaxy' 'G'],,,,,,,Jesper Sollerman (SU),Yes
