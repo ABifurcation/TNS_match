@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024utp,23:53:20.500,-22:15:17.13,2024-09-02 11:41:07.296,2024-09-06,19.66,ABMag,r - P1,5.658276338453682,inf,G,999,0.0,0.0,['358.337' '-22.25419' 'G' '0.0' '0.0' '5.658276338453682' 'inf'],D. O. Jones (UC Santa Cruz),No
+2024uqs,22:43:08.463,-02:42:33.55,2024-08-27 09:56:57.984,2024-09-06,20.96,ABMag,w - P1,9.694703009494095,inf,G,999,0.0,0.0,['340.784' '-2.70694' 'G' '0.0' '0.0' '9.694703009494095' 'inf'],K. C. Chambers,No
