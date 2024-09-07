@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024uvm,01:39:00.385,-11:55:05.36,2024-08-31 13:05:28.608,2024-09-07,20.58,ABMag,w - P1,6.321940898605713,inf,G,999,0.0,0.0,['24.7505' '-11.91954' 'G' '0.0' '0.0' '6.321940898605713' 'inf'],K. C. Chambers,No
+2024uur,04:49:52.779,+56:13:44.19,2024-09-01 11:45:19.999,2024-09-07,21.0374,ABMag,g - ZTF,8.530033290778755,inf,G,999,0.0,0.0,['72.4695' '56.2313' 'G' '0.0' '0.0' '8.530033290778755' 'inf'],A. Munoz-Arancibia,No
