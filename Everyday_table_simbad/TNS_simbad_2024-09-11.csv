@@ -1,0 +1,6 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024vdq,23:54:21.064,-22:33:11.61,2024-09-08 11:12:31.392,2024-09-11,20.57,ABMag,g - P1,2.756,Galaxy,LEDA  812463,['LEDA  812463' '358.587' '-22.553' '2.756' 'inf' 'Galaxy' 'G'],D. O. Jones (UC Santa Cruz),No
+2024vdu,02:17:52.502,-09:47:51.06,2024-09-09 06:45:25.056,2024-09-11,18.878,ABMag,orange - ATLAS,3.144,Seyfert2,LEDA  986293,['LEDA  986293' '34.469' '-9.798' '3.144' 'inf' 'Seyfert2' 'Sy2'],J. Tonry,Yes
+2024vec,04:07:19.739,-53:31:21.54,2024-08-22 16:03:49.248,2024-09-11,19.03,ABMag,L - GOTO,3.897,Galaxy,LEDA  429073,['LEDA  429073' '61.831' '-53.523' '3.897' 'inf' 'Galaxy' 'G'],A. Kumar,No
+2024ver,02:43:50.188,-04:29:15.09,2024-09-10 13:17:26.592,2024-09-11,20.81,ABMag,g - P1,5.588,Seyfert2,LEDA 1057513,['LEDA 1057513' '40.961' '-4.488' '5.588' 'inf' 'Seyfert2' 'Sy2'],D. O. Jones (UC Santa Cruz),No
+2024vea,21:44:05.385,-44:30:11.16,2024-09-10 09:34:31.872,2024-09-11,19.15,ABMag,L - GOTO,7.071,Galaxy,2MASX J21440508-4430174,['2MASX J21440508-4430174' '326.021' '-44.505' '7.071' 'inf' 'Galaxy' 'G'],K. Ulaczyk,No
