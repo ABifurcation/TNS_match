@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024vhm,18:16:35.957,+39:29:03.85,2024-09-12 06:12:10.002,2024-09-13,19.9534,ABMag,r - ZTF,1.1916592103189307,inf,G,999,0.0,0.0,['274.149475' '39.484207' 'G' '0.0' '0.0' '1.1916592103189307' 'inf'],A. Munoz-Arancibia,No
