@@ -1,0 +1,11 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024vip,05:20:50.109,-20:32:32.23,2024-09-11 11:09:29.001,2024-09-14,19.7964,ABMag,r - ZTF,0.194,Galaxy,Gaia DR3 2969002250532776832,"['Gaia DR3 2969002250532776832' '80.209' '-20.542' '0.194' 'inf' 'Galaxy'
+ 'G']",Jesper Sollerman (SU),No
+2024vil,00:41:55.140,-05:20:18.13,2024-09-06 07:56:37.000,2024-09-14,19.8658,ABMag,g - ZTF,0.666,Galaxy,LEDA 1046079,['LEDA 1046079' '10.48' '-5.339' '0.666' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),Yes
+2024vjb,04:27:39.785,-05:46:59.41,2024-09-11 12:00:00.000,2024-09-14,17.5,ABMag,g - Sloan,2.187,Galaxy,LEDA  146318,['LEDA  146318' '66.916' '-5.784' '2.187' '1.894' 'Galaxy' 'G'],K. Z. Stanek,No
+2024vit,08:19:48.130,+08:09:10.29,2024-09-11 12:18:50.000,2024-09-14,19.5598,ABMag,r - ZTF,2.596,Galaxy,2MASX J08194831+0809118,['2MASX J08194831+0809118' '124.951' '8.153' '2.596' 'inf' 'Galaxy' 'G'],A. Munoz-Arancibia,Yes
+2024vio,01:29:24.685,-52:34:18.15,2024-08-31 12:46:21.216,2024-09-14,19.14,ABMag,L - GOTO,3.575,Seyfert2,LEDA   89901,['LEDA   89901' '22.354' '-52.572' '3.575' 'inf' 'Seyfert2' 'Sy2'],A. Kumar,No
+2024vin,07:25:39.161,+59:40:32.24,2024-09-11 10:52:12.002,2024-09-14,20.0129,ABMag,i - ZTF,3.705,Galaxy,LEDA 2593051,['LEDA 2593051' '111.411' '59.675' '3.705' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),No
+2024vic,14:23:05.879,+05:42:00.57,2024-09-12 03:02:20.996,2024-09-14,18.6303,ABMag,r - ZTF,6.353,Galaxy,LEDA 1287689,['LEDA 1287689' '215.775' '5.702' '6.353' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),Yes
+2024vim,07:57:32.008,+59:05:08.10,2024-09-13 10:53:26.592,2024-09-14,17.3046,ABMag,g - ZTF,7.244,GtowardsGroup,UGC  4108,['UGC  4108' '119.386' '59.084' '7.244' '3.159' 'GtowardsGroup' 'GiG'],K. De (Caltech) on behalf of ZTF,No
+2024vix,22:37:08.291,-24:41:14.27,2024-09-09 14:22:30.144,2024-09-14,20.1,ABMag,L - GOTO,7.695,Galaxy,ESO 534-5,['ESO 534-5' '339.283' '-24.689' '7.695' 'inf' 'Galaxy' 'G'],A. Kumar,No

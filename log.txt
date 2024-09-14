@@ -4305,3 +4305,15 @@ zero match within 10 arcsec to GC in 2024-09-13
 zero match within 10 arcsec to SDSSDR16 in 2024-09-13
 8 match within 10 arcsec to simbad in 2024-09-13 
 --------running end at 2024-09-13  09:02:58--------
+--------running start at 2024-09-13  12:00:03--------
+today matching already finished and uploaded
+--------running end at 2024-09-13  12:00:07--------
+--------running start at 2024-09-13  18:00:15--------
+today matching already finished and uploaded
+--------running end at 2024-09-13  18:00:19--------
+--------running start at 2024-09-14  09:00:12--------
+zero match within 10 arcsec to GLADE in 2024-09-14
+zero match within 10 arcsec to GC in 2024-09-14
+zero match within 10 arcsec to SDSSDR16 in 2024-09-14
+9 match within 10 arcsec to simbad in 2024-09-14 
+--------running end at 2024-09-14  09:02:37--------
