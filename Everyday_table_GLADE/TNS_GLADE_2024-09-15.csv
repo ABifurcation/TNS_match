@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024vjq,22:35:52.544,-15:39:08.19,2024-09-11 08:13:56.997,2024-09-15,20.0284,ABMag,r - ZTF,1.3341676511811034,inf,G,999,0.0,0.0,['338.969' '-15.65191' 'G' '0.0' '0.0' '1.3341676511811034' 'inf'],Jesper Sollerman (SU),No
