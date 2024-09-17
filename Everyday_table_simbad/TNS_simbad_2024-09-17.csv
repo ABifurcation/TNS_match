@@ -1,0 +1,10 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Gal_1_type,Gal_1_name,Gal_1_info,Reporter,SDSS_image
+2024vlh,23:44:59.809,+19:45:08.37,2024-09-08 08:28:55.004,2024-09-17,19.364,ABMag,g - ZTF,0.033,Galaxy,LAMOST J234459.81+194508.3,"['LAMOST J234459.81+194508.3' '356.249' '19.752' '0.033' 'inf' 'Galaxy'
+ 'G']",Nabeel Rehemtulla (CIERA,No
+2024vlu,17:21:08.006,-70:02:46.72,2024-09-15 01:53:17.088,2024-09-17,18.388,ABMag,orange - ATLAS,0.902,Galaxy,LEDA  275699,['LEDA  275699' '260.283' '-70.046' '0.902' 'inf' 'Galaxy' 'G'],J. Tonry,No
+2024vlm,02:46:48.613,-23:26:44.05,2024-09-11 10:01:57.999,2024-09-17,19.588,ABMag,g - ZTF,1.556,Galaxy,LEDA  800783,['LEDA  800783' '41.702' '-23.446' '1.556' 'inf' 'Galaxy' 'G'],Pallas Andrew Beddow (UC Berkeley),No
+2024vlx,03:16:39.126,-74:25:48.05,2024-09-15 07:41:58.848,2024-09-17,18.616,ABMag,orange - ATLAS,2.875,Galaxy,LEDA  250152,['LEDA  250152' '49.166' '-74.43' '2.875' 'inf' 'Galaxy' 'G'],J. Tonry,No
+2024vlt,05:49:14.056,-34:18:45.36,2024-09-14 02:18:53.280,2024-09-17,18.778,ABMag,cyan - ATLAS,3.835,Galaxy,LEDA  664125,['LEDA  664125' '87.31' '-34.312' '3.835' 'inf' 'Galaxy' 'G'],J. Tonry,No
+2024vlg,23:58:05.982,-00:59:14.37,2024-09-13 08:05:18.000,2024-09-17,19.7809,ABMag,g - ZTF,4.739,Galaxy,LEDA 1129694,['LEDA 1129694' '359.526' '-0.987' '4.739' 'inf' 'Galaxy' 'G'],Jesper Sollerman (SU),Yes
+2024vlo,15:39:29.702,-06:56:46.69,2024-09-16 09:06:47.808,2024-09-17,19.09,ABMag,L - GOTO,6.879,EmissionG,6dFGS gJ153929.3-065643,"['6dFGS gJ153929.3-065643' '234.872' '-6.945' '6.879' 'inf' 'EmissionG'
+ 'EmG']",A. Kumar,No
