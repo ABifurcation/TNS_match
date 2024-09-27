@@ -1,0 +1,3 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024wpt,01:56:55.128,+22:05:05.46,2024-09-23 09:36:44.004,2024-09-27,20.2008,ABMag,r - ZTF,0,['m4992'],['01:54:36'],['+21:39:54'],[],[],A. Munoz-Arancibia
+2024wqo,23:30:34.778,+23:31:14.68,2024-09-25 07:12:05.000,2024-09-27,20.422,ABMag,g - ZTF,0,['m5290'],['23:27:45'],['+23:01:42'],[],[], C. Jaén-Martín (ULL)
