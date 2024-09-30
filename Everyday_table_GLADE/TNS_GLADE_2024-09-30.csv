@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024wwm,00:06:41.702,-11:49:50.29,2024-09-29 04:22:07.392,2024-09-30,19.264,ABMag,cyan - ATLAS,0.2642013501126483,inf,G,999,0.0,0.0,['1.6737' '-11.83059' 'G' '0.0' '0.0' '0.2642013501126483' 'inf'],J. Tonry,No
