@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024xab,21:20:33.326,-60:35:08.93,2024-10-01 10:16:07.968,2024-10-02,18.68,ABMag,L - GOTO,3.897407493513457,inf,G,999,0.0,0.0,['320.14' '-60.58674' 'G' '0.0' '0.0' '3.897407493513457' 'inf'],B. Godson,No
