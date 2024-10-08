@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Gal_match,miniST_name,miniST_RA,miniST_DEC,"GLADE_info [RA,DEC,Flag1,dist,z,sep(arcsec),sep(kpc)]","SDSS_info [RA,DEC,obj_class,dist,z,sep(arcsec),sep(kpc)]",Reporter
+2024xmf,20:23:53.560,+59:58:50.50,2024-10-06 16:05:15.648,2024-10-08,17.85,VegaMag,Clear - ,0,['m8617'],['20:26:13'],['+59:50:18'],[],[],Fei Du
