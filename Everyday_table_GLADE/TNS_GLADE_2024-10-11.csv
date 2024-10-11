@@ -1,0 +1,2 @@
+TNS_ID,RA,DEC,DiscoveryDate,ReportDate,Mag,MagUnit,Filter,Sep_arcsec,Sep_kpc,Gal_1_type,Gal_1_ABS_Mag,Gal_1_dist,Gal_1_z,Gal_1_info,Reporter,SDSS_image
+2024xti,05:35:26.963,-28:44:27.50,2024-10-10 14:07:26.400,2024-10-11,19.34,ABMag,L - GOTO,4.653636499362559,inf,G,999,0.0,0.0,['83.861' '-28.7415' 'G' '0.0' '0.0' '4.653636499362559' 'inf'],A. Kumar,No
